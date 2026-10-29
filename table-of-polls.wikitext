@@ -1,0 +1,932 @@
+=== Table of polls ===
+{{row hover highlight}}
+{{sticky header}}
+{| class="wikitable sortable sticky-header mw-datatable" style="text-align:center;font-size:90%;line-height:14px;"
+|+
+|- style="background:#e8e8e8;height:35px;"
+! Date{{efn|These are the survey dates of the poll, or if the survey dates are not stated, the date the poll was released.|name="date"}}
+! Polling organisation
+! data-sort-type="number" | Sample size
+! style="background-color:#B0CEFF;width:40px" | [[New Zealand National Party|NAT]]
+! style="background-color:#FFB6B6;width:40px" | [[New Zealand Labour Party|LAB]]
+! style="background-color:#90EE90;width:40px" | [[Green Party of Aotearoa New Zealand|GRN]]
+! style="background-color:#FFFF00;width:40px" | [[ACT New Zealand|ACT]]
+! style="background-color:#D3D3D3;width:40px" | [[New Zealand First|NZF]]
+! style="background-color:#BD9490;width:40px" | [[Te Pāti Māori|TPM]]
+! style="background-color:#32DAC3;width:40px" | [[Opportunity Party (New Zealand)|OPP]]
+!Others
+! data-sort-type="number" style="width:40px;" | Lead
+|-
+| data-sort-value="2026-10-26" |'''20–26 Oct 2026'''
+|[https://www.rnz.co.nz/news/politics_election-2026/2211553/rnz-reid-research-poll-national-below-disastrous-2020-result-as-opportunity-surges RNZ–Reid Research]
+| 1,000 || 24.8 ||  style="background:#FFB6B6;" | '''30.6''' || 14.5 || 10.1 || 9.9 || 1.9 || 7.2
+| 0.9 || style="background:#FFB6B6;" | '''5.8'''
+|-
+| data-sort-value="2026-10-26" style="background:#E8E8E8;" |'''26 Oct 2026'''
+| colspan=11 style="background:#E8E8E8;"  | '''[[Early voting|Advance voting]] begins for the [[2026 New Zealand general election]].'''
+|-
+| data-sort-value="2026-10-25" |'''21–25 Oct 2026'''
+|[https://www.1news.co.nz/2026/10/27/poll-coalition-has-path-to-power-but-labour-steady-after-gangs-row/ 1 News–Verian]
+| 1,000 || style="background:#B0CEFF;" | '''28.9'''  || 27.3 || 14.8 || 12.4 || 10 || 0.1 || 6.3 
+|0.2{{efn|[[Vision NZ]] 0.2%}}
+| style="background:#B0CEFF;" |'''1.6'''
+|-
+| data-sort-value="2026-10-19" |'''15–19 Oct 2026'''
+|[https://www.1news.co.nz/2026/10/20/poll-national-jumps-leaving-labours-position-perilous/ 1 News–Verian]
+| 1,003 || style="background:#B0CEFF;" | '''32'''  || 27 || 16 || 11 || 8 || 0.7 || 7 
+|0.7{{efn|[[Aotearoa Legalise Cannabis Party]] 0.2%<br>	
+[[Animal Justice Party Aotearoa New Zealand|Animal Justice Party]] 0.2%<br>
+[[Alliance (New Zealand political party)|Alliance]] 0.2%<br>
+[[Women's Rights Party]] 0.1%}}
+| style="background:#B0CEFF;" |'''5'''
+|-
+| data-sort-value="2026-10-19" |'''9–19 Oct 2026'''
+|[https://www.thepost.co.nz/politics/361101225/postfreshwater-strategy-poll-fraction-point-could-decide-who-governs The Post/Freshwater Strategy]
+| 1,458 || 27.6 || style="background:#FFB6B6;" | '''28.7''' || 14.3 || 9 || 11.8 || 2 || 5.4 || 1.2
+| style="background:#FFB6B6;" | '''1.1'''
+|-
+| data-sort-value="2026-10-12" |'''8–12 Oct 2026'''
+|[https://www.1news.co.nz/2026/10/13/poll-hipkins-and-luxon-now-neck-and-neck-opportunity-on-track-for-10-mps/ 1 News–Verian]
+| 1,007 || style="background:#B0CEFF;" | '''28'''  || style="background:#FFB6B6;" | '''28''' || 15 || 10 || 10 || 0.4 || 8 
+|1.6{{efn|[[Aotearoa Legalise Cannabis Party]] 0.5%<br>
+[[Free Palestine Party (New Zealand)|Free Palestine Party]] 0.3%<br>
+[[New Zealand Loyal|NZ Loyal]] 0.2%<br>
+[[Alliance (New Zealand political party)|Alliance]] 0.2%<br>
+[[Vision NZ]] 0.2%<br>
+[[Animal Justice Party Aotearoa New Zealand|Animal Justice Party]] 0.1%<br>
+[[NZ Outdoors & Freedom Party]] 0.1%}}
+|'''Tie'''
+|-
+| data-sort-value="2026-10-10" |'''6–10 Oct 2026'''
+|[https://www.thepost.co.nz/nz-news/361100468/labour-and-national-below-30-labours-pollster-tells-corporate-clients Anacta]
+| 1,352 || 28 || style="background:#FFB6B6;" | '''29''' || 15 || 9 || 10 || 1.9 || 5.4 || –
+| style="background:#FFB6B6;" | '''1'''
+|-
+| data-sort-value="2026-10-05" |'''1–5 Oct 2026'''
+|[https://www.taxpayers.org.nz/oct2026_nztucurpolljjhhfas Taxpayers' Union–Curia]
+| 1,000 || style="background:#B0CEFF;" | '''28.5''' || 28.2 || 13.3 || 9.2 || 12 || 1.4 || 4.8
+| 2.7{{efn|[[Women's Rights Party|Women's Rights]] 0.9%<br>
+[[Vision NZ]] 0.7%<br>
+[[Conservative Party NZ|Conservative]] 0.3%<br>
+[[New Zealand Loyal|NZ Loyal]] 0.3%<br>
+[[Te Tai Tokerau Party|Te Tai Tokerau]] 0.3%<br>
+[[Free Palestine Party (New Zealand)|Free Palestine Party]] 0.2%}} 
+| style="background:#B0CEFF;" | '''0.3'''
+|-
+| data-sort-value="2026-10-05" |'''1–5 Oct 2026'''
+|[https://www.1news.co.nz/2026/10/06/poll-opportunity-still-in-kingmaker-seat-as-greens-hold-strong/ 1 News–Verian]
+| 1,001 || style="background:#B0CEFF;" | '''29''' || 28 || 16 || 9 || 10 || 0.6 || 7
+|0.8{{Efn|[[New Zealand Loyal]] 0.5%<br>
+[[Women's Rights Party]] 0.2%<br>
+[[Animal Justice Party Aotearoa New Zealand|Animal Justice Party]] 0.1%}}
+| style="background:#B0CEFF;" | '''1'''
+|-
+| data-sort-value="2026-10-01" |'''24 Sep – 1 Oct 2026'''
+|[https://www.rnz.co.nz/news/politics_election-2026/1749693/rnz-reid-research-poll-national-crashes-greens-surge-opportunity-kingmaker RNZ–Reid Research]
+| 1,000 || 25.9 ||  style="background:#FFB6B6;" | '''30.8''' || 14.8 || 9 || 10.6 || 2 || 5.5
+| 0.7 || style="background:#FFB6B6;" | '''4.9'''
+|-
+| data-sort-value="2026-09-27" |'''23–27 Sep 2026'''
+| [https://www.1news.co.nz/2026/09/28/poll-greens-surge-to-best-result-ever-as-national-labour-slide-further/ 1 News–Verian]
+| 1,004 || style="background:#B0CEFF;" | '''28''' || style="background:#FFB6B6;" | '''28''' || 16 || 11 || 9 || 1.2 || 6
+|1{{Efn|[[NZ Outdoors & Freedom Party]] 0.3%<br>
+[[New Conservatives Party]] 0.2%<br>
+[[Vision NZ]] 0.2%<br>
+[[Aotearoa Legalise Cannabis Party]] 0.1%<br>
+[[Women's Rights Party]] 0.1%<br>
+[[Animal Justice Party Aotearoa New Zealand|Animal Justice Party]] 0.1%}}
+| '''Tie'''
+|-
+| data-sort-value="2026-09-27" |'''31 Aug – 27 Sep 2026'''
+|[https://www.roymorgan.com/findings/10351-nz-national-voting-intention-september-2026 Roy Morgan]
+| 859 || style="background:#B0CEFF;" | '''31''' || 23.5 || 16 || 11 || 10 || 2 || 6.5
+| 0 || style="background:#B0CEFF;" | '''7.5'''
+|-
+| data-sort-value="2026-09-11" |'''4–11 Sep 2026'''
+|[https://freshwaterstrategy.com/2026/09/15/the-post-freshwater-strategy-september-polling-data/ The Post/Freshwater Strategy]
+| 1,011 || 26.5 || style="background:#FFB6B6;" | '''28''' || 13.6 || 8.7 || 12.6 || 2.2 || 6.3
+| 2.1 || style="background:#FFB6B6;" | '''1'''
+|-
+| data-sort-value="2026-09-10" |'''4–10 Sep 2026'''
+|[https://www.nzherald.co.nz/nz/politics/labour-slumps-in-another-poll-but-still-ahead-of-national/HDUVF4SBJJHK3LYLGXLVLG3F7U/ Anacta]
+| 1,701 || 30 || style="background:#FFB6B6;" | '''31''' || 12 || 8 || 10 || 2 || 7
+| – || style="background:#FFB6B6;" | '''1'''
+|-
+| data-sort-value="2026-09-03" |'''1–3 Sep 2026'''
+|[https://www.taxpayers.org.nz/sept26_pollnztughjkuhn? Taxpayers' Union–Curia]
+| 1,000 || style="background:#B0CEFF;" | '''29''' || 25.9 || 13.9 || 10.5 || 8.4 || 2 || 4.5
+| 5.9 || style="background:#B0CEFF;" | '''3.1'''
+|-
+| data-sort-value="2026-08-23" |'''27 Jul – 23 Aug 2026'''
+|[https://www.roymorgan.com/findings/10321-nz-national-voting-intention-august-2026 Roy Morgan]
+| 858 || style="background:#B0CEFF;" | '''31''' || 24 || 15.5 || 10.5 || 7.5 || 1.5 || 9.5
+| 0.5 || style="background:#B0CEFF;" | '''7'''
+|-
+| data-sort-value="2026-08-21" |'''14–21 Aug 2026'''
+|[https://www.rnz.co.nz/news/politics_election-2026/1093636/rnz-reid-research-poll-opportunity-in-kingmaker-position-luxon-and-hipkins-approval-slumps RNZ–Reid Research]
+| 1,000 || 29.1 || style="background:#FFB6B6;" | '''32.2''' || 10.2 || 7.7 || 11.9 || 3.0 || 5.3 || 0.6 || style="background:#FFB6B6;" | '''3.1''' 
+|-
+| data-sort-value="2026-08-12" style="background:#E8E8E8;" |'''12 Aug 2026'''
+| colspan=11 style="background:#E8E8E8;"  | '''Prime Minister and National Party leader Christopher Luxon survives a [[August 2026 New Zealand National Party leadership election|second party leadership vote]].'''<ref>{{cite news |title=Christopher Luxon retains National Party leadership amid fevered coup talk
+|url=https://www.thepost.co.nz/politics/361060670/christopher-luxon-retains-national-party-leadership-amid-fervent-coup-talk |access-date=12 August 2026 |work=The Post |date=12 August 2026}}</ref>
+|-
+| data-sort-value="2026-08-12" |'''8–11 Aug 2026'''
+|[https://www.scribd.com/document/1073125712/8-11-August-2026-1-NEWS-Verian-Poll-Report 1 News–Verian]
+| 847 || 29 || style="background:#FFB6B6;" | '''30''' || 12 || 9 || 8 || 1.1 || 8
+|2.7{{Efn|[[New Zealand Loyal]] 0.6%<br>
+[[Aotearoa Legalise Cannabis Party]] 0.5%<br>
+[[Women's Rights Party]] 0.5%<br>
+[[NZ Outdoors & Freedom Party]] 0.4%<br>
+[[Free Palestine Party (New Zealand)|Free Palestine Party]] 0.3%<br>
+[[Te Tai Tokerau Party]] 0.2%<br>
+[[Animal Justice Party Aotearoa New Zealand|Animal Justice Party]] 0.1%<br>
+[[New Conservatives Party]] 0.1%}}
+| style="background:#FFB6B6;" | '''1'''
+|-
+| data-sort-value="2026-08-11" |'''1–11 Aug 2026'''
+|[https://www.nzherald.co.nz/nz/politics/poll-national-down-and-out-of-government-in-new-talbot-mills-poll/XXSSJVLG35GP7C4NZTSALVAPGE/ Talbot Mills]
+| || 29 || style="background:#FFB6B6;" | '''34''' || 8 || 7 || 13 || 3 || 5.2
+| – || style="background:#FFB6B6;" | '''5'''
+|-
+| data-sort-value="2026-08-04" |'''1–4 Aug 2026'''
+|[https://www.taxpayers.org.nz/aug2026_nztucurghs17668 Taxpayers' Union–Curia]
+| 1,000 || style="background:#B0CEFF;" | '''31''' || 27.8 || 10.1 || 7.3 || 9.1 || 1.5 || 6.1
+| 2.2{{Efn|[[Women's Rights Party]] 1.4%<br>
+[[New Conservatives Party]] 0.4%<br>
+[[Vision NZ]] 0.3%<br>
+[[NZ Outdoors & Freedom Party]] 0.1%}} || style="background:#B0CEFF;" | '''3.2'''
+|-
+| data-sort-value="2026-07-26" |'''29 Jun – 26 Jul 2026'''
+|[https://www.roymorgan.com/findings/10281-nz-national-voting-intention-july-2026 Roy Morgan]
+| 881 || style="background:#B0CEFF;" | '''32''' || 25.5 || 13.5 || 8.5 || 8.5 || 2 || 8
+| 2 || style="background:#B0CEFF;" | '''6.5'''
+|-
+| data-sort-value="2026-07-19" |'''10–19 Jul 2026'''
+|[https://www.thepost.co.nz/politics/361050346/new-poll-shows-coalition-victory-opportunity-close-upending-it-all Talbot Mills]
+| || 31 || style="background:#FFB6B6;" | '''33''' || 9 || 7 || 12 || 3 || 4.7
+| – || style="background:#FFB6B6;" | '''2'''
+|-
+| data-sort-value="2026-07-09" |'''2–9 Jul 2026'''
+|[https://www.rnz.co.nz/news/politics/713431/rnz-poll-national-hits-new-low-under-luxon-opportunity-nears-parliament RNZ–Reid Research]
+|1,000 || 28.7 || style="background:#FFB6B6;" | '''34''' || 10.3 || 7.8 || 11.5 || 2.3 || 4.7 || 0.8
+|style="background:#FFB6B6;" | '''5.3'''
+|-
+| data-sort-value="2026-07-05" |'''1–5 Jul 2026'''
+|[https://www.taxpayers.org.nz/july26_pollnztu Taxpayers' Union–Curia]
+| 1,000 || 30.5 || style="background:#FFB6B6;" | '''31.5''' || 10.4 || 6.9 || 10.8 || 3.4 || 3.3
+| 3.2|| style="background:#FFB6B6;" | '''1'''
+|-
+| data-sort-value="2026-06-21" |'''25 May – 21 Jun 2026'''
+|[https://www.roymorgan.com/findings/10271-nz-national-voting-intention-june-2026 Roy Morgan]
+| 891 || style="background:#B0CEFF;" | '''31''' || 25.5 || 13.5 || 9.5 || 10.5 || 3 || 6.5
+| 0.5 || style="background:#B0CEFF;" | '''5.5'''
+|-
+| data-sort-value="2026-06-17" |'''13–17 Jun 2026'''
+|[https://www.scribd.com/document/1054188547/13-17-June-2026-1-NEWS-Verian-Poll-Report?secret_password=oeKr2nNLrt3WFqTQNXzr 1 News–Verian]
+| 1,001 || 29 || style="background:#FFB6B6;" | '''32''' || 13 || 6 || 11 || 1.8 || 4.6
+| 1.5{{Efn|[[Animal Justice Party Aotearoa New Zealand|Animal Justice Party]] 0.6%<br>
+[[New Conservatives Party]] 0.3%<br>
+[[NZ Outdoors & Freedom Party]] 0.2%<br>
+[[Women's Rights Party]] 0.2%<br>
+[[Aotearoa Legalise Cannabis Party]] 0.1%}} || style="background:#FFB6B6;" | '''3'''
+|-
+| data-sort-value="2026-06-11" |'''5–11 Jun 2026'''
+|[https://freshwaterstrategy.com/2026/06/19/the-post-freshwater-strategy-june-polling-data-2/ The Post/Freshwater Strategy]
+| 1,038 || 28.9 || style="background:#FFB6B6;"| '''35.3''' || 10.4 || 8.1 || 12 || 2.1 || –
+| 3.2 || style="background:#FFB6B6;" | '''6.4'''
+|-
+| data-sort-value="2026-06-10" |'''1–10 Jun 2026'''
+|[https://www.stuff.co.nz/politics/360993853/greens-surge-lifts-left-bloc-projected-majority-latest-political-poll Talbot Mills]
+| 1,021 || 29 || style="background:#FFB6B6;" | '''34''' || 13 || 6 || 12 || 2.6 || 3.3
+| – || style="background:#FFB6B6;" | '''5'''
+|-
+| data-sort-value="2026-06-08" |'''4–8 Jun 2026'''
+|[https://www.taxpayers.org.nz/pollnztu_june2026 Taxpayers' Union–Curia]
+|1,000 || 30.1 ||style="background:#FFB6B6;"| '''32.2''' || 11.5 || 7.8 || 11.4 || 3.1 || 3.2
+| 0.8{{Efn|[[NZ Outdoors & Freedom Party]] 0.3%<br>
+[[Vision NZ]] 0.3%<br>
+[[New Conservatives Party]] 0.2%}} || style="background:#FFB6B6;"|'''2.1'''
+|-
+| style="background:#E8E8E8" data-sort-value="2026-05-28" | '''28 May 2026'''
+| colspan="11" style="background:#E8E8E8 " |'''[[2026 New Zealand budget|Budget 2026]] is delivered.'''
+|-
+| data-sort-value="2026-05-24" |'''27 Apr – 24 May 2026'''
+|[https://www.roymorgan.com/findings/10241-nz-national-voting-intention-may-2026 Roy Morgan]
+| 870 || style="background:#B0CEFF;" | '''30.5''' || 26.5 || 12.5 || 10 || 11 || 2.5 || 6
+| 1 || style="background:#B0CEFF;" | '''4'''
+|-
+| style="background:#E8E8E8" data-sort-value="2026-05-28" | '''11 May 2026'''
+| colspan="11" style="background:#E8E8E8 " |'''Mariameno Kapa-Kingi exits Te Pāti Māori to start [[Te Tai Tokerau Party]].'''<ref>{{cite news |url=https://www.rnz.co.nz/news/political/594843/te-pati-maori-splits-as-mp-mariameno-kapa-kingi-announces-new-te-tai-tokerau-party |title=Te Pāti Māori splits as MP Mariameno Kapa-Kingi announces new Te Tai Tokerau Party |work=Radio NZ |author=Giles Dexter |date=11 May 2026 |accessdate=12 June 2026}}</ref>
+|-
+| data-sort-value="2026-05-10" |'''1–10 May 2026'''
+|[https://www.nzherald.co.nz/nz/politics/new-poll-keeps-national-in-the-20s-labour-retains-biggest-share-of-support/ECSCZV3ZQZETTDDOIRAEEW476A/ Talbot Mills]
+|  || 29 || style="background:#FFB6B6;" | '''36''' || 9 || 7 || 14 || 2 || –
+| – || style="background:#FFB6B6;" | '''7'''
+|-
+| data-sort-value="2026-05-07" |'''3–7 May 2026'''
+|[https://www.taxpayers.org.nz/maypoll_2026tucur Taxpayers' Union–Curia]
+|1,000 || 30 || style="background:#FFB6B6;" |'''31.9''' || 9.7 || 6.5 || 11.7 || 4.1 || 2.8
+| 3.3{{Efn|[[New Conservatives Party]] 0.8%<br>
+[[NZ Outdoors & Freedom Party]] 0.5%<br>
+[[Vision NZ]] 0.3%}} || style="background:#FFB6B6;" |'''1.9'''
+|-
+| data-sort-value="2026-04-26" |'''30 Mar – 26 Apr 2026'''
+|[https://www.roymorgan.com/findings/10211-nz-national-voting-intention-april-2026 Roy Morgan]
+|887 || 25.5 || style="background:#FFB6B6;" |'''34''' || 11 || 10.5 || 11.5 || 3 || 4 || 0.5
+|style="background:#FFB6B6;" |'''8.5'''
+|-
+| data-sort-value="2026-04-21" style="background:#E8E8E8;" |'''21 Apr 2026'''
+| colspan=11 style="background:#E8E8E8;"  | '''Prime Minister and National Party leader Christopher Luxon survives a [[April 2026 New Zealand National Party leadership election|party leadership vote]] called by himself.'''<ref>{{cite news|access-date=21 April 2026 |date=21 April 2026 |title=As it happened: Christopher Luxon survives National leadership vote, refuses to take questions |url=https://www.rnz.co.nz/news/political/592928/as-it-happened-christopher-luxon-survives-national-leadership-vote-refuses-to-take-questions |work=Radio NZ}}</ref>
+|-
+| data-sort-value="2026-04-16" |'''16 Apr 2026'''
+|[https://www.stuff.co.nz/politics/360965723/new-zealand-first-soars-greens-plummet-new-poll-national-20s-again Talbot Mills]
+| 1,082 || 29 || style="background:#FFB6B6;" | '''36''' || 7 || 8 || 15 || 1.9 || 2.3
+| – || style="background:#FFB6B6;" | '''7'''
+|-
+| data-sort-value="2026-04-15" |'''11–15 Apr 2026'''
+|[https://www.scribd.com/document/1028300076/11-15-April-2026-1-NEWS-Verian-Poll-Report?secret_password=uSEdjxGxZpEOLgPn0lSr/ 1 News–Verian]
+| 1,010 || 30 || style="background:#FFB6B6;" | '''37''' || 11 || 7 || 10 || 1.5 || 3.3
+| 1.2{{Efn|[[New Conservatives Party]] 0.5%<br>
+[[Animal Justice Party Aotearoa New Zealand|Animal Justice Party]] 0.4%<br>
+[[NZ Outdoors & Freedom Party]] 0.3%}} || style="background:#FFB6B6;" | '''7'''
+|-
+| data-sort-value="2026-04-02" |'''1–2 Apr 2026'''
+|[https://www.taxpayers.org.nz/easter_26_poll Taxpayers' Union–Curia]
+|1,000 || 29.8 || style="background:#FFB6B6;" |'''33.4''' || 7.8 || 9 || 13.6 || 2.6 || 2.6
+| 1.3 || style="background:#FFB6B6;" |'''3.6'''
+|-
+| data-sort-value="2026-03-22" |'''23 Feb – 22 Mar 2026'''
+|[https://www.roymorgan.com/findings/10181-nz-national-voting-intention-march-2026 Roy Morgan]
+|872 || 26.5 || style="background:#FFB6B6;" |'''34''' || 11 || 10 || 11 || 3 || 4 || 0.5
+|style="background:#FFB6B6;" |'''7.5'''
+|-
+| data-sort-value="2026-03-20" |'''12–20 Mar 2026'''
+|[https://www.rnz.co.nz/news/political/590347/rnz-reid-research-poll-labour-extends-lead-over-national RNZ–Reid Research]
+|1,000 || 30.8 || style="background:#FFB6B6;" |'''35.6''' || 10.1 || 7 || 10.6 || 3.2 || 2 || 0.7
+|style="background:#FFB6B6;" |'''4.8'''
+|-
+| data-sort-value="2026-03-12" |'''2–12 Mar 2026'''
+|[https://thespinoff.co.nz/politics/18-03-2026/new-poll-offers-solace-for-luxon-but-election-hangs-by-a-thread Talbot Mills]
+| 1,059 || 32 || style="background:#FFB6B6;" | '''35''' || 11 || 7 || 11 || 1.7 || 2.4
+| – || style="background:#FFB6B6;" | '''3'''
+|-
+| data-sort-value="2026-03-03" | '''1–3 Mar 2026'''
+|[https://www.taxpayers.org.nz/tucur_mar2026poll Taxpayers' Union–Curia]
+| 1,000 || 28.4 || style="background:#FFB6B6;" | '''34.4''' || 10.5 || 7.5 || 9.7 || 3.2 || 1.9
+| 4.3{{Efn|[[NZ Outdoors & Freedom Party]] 1.7%<br>
+[[New Conservatives Party]] 0.8%<br>
+[[Vision NZ]] 0.2%}} || style="background:#FFB6B6;" |'''6'''
+|-
+| data-sort-value="2026-03-02" style="background:#E8E8E8;" | '''2 Mar 2026'''
+| colspan="11" style="background:#E8E8E8;" | '''The [[Strait of Hormuz]] is closed as part of the [[2026 Iran war|Iran war]], causing an incoming [[2026 Iran war fuel crisis|fuel crisis]] affecting New Zealand.'''<ref>{{cite web |title=NZ will release six days of fuel amid global concerns over supply
+|url=https://www.rnz.co.nz/news/political/589332/nz-will-release-six-days-of-fuel-amid-global-concerns-over-supply |website=RNZ
+|access-date=16 March 2026}}</ref>
+|-
+|data-sort-value="2026-02-22" | '''27 Jan – 22 Feb 2026'''
+|[https://www.roymorgan.com/findings/10141-nz-national-voting-intention-february-2026 Roy Morgan ]
+|870 || style="background:#B0CEFF;" | '''31''' || 30 || 14.5 || 8 || 9.5 || 2.5 || 4
+|0.5 ||style="background:#B0CEFF;" | '''1''' 
+|-
+| data-sort-value="2026-02-12" |'''6–12 Feb 2026'''
+|[https://freshwaterstrategy.com/2026/02/25/the-post-freshwater-strategy-february-polling-data/ The Post/Freshwater Strategy]
+| 1,039 || 30 ||style="background:#FFB6B6;" | '''37.4''' || 10.2 || 6.4 || 10.5 || 2.5 || –
+| 3 || style="background:#FFB6B6;" |'''7.4'''
+|-
+|data-sort-value="2026-02-11" | '''7–11 Feb 2026'''
+| [https://www.scribd.com/document/998545712/7-11-Feb-2026-1-NEWS-Verian-Poll-Report?secret_password=EXlfqxw24XeRGhqBC25v 1 News–Verian]
+| 1,003 ||style="background:#B0CEFF;" | '''34''' || 32 || 11 || 9 || 10 || 2 || 1
+|| 1.7{{Efn|[[Aotearoa Legalise Cannabis Party]] 0.4%<br>
+[[NewZeal]] 0.4%<br>
+[[Women's Rights Party]] 0.3%<br>
+[[NZ Outdoors & Freedom Party]] 0.2%<br>
+[[New Conservatives Party]] 0.2%<br>
+[[Vision NZ]] 0%<br>
+[[Animal Justice Party Aotearoa New Zealand|Animal Justice Party]] 0.1%}} || style="background:#B0CEFF;" |'''2'''
+|-
+| data-sort-value="2026-02-03" | '''1–3 Feb 2026'''
+|[https://www.taxpayers.org.nz/0226_polltu Taxpayers' Union–Curia]
+| 1,000 || 31.3 || style="background:#FFB6B6;" | '''34.1''' || 10.3 || 6.7 || 10.5 || 2.9 || 1.4
+| 4.2{{Efn|[[NZ Outdoors & Freedom Party]] 1.2%<br>
+[[New Conservatives Party]] 0.1%<br>
+[[Vision NZ]] 0.4%}} || style="background:#FFB6B6;" |'''2.8''' 
+|-
+|data-sort-value="2026-01-26" | '''6–26 Jan 2026'''
+|[https://www.roymorgan.com/findings/10111-nz-national-voting-intention-january-2026 Roy Morgan ]
+|881 || style="background:#B0CEFF;" | '''34.5''' ||	30.5 || 10.5 || 8.5 || 	9 || 3 || 2.5
+|1.5 ||style="background:#B0CEFF;" | '''4''' 
+|-
+|-
+|data-sort-value="2026-01-26" | '''16–26 Jan 2026'''
+|[https://www.thepost.co.nz/politics/360940554/labour-ahead-right-bloc-retains-governing-edge-latest-poll Talbot Mills]
+|1,087 || 31 ||style="background:#FFB6B6;" | '''35''' || 10 || 8 || 9 || 3 || –
+|– ||style="background:#FFB6B6;" | '''4''' 
+|-
+|data-sort-value="2026-01-22" | '''15–22 Jan 2026'''
+|[https://www.rnz.co.nz/news/poll/556774/rnz-reid-research-poll-view-all-results-and-charts RNZ–Reid Research]
+|1,000 || 31.9 ||style="background:#FFB6B6;" | '''35''' || 9.6 || 7.6 || 9.8 || 3 || 2.3
+|0.9 ||style="background:#FFB6B6;" | '''3.1'''
+|-
+| style="background:#E8E8E8" data-sort-value="2026-01-21" | '''21 Jan 2026'''
+| colspan="11" style="background:#E8E8E8 " | '''Prime Minister [[Christopher Luxon]] announces that the election will be held on 7 November 2026.'''<ref>{{cite web |title=NZ Prime Minister Christopher Luxon calls for election on November 7
+|url=https://www.abc.net.au/news/2026-01-21/nz-pm-calls-for-election-to-be-held-on-november-7/106253286 |website=Australian Broadcasting Corporation 
+|access-date=21 January 2026}}</ref>
+|-
+| data-sort-value="2026-01-18" | '''14–18 Jan 2026'''
+|[https://www.taxpayers.org.nz/jan26poll_nztucuria Taxpayers' Union–Curia]
+| 1,000 || 31.5 || style="background:#FFB6B6;" | '''34.4''' || 7.7 || 7 || 11.9 || 3 || 0.7
+| 3.8{{Efn|[[NZ Outdoors & Freedom Party]] 0.6%<br>
+[[New Conservatives Party]] 0.3%<br>
+[[Vision NZ]] 0.3%}} || style="background:#FFB6B6;" |'''2.9'''
+|-
+| data-sort-value="2025-12-21" | '''25 Nov – 21 Dec 2025'''
+|[https://www.roymorgan.com/findings/10101-nz-national-voting-intention-december-2025 Roy Morgan]
+| 859 || style="background:#B0CEFF;" | '''33''' || 32.5 || 12 || 7.5 || 10 || 2.5 || 2.5
+| 0 || style="background:#B0CEFF;" | '''0.5'''
+|-
+| data-sort-value="2025-12-10" |'''5–10 Dec 2025'''
+|[https://freshwaterstrategy.com/2026/01/05/the-post-freshwater-strategy-december-polling-data/ The Post/Freshwater Strategy]
+| 1,031 || 30 ||style="background:#FFB6B6;" | '''38.4''' || 8.4 || 7.7 || 9.1 || 2.5 || –
+| 4.3 || style="background:#FFB6B6;" |'''8.4'''
+|-
+| style="background:#E8E8E8" data-sort-value="2025-12-05" | '''5 Dec 2025'''
+| colspan="11" style="background:#E8E8E8 " |'''Mariameno Kapa-Kingi reinstated as a member of Te Pāti Māori by the High Court.'''<ref>{{Cite web |last=Hanly |first=Lillian |last2=reporter |first2=Political |date=2025-12-05 |title=Mariameno Kapa-Kingi reinstated as a member of Te Pāti Māori in interim High Court ruling |url=https://www.rnz.co.nz/news/te-manu-korihi/581016/mariameno-kapa-kingi-reinstated-as-a-member-of-te-pati-maori-in-interim-high-court-ruling |access-date=2026-01-21 |website=RNZ |language=en-nz}}</ref>
+|-
+| data-sort-value="2025-12-07" | '''3–7 Dec 2025'''
+|[https://www.taxpayers.org.nz/25dec_polltucur Taxpayers' Union–Curia]
+| 1,000 || 30 || style="background:#FFB6B6;" | '''31.6''' || 10.8 || 8.9 || 8.1 || 3.1 || 1.6
+| 6{{Efn|[[NZ Outdoors & Freedom Party]] 1%<br>
+[[New Conservatives Party]] 1%<br>
+[[Vision NZ]] 0.3%}} || style="background:#FFB6B6;" |'''1.6'''
+|-
+|data-sort-value="2025-12-03" | '''29 Nov – 3 Dec 2025'''
+| [https://www.scribd.com/document/962599976/29-Nov-3-Dec-2025-1-NEWS-Verian-Poll-Report?secret_password=mTSJG82rhPxTLXSfT7AN 1 News–Verian]
+| 1,007 ||style="background:#B0CEFF;" | '''36''' || 35 || 7 || 10 || 9 || 0.6 || 0.4
+|| 2.4{{Efn|[[Aotearoa Legalise Cannabis Party]] 0.4%<br>
+[[Women's Rights Party]] 0.2%<br>
+[[NZ Outdoors & Freedom Party]] 0.4%<br>
+[[New Conservatives Party]] 0.1%<br>
+[[NewZeal]] 0.1%<br>
+[[Vision NZ]] 0%<br>
+[[Animal Justice Party Aotearoa New Zealand|Animal Justice Party]] 0%}} || style="background:#B0CEFF;" |'''1'''
+|-
+| data-sort-value="2025-11-23" | '''27 Oct – 23 Nov 2025'''
+|[https://www.roymorgan.com/findings/10094-nz-national-voting-intention-november-2025 Roy Morgan]
+| 829 || style="background:#B0CEFF;" | '''33''' || 28 || 14.5 || 8 || 9 || 2 || 2.5
+| 3 || style="background:#B0CEFF;" | '''5'''
+
+|-
+| style="background:#E8E8E8" data-sort-value="2025-11-16" | '''16 Nov 2025'''
+| colspan="11" style="background:#E8E8E8 " |'''[[Qiulae Wong]] becomes leader of [[Opportunity Party (New Zealand)|The Opportunity Party]].'''<ref>{{cite web |title=Qiulae Wong named as new leader of Opportunity party |url=https://www.rnz.co.nz/news/political/579022/qiulae-wong-named-as-new-leader-of-opportunity-party |website=Radio New Zealand |access-date=23 November 2025}}</ref>
+|-
+| style="background:#E8E8E8" data-sort-value="2025-11-10" | '''10 Nov 2025'''
+| colspan="11" style="background:#E8E8E8 " |'''[[Tākuta Ferris]] and [[Mariameno Kapa-Kingi]] are expelled from Te Pāti Māori.'''<ref>{{cite news |url= https://www.stuff.co.nz/politics/360879754/te-pati-maori-set-speak-after-meeting-sanction-or-expel-rogue-mps |title=Te Pāti Māori expels Mariameno Kapa-Kingi and Tākuta Ferris |date=10 November 2025 |access-date=10 November 2025 |work=[[Stuff (website)|Stuff]] |first1=Tova |last1=O'Brien |first2=Glenn |last2=McConnell |author1-link=Tova O'Brien}}</ref>
+|-
+| data-sort-value="2025-11-10" |'''1–10 Nov 2025'''
+|[https://www.thepost.co.nz/politics/360885129/labour-surges-38-new-poll-still-needs-te-pati-maori Talbot Mills]
+| 1000|| 33 || style="background:#FFB6B6;" | '''38''' || 9 || 7 || 8 || 2.4 || – 
+| –|| style="background:#FFB6B6;" | '''5'''
+|-
+| data-sort-value="2025-11-06" | '''2–6 Nov 2025'''
+|[https://www.taxpayers.org.nz/tucurpoll_nov2025 Taxpayers' Union–Curia]
+| 1,000 || 30.2 || style="background:#FFB6B6;" | '''33.3''' || 9.2 || 8.6 || 9.1 || 3.3 || 1.2
+| 5.1{{Efn|[[NZ Outdoors & Freedom Party]] 1.5%<br>
+[[New Conservatives Party]] 1.2%<br>
+[[Vision NZ]] 0.4%}} || style="background:#FFB6B6;" |'''3.1'''
+|-
+| data-sort-value="2025-10-26" | '''29 Sep – 26 Oct 2025'''
+|[https://www.roymorgan.com/findings/10054-nz-national-voting-intention-october-2025 Roy Morgan]
+| 857 || style="background:#B0CEFF;" | '''32''' || 30.5 || 12 || 8 || 9.5 || 2.5 || 2.5
+| 3 || style="background:#B0CEFF;" | '''1.5'''
+|-
+| data-sort-value="2025-10-10" |'''1–10 Oct 2025'''
+|[https://www.thepost.co.nz/politics/360855811/national-dips-below-30-second-poll Talbot Mills]
+| 1,097 || 29 || style="background:#FFB6B6;" | '''35''' || 10 || 8 || 12 || 4 || – 
+| –|| style="background:#FFB6B6;" | '''6'''
+|-
+|data-sort-value="2025-10-08" | '''4–8 Oct 2025'''
+| [https://www.scribd.com/document/932137523/October-2025-1News-Verian-Poll-Report?secret_password=FF3tm28WHXxIwHVkQIVH 1 News–Verian]
+| 1,014 ||style="background:#B0CEFF;" | '''34''' || 32 || 11 || 8 || 9 || 2.8 || 0.8
+|| 2.4{{Efn|[[Aotearoa Legalise Cannabis Party]] 0.5%<br>
+[[Women's Rights Party]] 0.5%<br>
+[[NZ Outdoors & Freedom Party]] 0.4%<br>
+[[New Conservatives Party]] 0.3%<br>
+[[NewZeal]] 0.2%<br>
+[[Vision NZ]] 0.2%<br>
+[[Animal Justice Party Aotearoa New Zealand|Animal Justice Party]] 0.1%}} || style="background:#B0CEFF;" |'''2'''
+|-
+| data-sort-value="2025-10-08" |'''3–8 Oct 2025'''
+|[https://www.thepost.co.nz/politics/360853311/big-names-risk-labour-pulls-ahead-and-christopher-luxon-loses-ground The Post/Freshwater Strategy]
+| 1,050 || 31 ||style="background:#FFB6B6;" | '''34''' || 9 || 9 || 11 || 3 || –
+| 2 || style="background:#FFB6B6;" |'''3'''
+|-
+| data-sort-value="2025-10-05" | '''1–5 Oct 2025'''
+|[https://www.taxpayers.org.nz/2025polloct_taxpcur Taxpayers' Union–Curia]
+| 1,000 || 29.6 || style="background:#FFB6B6;" | '''31.2''' || 12 || 6.6 || 10.6 || 4.4 || 1.6
+| 4{{Efn|[[Freedoms New Zealand]] 2.3%<br>
+[[New Zealand Loyal]] 1%<br>
+[[Vision NZ]] 0.6%}} || style="background:#FFB6B6;" |'''1.6'''
+|-
+| data-sort-value="2025-09-21" | '''25 Aug – 21 Sep 2025'''
+|[https://www.roymorgan.com/findings/10034-nz-national-voting-intention-september-2025 Roy Morgan]
+| 870 || style="background:#B0CEFF;" | '''31.5''' || 28.5 || 13.5 || 9 || 8 || 5.5 || 2.5
+| 1.5 || style="background:#B0CEFF;" | '''3'''
+|-
+|data-sort-value="2025-09-12" | '''4–12 Sep 2025'''
+|[https://www.rnz.co.nz/news/political/573163/rnz-reid-research-political-poll-points-to-deadlocked-parliament RNZ–Reid Research]
+|1,000 || 32.5 ||style="background:#FFB6B6;" | '''34.3''' || 10.9 || 7.2 || 8.7 || 4.1 || 1.4
+|0.9 ||style="background:#FFB6B6;" | '''1.8'''
+|-
+| data-sort-value="2025-09-10" |'''1–10 Sep 2025'''
+|[https://www.thepost.co.nz/politics/360828447/weaker-expected-economy-political-polls-turn-pm Talbot Mills]
+| 1,000 || 31 || style="background:#FFB6B6;" | '''35''' || 10 || 7 || 10 || 4|| – 
+| –|| style="background:#FFB6B6;" | '''4'''
+|-
+| style="background:#E8E8E8" data-sort-value="2025-09-06" | '''6 Sep 2025'''
+| colspan="11" style="background:#E8E8E8 " |'''[[Oriini Kaipara]] of Te Pāti Māori wins the [[2025 Tāmaki Makaurau by-election|Tāmaki Makaurau by-election]].'''
+|-
+| data-sort-value="2025-09-02" | '''31 Aug – 2 Sep 2025'''
+|[https://www.taxpayers.org.nz/sept2025_nztucurpoll Taxpayers' Union–Curia]
+| 1,000 || 33.1 || style="background:#FFB6B6;" | '''33.8''' || 10.7 || 6.7 || 8.1 || 4.3 || 1.1
+| 2.2{{Efn|[[NZ Outdoors & Freedom Party]] 0.8%<br>
+[[Vision NZ]] 0.6%<br>
+[[New Conservatives Party]] 0.3%}} || style="background:#FFB6B6;" |'''0.7'''
+|-
+| data-sort-value="2025-08-24" | '''28 Jul – 24 Aug 2025'''
+|[https://www.roymorgan.com/findings/10014-nz-national-voting-intention-august-2025 Roy Morgan]
+| 873 || 29 || style="background:#FFB6B6;" | '''34''' || 13.5 || 10.5 || 7 || 2.5 || 3
+| 0.5 || style="background:#FFB6B6;" | '''5'''
+|-
+| data-sort-value="2025-08-10" |'''1–10 Aug 2025'''
+|[https://www.thepost.co.nz/politics/360806053/political-poll-offers-government-no-reprieve Talbot Mills]
+| 1,000 || 32 || style="background:#FFB6B6;" | '''34''' || 11 || 8 || 9.3 || 4.4 || 2.8 
+| –|| style="background:#FFB6B6;" | '''2'''
+|-
+|data-sort-value="2025-08-06" | '''2–6 Aug 2025'''
+| [https://www.scribd.com/document/899969344/2-6-Aug-2025-1News-Verian-Poll-Report?secret_password=bUx4gQvyCfXWbwgvufsx 1 News–Verian]
+| 1,002 ||style="background:#B0CEFF;" | '''34''' || 33 || 10 || 8 || 9 || 3.7 || 1.3 
+|| 1{{Efn|[[NewZeal]] 0.4%<br>
+[[Women's Rights Party]] 0.4%<br>
+[[New Conservatives Party]] 0.2%<br>
+[[Animal Justice Party Aotearoa New Zealand|Animal Justice Party]] 0.1%<br>
+[[Aotearoa Legalise Cannabis Party]] 0.1%<br>
+[[NZ Outdoors & Freedom Party]] 0.1%}} || style="background:#B0CEFF;" |'''1'''
+|-
+| data-sort-value="2025-08-05" | '''3–5 Aug 2025'''
+|[https://www.taxpayers.org.nz/augpoll2025_250808 Taxpayers' Union–Curia]
+| 1,000 || 31.8 || style="background:#FFB6B6;" | '''33.6''' || 9.8 || 8.6 || 7.8 || 3.2 || 2.6
+| 2.6{{Efn|[[NZ Outdoors & Freedom Party]] 1.1%<br>
+[[Vision NZ]] 0.4%}} || style="background:#FFB6B6;" |'''1.8'''
+|-
+| data-sort-value="2025-07-27" | '''30 Jun – 27 Jul 2025'''
+|[https://www.roymorgan.com/findings/9984-nz-national-voting-intention-july-2025 Roy Morgan]
+| 832 ||style="background:#B0CEFF;" | '''31''' || style="background:#FFB6B6;" | '''31''' || 11.5 || 10.5 || 9.5 || 3.5 || 1
+| 2 || '''Tie'''
+|-
+| data-sort-value="2025-07-10" |'''1–10 Jul 2025'''
+|[https://www.thepost.co.nz/politics/360765524/poll-suggests-national-headed-one-term-government Talbot Mills]
+| 1,090 || 32 || style="background:#FFB6B6;" | '''35''' || 12 || 8 || 7 || 3.8 || – 
+| –|| style="background:#FFB6B6;" | '''3'''
+|-
+| data-sort-value="2025-07-06" | '''2–6 Jul 2025'''
+|[https://www.taxpayers.org.nz/pollnztu_20250710 Taxpayers' Union–Curia]
+| 1,000 ||style="background:#B0CEFF;" | '''33.9''' || 31.6 || 9.4 || 9.1 || 9.8 || 3.5 || 1.2
+| 1.5{{Efn|[[New Conservatives Party]] 0.5%<br>
+[[NZ Outdoors & Freedom Party]] 0.1%}} || style="background:#B0CEFF;" |'''2.3'''
+|-
+| data-sort-value="2025-06-22" | '''26 May – 22 Jun 2025'''
+|[https://www.roymorgan.com/findings/9983-nz-national-voting-intention-june-2025 Roy Morgan]
+| 812 ||style="background:#B0CEFF;" | '''32''' || 28.5 || 11 || 11.5 || 8 || 5 || 3
+| 1 ||style="background:#B0CEFF;" |'''3.5'''
+|-
+| data-sort-value="2025-06-15" |'''12–15 Jun 2025'''
+|[https://www.stuff.co.nz/politics/360728540/post-freshwater-strategy-poll-labour-pulls-ahead-national The Post/Freshwater Strategy]
+| 1,150 || 32 ||style="background:#FFB6B6;" | '''34''' || 11 || 8 || 8 || 2 || –
+| 4 || style="background:#FFB6B6;" |'''2'''
+|-
+| data-sort-value="2025-06-09" | '''7–9 Jun 2025'''
+|[https://www.taxpayers.org.nz/2025ju_polldatanztu Taxpayers' Union–Curia]
+| 1,000 || 33.5 ||style="background:#FFB6B6;" | '''34.8''' || 8.2 || 9.1 || 6.1 || 3.3 || 1.8
+| 3.2{{Efn|[[NZ Outdoors & Freedom Party]] 1.1%<br>
+[[New Conservatives Party]] 0.7%<br>
+[[Vision NZ]] 0.6%}} || style="background:#FFB6B6;" |'''1.3'''
+|-
+| style="background:#E8E8E8" data-sort-value="2025-05-31" | '''31 May 2025''' 
+| colspan="11" style="background:#E8E8E8 " |''' [[David Seymour]] of the ACT party becomes Deputy Prime Minister, replacing [[Winston Peters]] of NZ First.''' 
+|-
+|data-sort-value="2025-05-30" | '''23–30 May 2025'''
+|[https://www.rnz.co.nz/news/political/563006/left-bloc-would-have-enough-support-to-turf-coalition-government-out-of-power-poll RNZ–Reid Research]
+|1,008 || 30.7 ||style="background:#FFB6B6;" | '''33.2''' || 11.6 || 6.6 || 9.1 || 5.5 || 2.2
+|1.1{{Efn|[[New Conservatives Party]] 0.8%}} ||style="background:#FFB6B6;" | '''2.5'''
+|-
+|data-sort-value="2025-05-28" | '''24–28 May 2025'''
+| [https://www.scribd.com/document/871022558/24-28-May-2025-1News-Verian-Poll-Report?secret_password=ci42gaG8SMdwNUKesTw6 1 News–Verian]
+| 1,002 ||style="background:#B0CEFF;" | '''34''' || 29 || 12 || 8 || 8 || 3.7 || 1.3 
+|| 3.9{{Efn|[[NewZeal]] 1.3%
+[[NZ Outdoors & Freedom Party]] 1.1%
+[[Aotearoa Legalise Cannabis Party]] 0.6%
+[[New Conservatives Party]] 0.4%
+[[Vision NZ]] 0.2%
+[[Animal Justice Party Aotearoa New Zealand|Animal Justice Party]] 0.1%}} || style="background:#B0CEFF;" |'''5'''
+|-
+| data-sort-value="2025-05-25" |'''28 Apr – 25 May 2025'''
+|[https://www.roymorgan.com/findings/9963-nz-national-voting-intention-may-2025 Roy Morgan]
+| 799 ||style="background:#B0CEFF;" | '''31.5''' || 29 || 11.5 || 12 || 6.5 || 4.5 || 3
+| 2|| style="background:#B0CEFF;" | '''2.5'''
+|-
+| style="background:#E8E8E8" data-sort-value="2025-05-22" | '''22 May 2025'''
+| colspan="11" style="background:#E8E8E8 " |'''[[2025 New Zealand budget|Budget 2025]] is delivered.'''
+|-
+| data-sort-value="2025-05-04" | '''30 Apr – 4 May 2025'''
+|[https://www.taxpayers.org.nz/polling_may07_2025tucur Taxpayers' Union–Curia]
+| 1,000 ||style="background:#B0CEFF;" | '''34.6''' || 33.2 || 9.1 || 9.5 || 7.4 || 3.9 || 0.5
+| 1.8{{Efn|[[NZ Outdoors & Freedom Party]] 0.4%<br>
+[[Vision NZ]] 0.4%}} || style="background:#B0CEFF;" |'''1.4'''
+|-
+| data-sort-value="2025-04-20" |'''24 Mar – 20 Apr 2025'''
+|[https://www.roymorgan.com/findings/9903-nz-national-voting-intention-april-2025 Roy Morgan]
+| 829 ||style="background:#B0CEFF;" | '''31''' || 28.5 || 14 || 9 || 9 || 4.5 || 2.5
+| 1.5|| style="background:#B0CEFF;" | '''2.5'''
+|-
+| data-sort-value="2025-04-02" |'''29 Mar – 2 Apr 2025'''
+|[https://www.scribd.com/document/846941432/29Mar-2Apr-2025-1-NEWS-Verian-Poll-First-Report?secret_password=EijSkHOb7Wmhl9Oxkk19 1 News–Verian]
+| 1,000 ||  style="background:#B0CEFF;" | '''36''' || 32 || 10 || 9 || 7 || 3.4 || 2.1
+| 1.3{{Efn|[[Freedoms New Zealand]] 0.5%<br>
+[[NZ Outdoors & Freedom Party]] 0.4%<br>
+[[Vision NZ]] 0.2%<br>
+[[Animal Justice Party Aotearoa New Zealand|Animal Justice Party]] 0.2%}}|| style="background:#B0CEFF;" | '''4''' 
+|-
+| data-sort-value="2025-04-01" | '''29 Mar – 1 Apr 2025'''
+|[https://www.rnz.co.nz/news/national/557194/labour-te-pati-maori-lose-ground-april-taxpayers-union-curia-poll Taxpayers' Union–Curia]
+| 1,000 ||style="background:#B0CEFF;" | '''33.5''' || 29.8 || 11 || 10 || 7.4 || 4.3 || 1.5
+| 1.4{{Efn|[[NZ Outdoors & Freedom Party]] 1%<br>
+[[New Conservatives Party]] 0.4%}} || style="background:#B0CEFF;" |'''3.7'''
+|-
+| data-sort-value="2025-03-27" |'''21–27 Mar 2025'''
+|[https://www.rnz.co.nz/news/poll/556774/rnz-reid-research-poll-view-all-results-and-charts RNZ–Reid Research]
+| 1,000 ||style="background:#B0CEFF;" | '''32.9''' || 32.3 || 10 || 9.4 || 7.2 || 5 || 1.8 
+| –|| style="background:#B0CEFF;" | '''0.6'''
+|-
+| data-sort-value="2025-03-23" |'''24 Feb – 23 Mar 2025'''
+|[https://www.roymorgan.com/findings/9893-nz-national-voting-intention-march-2025 Roy Morgan]
+| 888 ||style="background:#B0CEFF;" | '''32.5''' || 27.5 || 14.5 || 7.5 || 7 || 5.5 || 4
+| 1.5|| style="background:#B0CEFF;" | '''5'''
+|-
+| data-sort-value="2025-03-10" |'''1–10 Mar 2025'''
+|[https://www.stuff.co.nz/politics/360615379/labours-lead-grows-over-national-latest-political-poll Talbot Mills]
+| 1,003 || 31 || style="background:#FFB6B6;" | '''34''' || 10 || 10 || 6.1 || 4.4 || – 
+| –|| style="background:#FFB6B6;" | '''3'''
+|-
+| data-sort-value="2025-03-04" | '''2–4 Mar 2025'''
+|[https://www.taxpayers.org.nz/march25_nztupollsuhg Taxpayers' Union–Curia]
+| 1,000 || 33.6 || style="background:#FFB6B6;" | '''34.1''' || 10 || 7.7 || 5.1 || 6.5 || 0.5
+| 2.5{{Efn|[[NZ Outdoors & Freedom Party]] 0.6%<br>
+[[Vision NZ]] 0.4%}} || style="background:#FFB6B6;" |'''0.5'''
+|-
+| data-sort-value="2025-02-23" |'''27 Jan – 23 Feb 2025'''
+|[https://www.roymorgan.com/findings/9863-nz-national-voting-intention-february-2025 Roy Morgan]
+| 888 ||style="background:#B0CEFF;" | '''30.5''' || 29 || 15.5 || 11 || 6 || 3 || 2.5
+| 2.5|| style="background:#B0CEFF;" | '''1.5'''
+|-
+| data-sort-value="2025-02-07" |'''3–7 Feb 2025'''
+|[https://www.scribd.com/document/826079900/3-7-Feb-2025-1-NEWS-Verian-Poll-Report?secret_password=MBl28mhMYWzI9ffKIOFU 1 News–Verian]
+| 1,002 ||  style="background:#B0CEFF;" | '''34''' || 33 || 10 || 9 || 5 || 3.7 || 1.9
+| 3.6{{Efn|[[Freedoms New Zealand]] 1%<br>
+[[Women's Rights Party]] 1%<br>
+[[Vision NZ]] 0.5%<br>
+[[NZ Outdoors & Freedom Party]] 0.3%<br>
+[[Animal Justice Party Aotearoa New Zealand|Animal Justice Party]] 0.2%<br>
+[[New Conservatives Party]] 0.2%<br>
+[[NewZeal]] 0.2%<br>
+[[Aotearoa Legalise Cannabis Party]] 0.1%<br>
+[[New Nation Party]] 0.1%}}|| style="background:#B0CEFF;" | '''1''' 
+|-
+| data-sort-value="2025-02-04" | '''2–4 Feb 2025'''
+|[https://www.taxpayers.org.nz/poll_feb_25_basjfgas Taxpayers' Union–Curia]
+| 1,000 ||style="background:#B0CEFF;" | '''31.9''' || 31.3 || 13.2 || 10 || 6.4 || 4.4 || 0.5
+| 2.2{{Efn|[[NZ Outdoors & Freedom Party]] 0.9%<br>
+[[New Conservatives Party]] 0.2%}} || style="background:#B0CEFF;" |'''0.6'''
+|-
+| data-sort-value="2025-01-27" |'''7–27 Jan 2025'''
+|[https://www.thepost.co.nz/politics/360568711/another-poll-puts-labour-support-ahead-national Talbot Mills]
+| 1,049 || 33 || style="background:#FFB6B6;" | '''34''' || 12 || 9 || 5.2 || 4.6 || – 
+| –|| style="background:#FFB6B6;" | '''1'''
+|-
+| data-sort-value="2025-01-26" |'''2–26 Jan 2025'''
+|[https://www.roymorgan.com/findings/9833-nz-national-voting-intention-january-2025 Roy Morgan]
+| 885 ||style="background:#B0CEFF;" | '''32.5''' || 28.5 || 11.5 || 9 || 8.5 || 6.5 || 1.5
+| 2|| style="background:#B0CEFF;" | '''4'''
+|-
+| data-sort-value="2025-01-13" | '''9–13 Jan 2025'''
+|[https://www.taxpayers.org.nz/25jan_tuc_poll Taxpayers' Union–Curia]
+| 1,000 || 29.6 || style="background:#FFB6B6;" | '''30.9''' || 9.5 || 10.8 || 8.1 || 5.3 || 2.1
+| 3.7{{Efn|[[NZ Outdoors & Freedom Party]] 1.7%<br>
+[[Vision NZ]] 0.6%}} || style="background:#FFB6B6;" |'''1.3'''
+|-
+| data-sort-value="2024-12-15" | '''25 Nov – 15 Dec 2024'''
+|[https://www.roymorgan.com/findings/9813-nz-national-voting-intention-december-2024 Roy Morgan]
+| 885 || style="background:#B0CEFF;" | '''31''' || 26 || 13.5 || 13 || 7.5 || 5.5 || 1 
+| 2.5|| style="background:#B0CEFF;" |'''5'''
+|-
+| data-sort-value="2024-12-04" |'''30 Nov – 4 Dec 2024'''
+|[https://www.scribd.com/document/802497790/30-Nov-4-Dec-2024-1-NEWS-Verian-Poll-Report-Short-Report 1 News–Verian]
+| 1,006 ||  style="background:#B0CEFF;" | '''37''' || 29 || 10 || 8 || 6 || 7 || 1.5 
+| 2{{Efn|[[Aotearoa Legalise Cannabis Party]] 0.5%<br>
+[[New Conservatives Party]] 0.4%<br>
+[[Freedoms New Zealand]] 0.3%<br>
+[[New Nation Party]] 0.3%<br>
+[[Vision NZ]] 0.3%<br>
+[[Women's Rights Party]] 0.2%<br>
+[[NewZeal]] 0.1%}}|| style="background:#B0CEFF;" | '''8''' 
+|-
+| data-sort-value="2024-12-03" | '''1–3 Dec 2024'''
+|[https://www.taxpayers.org.nz/final_poll_dec2024 Taxpayers' Union–Curia]
+| 1,000 || style="background:#B0CEFF;" | '''34.2''' || 26.9 || 8.3 || 13 || 5.4 || 5.5 || 1.1 
+| 2.2{{Efn|[[NZ Outdoors & Freedom Party]] 2%<br>
+[[Vision NZ]] 0.2%}}|| style="background:#B0CEFF;" |'''7.3'''
+|-
+| data-sort-value="2024-11-28" |'''22–28 Nov 2024'''
+|[https://www.stuff.co.nz/politics/360505907/labour-leader-chris-hipkins-starts-his-pitch-tax-reform Labour–Talbot Mills]
+|  || 31 || style="background:#FFB6B6;" | '''32''' || 10 || 10 || 6 || 7 || – 
+| –|| style="background:#FFB6B6;" | '''1'''
+|-
+| data-sort-value="2024-11-27" |'''26–27 Nov 2024'''
+|[https://www.stuff.co.nz/nz-news/360507840/new-poll-delivers-hung-parliament-bad-news-christopher-luxon-preferred-pm The Post/Freshwater Strategy]
+| 1,150 || style="background:#B0CEFF;" | '''34''' || 31 || 13 || 8 || 6 || 4 || –
+| –|| style="background:#B0CEFF;" |'''3'''
+|-
+| data-sort-value="2024-11-24" | '''28 Oct – 24 Nov 2024'''
+|[https://www.roymorgan.com/findings/9773-nz-national-voting-intention-november-2024 Roy Morgan]
+| 866 || style="background:#B0CEFF;" | '''28.5''' || 28 || 13.5 || 9 || 6.5 || 9 || 3.5 
+| 2|| style="background:#B0CEFF;" |'''0.5'''
+|-
+| style="background:#E8E8E8" data-sort-value="2024-11-10" | '''10–19 Nov 2024'''
+| colspan="11" style="background:#E8E8E8 " |'''[[Hīkoi mō te Tiriti]] protest against the [[Treaty Principles Bill]].'''
+|-
+| data-sort-value="2024-11-10" | '''6–10 Nov 2024'''
+|[https://www.taxpayers.org.nz/poll_nov2024_cutunz Taxpayers' Union–Curia]
+| 1,000 || style="background:#B0CEFF;" | '''38.8''' || 31.5 || 9.3 || 8.5 || 6.5 || 2.5 || 0.9 
+| 2.1|| style="background:#B0CEFF;" |'''7.3'''
+|-
+| data-sort-value="2024-11-10" |'''1–10 Nov 2024'''
+|[https://www.nzherald.co.nz/nz/politics/hikois-influence-will-be-felt-for-years-but-treaty-bill-still-popular-thomas-couglan/ZGRV4ECOE5CJJAUZNHRDFFM4YA/ Talbot Mills]
+|  || style="background:#B0CEFF;" | '''34''' || 33 || 10 || 10 || 7 || 3.3 || – 
+| –|| style="background:#B0CEFF;" | '''1'''
+|-
+| data-sort-value="2024-10-20" | '''23 Sep – 20 Oct 2024'''
+|[https://www.roymorgan.com/findings/national-support-down-significantly-in-october-after-the-sinking-of-hmnzs-manawanui-in-samoa Roy Morgan]
+| 883 || style="background:#B0CEFF;" | '''31''' || 29 || 14 || 9 || 7 || 5 || 2 
+| 3|| style="background:#B0CEFF;" |'''2'''
+|-
+| data-sort-value="2024-10-09" |'''5–9 Oct 2024'''
+|[https://www.scribd.com/document/779677361/5-9-Oct-2024-1-NEWS-Verian-Poll-Report-Short-Report?secret_password=gKuXTjvqiaosgIZHNhQY 1 News–Verian]
+| 1,000 ||  style="background:#B0CEFF;" | '''37''' || 29 || 12 || 8 || 5 || 3.8 || 2.6 
+| 2.3{{Efn|[[NewZeal]] 0.6%<br>
+[[Aotearoa Legalise Cannabis Party]] 0.4%<br>
+[[Animal Justice Party Aotearoa New Zealand|Animal Justice Party]] 0.3%<br>
+[[New Conservatives Party]] 0.2%<br>
+[[New Nation Party]] 0.2%<br>
+[[Freedoms New Zealand]] 0.2%<br>
+[[NZ Outdoors & Freedom Party]] 0.2%<br>
+[[Vision NZ]] 0.2%}}|| style="background:#B0CEFF;" | '''8''' 
+|-
+| data-sort-value="2024-10-07" | '''3–7 Oct 2024'''
+|[https://www.taxpayers.org.nz/oct2024_polling Taxpayers' Union–Curia]
+| 1,000 || style="background:#B0CEFF;" | '''34.9''' || 30.3 || 10.4 || 9.7 || 7.6 || 3 || 2.5 
+| 1.6|| style="background:#B0CEFF;" |'''4.6'''
+|-
+| data-sort-value="2024-09-22" | '''26 Aug – 22 Sep 2024'''
+|[https://www.roymorgan.com/findings/9693-nz-national-voting-intention-september-2024 Roy Morgan]
+| 902 || style="background:#B0CEFF;" | '''37.5''' || 23 || 14 || 10 || 7.5 || 4 || 2.5 
+| 1.5|| style="background:#B0CEFF;" |'''14.5'''
+|-
+| data-sort-value="2024-09-10" | '''8–10 Sep 2024'''
+|[https://www.taxpayers.org.nz/poll_sept2024 Taxpayers' Union–Curia]
+| 1,000 || style="background:#B0CEFF;" | '''39''' || 26.7 || 11 || 8.8 || 6.8 || 5 || 1.1 
+| 2.4|| style="background:#B0CEFF;" |'''12.3'''
+|-
+| data-sort-value="2024-09-10" |'''1–10 Sep 2024'''
+|[https://www.nzherald.co.nz/nz/politics/new-poll-results-show-closer-fight-between-chris-hipkins-christopher-luxon-for-preferred-prime-minister/NSG6OIVZWFBORAPPGLXAVHY2DE/ Talbot Mills]
+|  || style="background:#B0CEFF;" | '''37''' || 32 || 10 || 8 || 6.1 || 3.9 || – 
+| –|| style="background:#B0CEFF;" | '''5'''
+|-
+| data-sort-value="2024-08-25" | '''29 Jul – 25 Aug 2024'''
+|[https://www.roymorgan.com/findings/9663-nz-national-voting-intention-august-2024 Roy Morgan]
+| 898 || style="background:#B0CEFF;" | '''36''' || 26.5 || 13 || 9.5 || 7.5 || 3.5 || 2.5 
+| 1.5|| style="background:#B0CEFF;" |'''9.5'''
+|-
+| data-sort-value="2024-08-14" |'''10–14 Aug 2024'''
+|[https://www.scribd.com/document/760275508/10-14Aug-2024-1-NEWS-Verian-Poll-Report-Short-Report?secret_password=h40G0FbN0NhwWzFYNdld 1 News–Verian]
+| 1,001 ||  style="background:#B0CEFF;" | '''38''' || 30 || 11 || 7 || 6 || 4.2 || 1.1 
+| 2.8{{Efn|[[NewZeal]] 0.7%<br>
+[[New Conservatives Party]] 0.5%<br>
+[[Animal Justice Party Aotearoa New Zealand|Animal Justice Party]] 0.3%<br>
+[[DemocracyNZ]] 0.2%<br>
+[[Aotearoa Legalise Cannabis Party]] 0.2%<br>
+Democratic Alliance 0.1%<br>
+[[Women's Rights Party]] 0.1%<br>
+[[New Nation Party]] 0.1%<br>
+[[NZ Outdoors & Freedom Party]] 0.1%<br>
+[[Freedoms New Zealand]] 0.1%<br>
+Others 0.4%}}|| style="background:#B0CEFF;" | '''8''' 
+|-
+| data-sort-value="2024-07-21" | '''24 Jun – 21 Jul 2024'''
+|[https://www.roymorgan.com/findings/9643-nz-national-voting-intention-july-2024 Roy Morgan]
+| 930 || style="background:#B0CEFF;" | '''32.5''' || 24 || 14 || 11 || 6.5 || 6 || 4.5 
+| 1.5|| style="background:#B0CEFF;" |'''8.5'''
+|-
+| data-sort-value="2024-07-08" | '''4–8 Jul 2024'''
+|[https://www.taxpayers.org.nz/nztu_curia_poll_2407 Taxpayers' Union–Curia]
+| 1,000 || style="background:#B0CEFF;" | '''37.6''' || 25.9 || 12.5 || 9.1 || 7.3 || 3.5 || 2.4 
+| 1.8{{Efn|[[NZ Outdoors & Freedom Party]] 1.0%<br>
+Others 0.8%}}|| style="background:#B0CEFF;" |'''11.7'''
+|-
+| data-sort-value="2024-06-23" | '''27 May – 23 Jun 2024'''
+|[https://www.roymorgan.com/findings/9623-nz-national-voting-intention-june-2024 Roy Morgan]
+| 930 || style="background:#B0CEFF;" | '''35''' || 27.5 || 14.5 || 9 || 5.5 || 3.5 || 2.5 
+| 2.5|| style="background:#B0CEFF;" |'''7.5'''
+|-
+| data-sort-value="2024-06-19" |'''15–19 Jun 2024'''
+|[https://www.scribd.com/document/745142232/15-19-Jun-2024-1-NEWS-Verian-Poll-Report-Short-Report?secret_password=fUV0qiPSdWnmeblTBKmt 1 News–Verian]
+| 1,002 ||  style="background:#B0CEFF;" | '''38''' || 29 || 13 || 7 || 6 || 3.3 || 1.5 
+| 2.1{{Efn|[[New Nation Party]] 0.6%<br>
+[[Animal Justice Party Aotearoa New Zealand|Animal Justice Party]] 0.5%<br>
+[[NZ Outdoors & Freedom Party]] 0.2%<br>
+[[Vision NZ]] 0.2%<br>
+[[New Zealand Loyal]] 0.2%<br>
+[[Freedoms New Zealand]] 0.1%<br>
+[[New Conservatives Party]] 0.1%<br>
+[[NewZeal]] 0.1%<br>
+[[Women's Rights Party]] 0.1%}}|| style="background:#B0CEFF;" | '''9''' 
+|-
+| data-sort-value="2024-06-06" | '''4–6 Jun 2024'''
+|[https://www.taxpayers.org.nz/nztu_curia_2406_poll Taxpayers' Union–Curia]
+| 1,000 || style="background:#B0CEFF;" | '''35.4''' || 29.4 || 12.7 || 9.7 || 5.6 || 4.0 || 0.8 
+| 2.4{{Efn|[[NZ Outdoors & Freedom Party]] 1.3%<br>
+[[Vision NZ]] 0.5%<br>
+[[New Conservatives Party]] 0.1%<br>
+Others 0.5%}}|| style="background:#B0CEFF;" |'''6'''
+|-
+| style="background:#E8E8E8" data-sort-value="2024-05-30" | '''30 May 2024'''
+| colspan="11" style="background:#E8E8E8 " |'''[[2024 New Zealand budget|Budget 2024]] is delivered.'''
+|-
+| data-sort-value="2024-05-19" | '''22 Apr – 19 May 2024'''
+|[https://www.roymorgan.com/findings/nz-national-voting-intention-may-2024 Roy Morgan]
+| 925 || style="background:#B0CEFF;" | '''33.5''' || 30 || 14 || 9.5 || 5.5 || 3 || 3 
+| 1.5|| style="background:#B0CEFF;" |'''3.5'''
+|-
+| data-sort-value="2024-05-10" |'''1–10 May 2024'''
+|[https://www.thepost.co.nz/politics/350282502/are-tax-cuts-boost-economy-needs Talbot Mills]
+|  || style="background:#B0CEFF;" | '''35''' || 32 || – || – || – || – || – 
+| –|| style="background:#B0CEFF;" | '''3'''
+|-
+| data-sort-value="2024-05-07" | '''5–7 May 2024'''
+|[https://www.taxpayers.org.nz/taxpayers_union_curia_poll_may_2024 Taxpayers' Union–Curia]
+| 1,000 || style="background:#B0CEFF;" | '''37.3''' || 30 || 10.2 || 9.4 || 5.5 || 3.1 || 1.4 
+| 3.1{{Efn|[[NZ Outdoors & Freedom Party]] 1.1%<br>
+Others 2.0%}}|| style="background:#B0CEFF;" |'''7.3'''
+|-
+| data-sort-value="2024-04-30" |'''30 Apr 2024'''
+|[https://www.nzherald.co.nz/nz/political-roundup-discontent-and-gloom-dominate-nzs-political-mood/BJONTIXBCJHT7M4XLWZAWWUY7U/ Labour–Talbot Mills]
+|  || style="background:#B0CEFF;" | '''34''' || 33 || 12 || 7 || 6 || 4 || – 
+| –|| style="background:#B0CEFF;" | '''1'''
+|-
+| data-sort-value="2024-04-24" |'''20–24 Apr 2024'''
+|[https://www.1news.co.nz/2024/04/29/poll-labour-could-return-to-power-if-election-held-today/ 1 News–Verian]
+|1,000 ||  style="background:#B0CEFF;" | '''36''' || 30 || 14 || 7 || 4.2 || 3.7 || 1.2 
+| 3.7{{Efn|[[New Zealand Loyal]] 0.9%<br>
+[[NewZeal]] 0.6%<br>
+[[Aotearoa Legalise Cannabis Party]] 0.5%<br>
+[[New Nation Party]] 0.4%<br>
+[[Freedoms New Zealand]] 0.3%<br>
+[[New Conservatives Party]] 0.3%<br>
+[[Animal Justice Party Aotearoa New Zealand|Animal Justice Party]] 0.2%<br>
+[[DemocracyNZ]] 0.2%<br>
+[[Vision NZ]] 0.1%<br>
+Others 0.2%}}|| style="background:#B0CEFF;" | '''6''' 
+|-
+| data-sort-value="2024-04-21" | '''25 Mar – 21 Apr 2024'''
+|[https://www.roymorgan.com/findings/nz-national-voting-intention-april-2024 Roy Morgan]
+| 934 || style="background:#B0CEFF;" | '''36.5''' || 24.5 || 13 || 11 || 5.5 || 5.5 || 2 
+| 2|| style="background:#B0CEFF;" |'''12'''
+|-
+| data-sort-value="2024-04-04" | '''2–4 Apr 2024'''
+|[https://www.taxpayers.org.nz/poll_april_2024 Taxpayers' Union–Curia]
+| 1,000 || style="background:#B0CEFF;" | '''37.1''' || 25.7 || 14.6 || 7.2 || 6.3 || 4.6 || 1.6 
+| 3{{Efn|[[NZ Outdoors & Freedom Party]] 1.5%<br>
+[[DemocracyNZ]] 0.3%<br>
+[[Vision NZ]] 0.2%<br>
+[[New Conservatives Party]] 0.2%<br>
+Others 0.8%}}|| style="background:#B0CEFF;" |'''11.4'''
+|-
+| data-sort-value="2024-03-24" | '''26 Feb – 24 Mar 2024'''
+|[https://www.roymorgan.com/findings/national-act-nz-first-56-increase-lead-over-labour-greens-maori-on-40-5-now-at-15-5-points Roy Morgan]
+| 931 || style="background:#B0CEFF;" | '''38''' || 23 || 13.5 || 11.5 || 6.5 || 3.5 || 2.5 
+| 1|| style="background:#B0CEFF;" |'''15'''
+|-
+| data-sort-value="2024-03-10" | '''1–10 Mar 2024'''
+|[https://businessdesk.co.nz/article/politics/christopher-luxon-struggling-to-connect-leaked-poll Talbot Mills]
+| 1,000+ || style="background:#B0CEFF;" | '''38''' || 28 || 14 || 8 || 6 || –|| –
+| –|| style="background:#B0CEFF;" |'''10'''
+|-
+| style="background:#E8E8E8" data-sort-value="2024-03-10" | '''10 Mar 2024'''
+| colspan="11" style="background:#E8E8E8 " | '''[[Chlöe Swarbrick]] is [[2024 Green Party of Aotearoa New Zealand co-leadership election|elected]] as co-leader of the [[Green Party of Aotearoa New Zealand|Green Party]].'''<ref name="chloe">{{cite web |url=https://www.1news.co.nz/2024/03/10/chloe-swarbrick-elected-new-green-party-co-leader/ |title=Chlöe Swarbrick elected new Green Party co-leader |date=10 March 2024 |work=1 News}}</ref>
+|-
+| data-sort-value="2024-03-05" | '''3–5 Mar 2024'''
+|[https://www.taxpayers.org.nz/taxpayers_union_curia_poll_march_2024 Taxpayers' Union–Curia]
+| 1,000 || style="background:#B0CEFF;" | '''37.4''' || 25.3 || 11.3 || 10 || 7.4 || 2.5 || 2.1 
+| 4{{Efn|[[NZ Outdoors & Freedom Party]] 1.3%<br>
+[[Vision NZ]] 0.8%<br>
+[[DemocracyNZ]] 0.4%<br>
+Others 1.5%}}|| style="background:#B0CEFF;" |'''12.1'''
+|-
+| data-sort-value="2024-02-25" | '''29 Jan – 25 Feb 2024'''
+|[https://www.roymorgan.com/findings/9483-nz-national-voting-intention-february-2024 Roy Morgan]
+| 935 || style="background:#B0CEFF;" | '''35.5''' || 21.5 || 15.5 || 12 || 7.5 || 4 || 2.5 
+| 1.5|| style="background:#B0CEFF;" |'''14'''
+|-
+| data-sort-value="2024-02-14" |'''10–14 Feb 2024'''
+|[https://www.scribd.com/document/706701545/10-14Feb-2024-1-NEWS-Verian-Poll-Report-Short-Report/ 1 News–Verian]
+|1,002 ||  style="background:#B0CEFF;" | '''38''' || 28 || 12 || 8 || 6 || 3.7 || 1.9 
+|2.6{{Efn|[[NZ Outdoors & Freedom Party]] 0.4%<br>
+[[New Zealand Loyal]] 0.4%<br>
+[[Animal Justice Party Aotearoa New Zealand|Animal Justice Party]] 0.3%<br>
+[[New Conservatives Party]] 0.3%<br>
+[[Women's Rights Party]] 0.3%<br>
+[[NewZeal]] 0.3%<br>
+[[DemocracyNZ]] 0.3%<br>
+[[Aotearoa Legalise Cannabis Party]] 0.1%<br>
+[[Vision NZ]] 0.1%<br>
+Others 0.1%}}|| style="background:#B0CEFF;" | '''10''' 
+|-
+| data-sort-value="2024-02-10" | '''1–10 Feb 2024'''
+|[https://www.nzherald.co.nz/nz/politics/national-extends-lead-in-latest-poll-chris-hipkins-falls/FEFRB553ZZC37PSDUO7HQQB7EA/ Talbot Mills]
+| || style="background:#B0CEFF;" | '''38''' || 29 || 12 || 7 || 6.2 || 4.9 || 1.4 
+|–|| style="background:#B0CEFF;" |'''9'''
+|-
+| data-sort-value="2024-02-07" | '''1–7 Feb 2024'''
+|[https://www.taxpayers.org.nz/nztucuria2402poll Taxpayers' Union–Curia]
+| 1,000 || style="background:#B0CEFF;" | '''39.6''' || 27.9 || 9 || 13.7 || 5 || 2.3 || – 
+|2.5|| style="background:#B0CEFF;" |'''11.7'''
+|-
+| style="background:#E8E8E8" data-sort-value="2024-01-30" | '''30 Jan 2024'''
+| colspan="11" style="background:#E8E8E8 " | '''[[James Shaw (New Zealand politician)|James Shaw]] announces his intention to resign as co-leader of the [[Green Party of Aotearoa New Zealand|Green Party]] in March 2024.'''<ref>{{cite news |url=https://www.newshub.co.nz/home/politics/2024/01/james-shaw-resigns-as-green-party-co-leader-will-remain-in-politics-for-time-being.html |archive-url=https://web.archive.org/web/20240129220156/https://www.newshub.co.nz/home/politics/2024/01/james-shaw-resigns-as-green-party-co-leader-will-remain-in-politics-for-time-being.html |url-status=dead |archive-date=29 January 2024 |title=James Shaw resigns as Green Party co-leader |date=30 January 2024 |work=Newshub |first=Mark |last=Quinlivan}}</ref>
+|-
+| data-sort-value="2024-01-31" | '''8–28 Jan 2024'''
+|[https://www.roymorgan.com/findings/9443-nz-national-voting-intention-january-2024 Roy Morgan]
+| 947 || style="background:#B0CEFF;" | '''38''' || 22 || 15.5 || 7.5 || 6 || 4.5 || 4.5 
+|2|| style="background:#B0CEFF;" |'''16'''
+|-
+| data-sort-value="2024-01-10" | '''8–10 Jan 2024'''
+|[https://www.nzherald.co.nz/nz/politics/national-soars-in-new-poll-as-voters-agree-country-is-on-track-chris-hipkins-crashes-record-low/TNS4GGJHIFDTZNGMKPQLNJOGJA/ Curia]
+| 1,000 || style="background:#B0CEFF;" | '''41''' || 28.4 || 9.5 || 7.8 || 5.6 || 3.6 || – 
+|–|| style="background:#B0CEFF;" |'''12.6'''
+|-
+| data-sort-value="2023-12-31" | '''27 Nov – 17 Dec 2023'''
+|[https://www.roymorgan.com/findings/9433-nz-national-voting-intention-december-2023 Roy Morgan]
+| 947 || style="background:#B0CEFF;" | '''36''' || 22 || 15.5 || 9.5 || 6 || 5 || 4 
+|2|| style="background:#B0CEFF;" |'''14'''
+|-
+| data-sort-value="2023-12-05" | '''3–5 Dec 2023'''
+|[https://www.nzherald.co.nz/nz/politics/honeymoon-over-christopher-luxon-takes-a-dive-nz-first-overtakes-act-in-new-poll/NTXYYSEQBNCN7MJD3THKJXGRVA/ Curia]
+|  || style="background:#B0CEFF;" | '''36.5''' || 28.8 || 10.8 || 6.2 || 8.1 || 5 || – 
+|4.6|| style="background:#B0CEFF;" |'''7.7'''
+|-
+| style="background:#E8E8E8" data-sort-value="2023-12-03" | '''3 Dec 2023'''
+| colspan="11" style="background:#E8E8E8 " | '''[[Raf Manji]] resigns as leader of [[The Opportunities Party]].'''<ref>{{cite web |url=https://www.thepost.co.nz/politics/350123529/top-leader-raf-manji-resigns |title=TOP leader Raf Manji resigns |date=3 December 2023 |work=The Post |first=Sinead |last=Gill}}</ref>
+|-
+| style="background:#E8E8E8" data-sort-value="2023-11-27" | '''27 Nov 2023'''
+| colspan="11" style="background:#E8E8E8 " | '''[[Christopher Luxon]] is sworn in as [[Prime Minister of New Zealand]].'''
+|-
+| data-sort-value="2023-11-30" | '''30 Oct – 26 Nov 2023'''
+|[https://www.roymorgan.com/findings/roy-morgan-nz-election-november-2023 Roy Morgan]
+| 920 || style="background:#B0CEFF;" | '''37.5''' || 21 || 12.5 || 12.5 || 8 || 2.5 || 3.5 
+|2.5{{Efn|[[New Conservatives Party]] 0.5%<br>
+Others 2%}}|| style="background:#B0CEFF;" |'''16.5'''
+|-
+| data-sort-value="2023-11-06" | '''1–6 Nov 2023'''
+|[https://www.taxpayers.org.nz/nztu_poll_23_11_09_curia_nov_2023 Taxpayers' Union–Curia]
+| 1,000 || style="background:#B0CEFF;" | '''37''' || 28.3 || 13.8 || 8.1 || 6 || 3.4 || 2.9 
+|3.7{{Efn|[[New Conservatives Party]] 0.7%<br>
+[[Vision NZ]] 0.3%}}|| style="background:#B0CEFF;" |'''8.7'''
+|- style="background:#e8e8e8;height:5px;"
+! colspan="12" |
+|-
+|- style="background:#EFEFEF; font-weight:italic;"
+| data-sort-value="2023-10-14" | '''14 Oct 2023'''
+| data-sort-value="z" | '''[[Results of the 2023 New Zealand general election|2023 election result]]'''
+| N/A || style="background-color:#B0CEFF;" | '''38.08''' || 26.92 || 11.61 || 8.64 || 6.09 || 3.08 || 2.22 
+| 3.36|| style="background: #B0CEFF;" data-sort-value="-7" | '''11.16'''
+|- style="background:#ddd;"
+! Date{{efn|name="date"}}
+! Polling organisation
+! Sample size
+! style="background-color:#B0CEFF;width:40px" | [[New Zealand National Party|NAT]]
+! style="background-color:#FFB6B6;width:40px" | [[New Zealand Labour Party|LAB]]
+! style="background-color:#90EE90;width:40px" | [[Green Party of Aotearoa New Zealand|GRN]]
+! style="background-color:#FFFF00;width:40px" | [[ACT New Zealand|ACT]]
+! style="background-color:#D3D3D3;width:40px" | [[New Zealand First|NZF]]
+! style="background-color:#BD9490;width:40px" | [[Te Pāti Māori|TPM]]
+! style="background-color:#32DAC3;width:40px" | [[Opportunity Party (New Zealand)|OPP]]
+! Others
+! style="width:40px;" | Lead
+|}

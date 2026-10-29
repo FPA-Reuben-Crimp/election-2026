@@ -1,0 +1,1 @@
+https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_New_Zealand_general_election
