@@ -1,0 +1,17 @@
+rank_by_poll_margin,electorate,date_label,pollster,sample_n,leader_party,tied_parties,leader_pct,runnerup_party,runnerup_pct,lead_pp,model_party,forecast_method
+1,Wellington Bays,4–10 Sep 2026,Taxpayers' Union–Curia,400,Tie,GRN / LAB,29.0,,29.0,0.0,Green,incumbent_hold
+2,Tāmaki Makaurau,5–15 Oct 2026,Whakaata Māori–Curia,500,TPM,,36.0,LAB,34.0,2.0,Te Pati Maori,2026_local_poll
+3,Auckland Central,14–21 Oct 2026,Taxpayers' Union–Curia,400,GRN,,39.0,NAT,35.0,4.0,Green,2026_local_poll
+4,Mount Albert,1–5 Oct 2026,Taxpayers' Union–Curia,400,LAB,,31.0,NAT,26.0,5.0,Labour,2026_local_poll
+5,Te Tai Tokerau,5 Oct – 15 Oct 2026,Whakaata Māori–Curia,500,GRN,,24.0,LAB,18.0,6.0,Green,2026_local_poll
+6,West Coast-Tasman,10–17 Sep 2026,Taxpayers' Union–Curia,400,NAT,,36.0,LAB,30.0,6.0,National,2026_local_poll
+7,Kāpiti,Sep 2026,Curia,,NAT,,43.0,LAB,36.0,7.0,,
+8,Hutt South,17–19 Sep 2026,Victor Consulting,533,LAB,,42.0,NAT,30.0,12.0,Labour,2026_local_poll
+9,Te Tai Hauāuru,14–24 Sep 2026,Whakaata Māori–Curia,500,TPM,,46.0,LAB,34.0,12.0,Te Pati Maori,2026_local_poll
+10,Te Tai Tonga,14–24 Sep 2026,Whakaata Māori–Curia,500,LAB,,36.0,TPM,21.0,15.0,Labour,2026_local_poll
+11,Tukituki,Oct 2026,Taxpayers' Union–Curia,400,NAT,,39.0,LAB,22.0,17.0,National,2026_local_poll
+12,Mount Roskill,1–12 Oct 2026,Community Engagement Limited,520,LAB,,47.0,NAT,29.9,17.1,Labour,2026_local_poll
+13,Ikaroa-Rāwhiti,28 Sep – 8 Oct 2026,Whakaata Māori–Curia,500,LAB,,40.0,TPM,19.0,21.0,Labour,2026_local_poll
+14,Hauraki-Waikato,21 Sep – 1 Oct 2026,Whakaata Māori–Curia,500,TPM,,54.0,LAB,31.0,23.0,Te Pati Maori,2026_local_poll
+15,Waitaki,18–25 Sep 2026,Taxpayers' Union–Curia,400,NAT,,44.0,LAB,21.0,23.0,National,2026_local_poll
+16,Waiariki,21 Sep – 1 Oct 2026,Whakaata Māori–Curia,500,TPM,,52.0,GRN,20.0,32.0,Te Pati Maori,2026_local_poll

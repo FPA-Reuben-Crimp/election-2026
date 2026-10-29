@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1480" height="760" viewBox="0 0 1480 760">
+<rect width="100%" height="100%" fill="#FFFFFF"/>
+<text x="32" y="48" font-family="DejaVu Sans, sans-serif" font-size="28" fill="#17212B" text-anchor="start">Rough electorate and coalition seat scenarios</text>
+<text x="32" y="78" font-family="DejaVu Sans, sans-serif" font-size="15" fill="#5D6872" text-anchor="start">Stacked bars are party seats; dashed line is majority. Order is by MPs, not probability.</text>
+<text x="32" y="111" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#69737C" text-anchor="start">PARTY SEAT SEGMENTS</text>
+<rect x="32" y="122" width="11" height="11" fill="#00529B"/>
+<text x="49" y="132" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">National</text>
+<rect x="297" y="122" width="11" height="11" fill="#C8102E"/>
+<text x="314" y="132" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">Labour</text>
+<rect x="562" y="122" width="11" height="11" fill="#00843D"/>
+<text x="579" y="132" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">Green</text>
+<rect x="827" y="122" width="11" height="11" fill="#B28A00"/>
+<text x="844" y="132" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">ACT</text>
+<rect x="1092" y="122" width="11" height="11" fill="#6D7075"/>
+<text x="1109" y="132" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">New Zealand First</text>
+<rect x="32" y="147" width="11" height="11" fill="#805B46"/>
+<text x="49" y="157" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">Te Pati Maori</text>
+<rect x="297" y="147" width="11" height="11" fill="#007F7B"/>
+<text x="314" y="157" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">Opportunity</text>
+<rect x="562" y="147" width="11" height="11" fill="#CC79A7"/>
+<text x="579" y="157" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">Te Tai Tokerau</text>
+<rect x="827" y="147" width="11" height="11" fill="#39424E"/>
+<text x="844" y="157" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">Independent</text>
+<line x1="300.0" y1="168" x2="300.0" y2="400" stroke="#E5E9EC" stroke-width="1"/>
+<text x="300.0" y="425" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#59636E" text-anchor="middle">0</text>
+<line x1="395.0" y1="168" x2="395.0" y2="400" stroke="#E5E9EC" stroke-width="1"/>
+<text x="395.0" y="425" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#59636E" text-anchor="middle">10</text>
+<line x1="490.0" y1="168" x2="490.0" y2="400" stroke="#E5E9EC" stroke-width="1"/>
+<text x="490.0" y="425" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#59636E" text-anchor="middle">20</text>
+<line x1="585.0" y1="168" x2="585.0" y2="400" stroke="#E5E9EC" stroke-width="1"/>
+<text x="585.0" y="425" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#59636E" text-anchor="middle">30</text>
+<line x1="680.0" y1="168" x2="680.0" y2="400" stroke="#E5E9EC" stroke-width="1"/>
+<text x="680.0" y="425" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#59636E" text-anchor="middle">40</text>
+<line x1="775.0" y1="168" x2="775.0" y2="400" stroke="#E5E9EC" stroke-width="1"/>
+<text x="775.0" y="425" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#59636E" text-anchor="middle">50</text>
+<line x1="870.0" y1="168" x2="870.0" y2="400" stroke="#E5E9EC" stroke-width="1"/>
+<text x="870.0" y="425" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#59636E" text-anchor="middle">60</text>
+<line x1="965.0" y1="168" x2="965.0" y2="400" stroke="#E5E9EC" stroke-width="1"/>
+<text x="965.0" y="425" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#59636E" text-anchor="middle">70</text>
+<line x1="1060.0" y1="168" x2="1060.0" y2="400" stroke="#E5E9EC" stroke-width="1"/>
+<text x="1060.0" y="425" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#59636E" text-anchor="middle">80</text>
+<line x1="946.0" y1="168" x2="946.0" y2="400" stroke="#252525" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="952.0" y="162" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#252525" text-anchor="start">Majority: 68</text>
+<text x="24" y="212" font-family="DejaVu Sans, sans-serif" font-size="14" fill="#263238" text-anchor="start">LAB + GRN + OPP + NZF</text>
+<rect x="300.00" y="198" width="351.50" height="20" fill="#C8102E"><title>Labour: 37 seats</title></rect>
+<text x="475.75" y="212" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#FFFFFF" text-anchor="middle">37</text>
+<rect x="651.50" y="198" width="171.00" height="20" fill="#00843D"><title>Green: 18 seats</title></rect>
+<text x="737.0" y="212" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#FFFFFF" text-anchor="middle">18</text>
+<rect x="822.50" y="198" width="85.50" height="20" fill="#007F7B"><title>Opportunity: 9 seats</title></rect>
+<text x="865.25" y="212" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#FFFFFF" text-anchor="middle">9</text>
+<rect x="908.00" y="198" width="114.00" height="20" fill="#6D7075"><title>New Zealand First: 12 seats</title></rect>
+<text x="965.0" y="212" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#FFFFFF" text-anchor="middle">12</text>
+<text x="1082" y="212" font-family="DejaVu Sans, sans-serif" font-size="13" fill="#263238" text-anchor="start">76 MPs  MAJORITY</text>
+<text x="24" y="254" font-family="DejaVu Sans, sans-serif" font-size="14" fill="#263238" text-anchor="start">NAT + ACT + NZF + OPP</text>
+<rect x="300.00" y="240" width="399.00" height="20" fill="#00529B"><title>National: 42 seats</title></rect>
+<text x="499.5" y="254" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#FFFFFF" text-anchor="middle">42</text>
+<rect x="699.00" y="240" width="114.00" height="20" fill="#B28A00"><title>ACT: 12 seats</title></rect>
+<text x="756.0" y="254" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#FFFFFF" text-anchor="middle">12</text>
+<rect x="813.00" y="240" width="114.00" height="20" fill="#6D7075"><title>New Zealand First: 12 seats</title></rect>
+<text x="870.0" y="254" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#FFFFFF" text-anchor="middle">12</text>
+<rect x="927.00" y="240" width="85.50" height="20" fill="#007F7B"><title>Opportunity: 9 seats</title></rect>
+<text x="969.75" y="254" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#FFFFFF" text-anchor="middle">9</text>
+<text x="1082" y="254" font-family="DejaVu Sans, sans-serif" font-size="13" fill="#263238" text-anchor="start">75 MPs; 12 OH  MAJORITY</text>
+<text x="24" y="296" font-family="DejaVu Sans, sans-serif" font-size="14" fill="#263238" text-anchor="start">LAB + GRN + OPP + TPM</text>
+<rect x="300.00" y="282" width="351.50" height="20" fill="#C8102E"><title>Labour: 37 seats</title></rect>
+<text x="475.75" y="296" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#FFFFFF" text-anchor="middle">37</text>
+<rect x="651.50" y="282" width="171.00" height="20" fill="#00843D"><title>Green: 18 seats</title></rect>
+<text x="737.0" y="296" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#FFFFFF" text-anchor="middle">18</text>
+<rect x="822.50" y="282" width="85.50" height="20" fill="#007F7B"><title>Opportunity: 9 seats</title></rect>
+<text x="865.25" y="296" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#FFFFFF" text-anchor="middle">9</text>
+<rect x="908.00" y="282" width="38.00" height="20" fill="#805B46"><title>Te Pati Maori: 4 seats</title></rect>
+<text x="927.0" y="296" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#FFFFFF" text-anchor="middle">4</text>
+<text x="1082" y="296" font-family="DejaVu Sans, sans-serif" font-size="13" fill="#263238" text-anchor="start">68 MPs; 2 OH  MAJORITY</text>
+<text x="24" y="338" font-family="DejaVu Sans, sans-serif" font-size="14" fill="#263238" text-anchor="start">LAB + GRN + NZF</text>
+<rect x="300.00" y="324" width="351.50" height="20" fill="#C8102E"><title>Labour: 37 seats</title></rect>
+<text x="475.75" y="338" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#FFFFFF" text-anchor="middle">37</text>
+<rect x="651.50" y="324" width="171.00" height="20" fill="#00843D"><title>Green: 18 seats</title></rect>
+<text x="737.0" y="338" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#FFFFFF" text-anchor="middle">18</text>
+<rect x="822.50" y="324" width="114.00" height="20" fill="#6D7075"><title>New Zealand First: 12 seats</title></rect>
+<text x="879.5" y="338" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#FFFFFF" text-anchor="middle">12</text>
+<text x="1082" y="338" font-family="DejaVu Sans, sans-serif" font-size="13" fill="#263238" text-anchor="start">67 MPs  short 1</text>
+<text x="24" y="380" font-family="DejaVu Sans, sans-serif" font-size="14" fill="#263238" text-anchor="start">NAT + ACT + NZF</text>
+<rect x="300.00" y="366" width="399.00" height="20" fill="#00529B"><title>National: 42 seats</title></rect>
+<text x="499.5" y="380" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#FFFFFF" text-anchor="middle">42</text>
+<rect x="699.00" y="366" width="114.00" height="20" fill="#B28A00"><title>ACT: 12 seats</title></rect>
+<text x="756.0" y="380" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#FFFFFF" text-anchor="middle">12</text>
+<rect x="813.00" y="366" width="114.00" height="20" fill="#6D7075"><title>New Zealand First: 12 seats</title></rect>
+<text x="870.0" y="380" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#FFFFFF" text-anchor="middle">12</text>
+<text x="1082" y="380" font-family="DejaVu Sans, sans-serif" font-size="13" fill="#263238" text-anchor="start">66 MPs; 12 OH  short 2</text>
+<text x="24" y="458" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#4E5963" text-anchor="start">Electorate assignments: 6 2023_same_name_winner, 15 2026_local_poll, 48 incumbent_hold, 2 manual_fallback.</text>
+<text x="24" y="714" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#5D6872" text-anchor="start">Overhang is included in MPs and Parliament size. TPM qualifies via its projected electorate win;</text>
+<text x="24" y="734" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#5D6872" text-anchor="start">sub-5% parties are excluded as coalition partners; aggregate &#x27;Others&#x27; is not modeled as a party.</text>
+</svg>

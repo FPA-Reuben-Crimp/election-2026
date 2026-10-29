@@ -1,0 +1,151 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1005" viewBox="0 0 1440 1005">
+<rect width="100%" height="100%" fill="#FFFFFF"/>
+<text x="28" y="44" font-family="DejaVu Sans, sans-serif" font-size="27" fill="#17212B" text-anchor="start">Closest electorate races in available 2026 polls</text>
+<text x="28" y="74" font-family="DejaVu Sans, sans-serif" font-size="14" fill="#5D6872" text-anchor="start">Latest electorate-vote poll per seat; endpoints are the top two party-affiliated candidates.</text>
+<text x="28" y="107" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#69737C" text-anchor="start">PARTY COLORS</text>
+<circle cx="33" cy="125" r="5" fill="#00529B"/>
+<text x="44" y="129" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">NAT</text>
+<circle cx="283" cy="125" r="5" fill="#C8102E"/>
+<text x="294" y="129" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">LAB</text>
+<circle cx="533" cy="125" r="5" fill="#00843D"/>
+<text x="544" y="129" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">GRN</text>
+<circle cx="783" cy="125" r="5" fill="#B28A00"/>
+<text x="794" y="129" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">ACT</text>
+<circle cx="1033" cy="125" r="5" fill="#6D7075"/>
+<text x="1044" y="129" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">NZF</text>
+<circle cx="33" cy="147" r="5" fill="#805B46"/>
+<text x="44" y="151" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">TPM</text>
+<circle cx="283" cy="147" r="5" fill="#007F7B"/>
+<text x="294" y="151" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">OPP</text>
+<circle cx="533" cy="147" r="5" fill="#CC79A7"/>
+<text x="544" y="151" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">TTT</text>
+<circle cx="783" cy="147" r="5" fill="#39424E"/>
+<text x="794" y="151" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">IND</text>
+<line x1="320.0" y1="202" x2="320.0" y2="890" stroke="#E5E9EC" stroke-width="1"/>
+<text x="320.0" y="911" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="middle">0%</text>
+<line x1="428.3" y1="202" x2="428.3" y2="890" stroke="#E5E9EC" stroke-width="1"/>
+<text x="428.3333333333333" y="911" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="middle">10%</text>
+<line x1="536.7" y1="202" x2="536.7" y2="890" stroke="#E5E9EC" stroke-width="1"/>
+<text x="536.6666666666666" y="911" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="middle">20%</text>
+<line x1="645.0" y1="202" x2="645.0" y2="890" stroke="#E5E9EC" stroke-width="1"/>
+<text x="645.0" y="911" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="middle">30%</text>
+<line x1="753.3" y1="202" x2="753.3" y2="890" stroke="#E5E9EC" stroke-width="1"/>
+<text x="753.3333333333333" y="911" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="middle">40%</text>
+<line x1="861.7" y1="202" x2="861.7" y2="890" stroke="#E5E9EC" stroke-width="1"/>
+<text x="861.6666666666667" y="911" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="middle">50%</text>
+<line x1="970.0" y1="202" x2="970.0" y2="890" stroke="#E5E9EC" stroke-width="1"/>
+<text x="970.0" y="911" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="middle">60%</text>
+<text x="28" y="234" font-family="DejaVu Sans, sans-serif" font-size="13" fill="#263238" text-anchor="start">Wellington Bays</text>
+<text x="28" y="248" font-family="DejaVu Sans, sans-serif" font-size="9" fill="#69737C" text-anchor="start">4–10 Sep 2026 · Taxpayers&#x27; Union–Curia</text>
+<circle cx="634.2" cy="231" r="5.5" fill="#39424E" stroke="#FFFFFF" stroke-width="1.5"><title>Tie 29.0%</title></circle>
+<text x="998" y="230" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">Tie: GRN / LAB 29.0%</text>
+<text x="998" y="245" font-family="DejaVu Sans, sans-serif" font-size="10" fill="#69737C" text-anchor="start">lead 0.0 pp · model: Green</text>
+<text x="28" y="276" font-family="DejaVu Sans, sans-serif" font-size="13" fill="#263238" text-anchor="start">Tāmaki Makaurau</text>
+<text x="28" y="290" font-family="DejaVu Sans, sans-serif" font-size="9" fill="#69737C" text-anchor="start">5–15 Oct 2026 · Whakaata Māori–Curia</text>
+<line x1="688.3" y1="273" x2="710.0" y2="273" stroke="#ADB6BE" stroke-width="2"/>
+<circle cx="688.3" cy="273" r="5.5" fill="#C8102E" stroke="#FFFFFF" stroke-width="1.5"><title>LAB 34.0%</title></circle>
+<circle cx="710.0" cy="273" r="5.5" fill="#805B46" stroke="#FFFFFF" stroke-width="1.5"><title>TPM 36.0%</title></circle>
+<text x="998" y="272" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">TPM 36.0 vs LAB 34.0</text>
+<text x="998" y="287" font-family="DejaVu Sans, sans-serif" font-size="10" fill="#69737C" text-anchor="start">lead 2.0 pp · model: Te Pati Maori</text>
+<text x="28" y="318" font-family="DejaVu Sans, sans-serif" font-size="13" fill="#263238" text-anchor="start">Auckland Central</text>
+<text x="28" y="332" font-family="DejaVu Sans, sans-serif" font-size="9" fill="#69737C" text-anchor="start">14–21 Oct 2026 · Taxpayers&#x27; Union–Curia</text>
+<line x1="699.2" y1="315" x2="742.5" y2="315" stroke="#ADB6BE" stroke-width="2"/>
+<circle cx="699.2" cy="315" r="5.5" fill="#00529B" stroke="#FFFFFF" stroke-width="1.5"><title>NAT 35.0%</title></circle>
+<circle cx="742.5" cy="315" r="5.5" fill="#00843D" stroke="#FFFFFF" stroke-width="1.5"><title>GRN 39.0%</title></circle>
+<text x="998" y="314" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">GRN 39.0 vs NAT 35.0</text>
+<text x="998" y="329" font-family="DejaVu Sans, sans-serif" font-size="10" fill="#69737C" text-anchor="start">lead 4.0 pp · model: Green</text>
+<text x="28" y="360" font-family="DejaVu Sans, sans-serif" font-size="13" fill="#263238" text-anchor="start">Mount Albert</text>
+<text x="28" y="374" font-family="DejaVu Sans, sans-serif" font-size="9" fill="#69737C" text-anchor="start">1–5 Oct 2026 · Taxpayers&#x27; Union–Curia</text>
+<line x1="601.7" y1="357" x2="655.8" y2="357" stroke="#ADB6BE" stroke-width="2"/>
+<circle cx="601.7" cy="357" r="5.5" fill="#00529B" stroke="#FFFFFF" stroke-width="1.5"><title>NAT 26.0%</title></circle>
+<circle cx="655.8" cy="357" r="5.5" fill="#C8102E" stroke="#FFFFFF" stroke-width="1.5"><title>LAB 31.0%</title></circle>
+<text x="998" y="356" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">LAB 31.0 vs NAT 26.0</text>
+<text x="998" y="371" font-family="DejaVu Sans, sans-serif" font-size="10" fill="#69737C" text-anchor="start">lead 5.0 pp · model: Labour</text>
+<text x="28" y="402" font-family="DejaVu Sans, sans-serif" font-size="13" fill="#263238" text-anchor="start">Te Tai Tokerau</text>
+<text x="28" y="416" font-family="DejaVu Sans, sans-serif" font-size="9" fill="#69737C" text-anchor="start">5 Oct – 15 Oct 2026 · Whakaata Māori–Curia</text>
+<line x1="515.0" y1="399" x2="580.0" y2="399" stroke="#ADB6BE" stroke-width="2"/>
+<circle cx="515.0" cy="399" r="5.5" fill="#C8102E" stroke="#FFFFFF" stroke-width="1.5"><title>LAB 18.0%</title></circle>
+<circle cx="580.0" cy="399" r="5.5" fill="#00843D" stroke="#FFFFFF" stroke-width="1.5"><title>GRN 24.0%</title></circle>
+<text x="998" y="398" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">GRN 24.0 vs LAB 18.0</text>
+<text x="998" y="413" font-family="DejaVu Sans, sans-serif" font-size="10" fill="#69737C" text-anchor="start">lead 6.0 pp · model: Green</text>
+<text x="28" y="444" font-family="DejaVu Sans, sans-serif" font-size="13" fill="#263238" text-anchor="start">West Coast-Tasman</text>
+<text x="28" y="458" font-family="DejaVu Sans, sans-serif" font-size="9" fill="#69737C" text-anchor="start">10–17 Sep 2026 · Taxpayers&#x27; Union–Curia</text>
+<line x1="645.0" y1="441" x2="710.0" y2="441" stroke="#ADB6BE" stroke-width="2"/>
+<circle cx="645.0" cy="441" r="5.5" fill="#C8102E" stroke="#FFFFFF" stroke-width="1.5"><title>LAB 30.0%</title></circle>
+<circle cx="710.0" cy="441" r="5.5" fill="#00529B" stroke="#FFFFFF" stroke-width="1.5"><title>NAT 36.0%</title></circle>
+<text x="998" y="440" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">NAT 36.0 vs LAB 30.0</text>
+<text x="998" y="455" font-family="DejaVu Sans, sans-serif" font-size="10" fill="#69737C" text-anchor="start">lead 6.0 pp · model: National</text>
+<text x="28" y="486" font-family="DejaVu Sans, sans-serif" font-size="13" fill="#263238" text-anchor="start">Kāpiti</text>
+<text x="28" y="500" font-family="DejaVu Sans, sans-serif" font-size="9" fill="#69737C" text-anchor="start">Sep 2026 · Curia</text>
+<line x1="710.0" y1="483" x2="785.8" y2="483" stroke="#ADB6BE" stroke-width="2"/>
+<circle cx="710.0" cy="483" r="5.5" fill="#C8102E" stroke="#FFFFFF" stroke-width="1.5"><title>LAB 36.0%</title></circle>
+<circle cx="785.8" cy="483" r="5.5" fill="#00529B" stroke="#FFFFFF" stroke-width="1.5"><title>NAT 43.0%</title></circle>
+<text x="998" y="482" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">NAT 43.0 vs LAB 36.0</text>
+<text x="998" y="497" font-family="DejaVu Sans, sans-serif" font-size="10" fill="#69737C" text-anchor="start">lead 7.0 pp · model: unassigned</text>
+<text x="28" y="528" font-family="DejaVu Sans, sans-serif" font-size="13" fill="#263238" text-anchor="start">Hutt South</text>
+<text x="28" y="542" font-family="DejaVu Sans, sans-serif" font-size="9" fill="#69737C" text-anchor="start">17–19 Sep 2026 · Victor Consulting</text>
+<line x1="645.0" y1="525" x2="775.0" y2="525" stroke="#ADB6BE" stroke-width="2"/>
+<circle cx="645.0" cy="525" r="5.5" fill="#00529B" stroke="#FFFFFF" stroke-width="1.5"><title>NAT 30.0%</title></circle>
+<circle cx="775.0" cy="525" r="5.5" fill="#C8102E" stroke="#FFFFFF" stroke-width="1.5"><title>LAB 42.0%</title></circle>
+<text x="998" y="524" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">LAB 42.0 vs NAT 30.0</text>
+<text x="998" y="539" font-family="DejaVu Sans, sans-serif" font-size="10" fill="#69737C" text-anchor="start">lead 12.0 pp · model: Labour</text>
+<text x="28" y="570" font-family="DejaVu Sans, sans-serif" font-size="13" fill="#263238" text-anchor="start">Te Tai Hauāuru</text>
+<text x="28" y="584" font-family="DejaVu Sans, sans-serif" font-size="9" fill="#69737C" text-anchor="start">14–24 Sep 2026 · Whakaata Māori–Curia</text>
+<line x1="688.3" y1="567" x2="818.3" y2="567" stroke="#ADB6BE" stroke-width="2"/>
+<circle cx="688.3" cy="567" r="5.5" fill="#C8102E" stroke="#FFFFFF" stroke-width="1.5"><title>LAB 34.0%</title></circle>
+<circle cx="818.3" cy="567" r="5.5" fill="#805B46" stroke="#FFFFFF" stroke-width="1.5"><title>TPM 46.0%</title></circle>
+<text x="998" y="566" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">TPM 46.0 vs LAB 34.0</text>
+<text x="998" y="581" font-family="DejaVu Sans, sans-serif" font-size="10" fill="#69737C" text-anchor="start">lead 12.0 pp · model: Te Pati Maori</text>
+<text x="28" y="612" font-family="DejaVu Sans, sans-serif" font-size="13" fill="#263238" text-anchor="start">Te Tai Tonga</text>
+<text x="28" y="626" font-family="DejaVu Sans, sans-serif" font-size="9" fill="#69737C" text-anchor="start">14–24 Sep 2026 · Whakaata Māori–Curia</text>
+<line x1="547.5" y1="609" x2="710.0" y2="609" stroke="#ADB6BE" stroke-width="2"/>
+<circle cx="547.5" cy="609" r="5.5" fill="#805B46" stroke="#FFFFFF" stroke-width="1.5"><title>TPM 21.0%</title></circle>
+<circle cx="710.0" cy="609" r="5.5" fill="#C8102E" stroke="#FFFFFF" stroke-width="1.5"><title>LAB 36.0%</title></circle>
+<text x="998" y="608" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">LAB 36.0 vs TPM 21.0</text>
+<text x="998" y="623" font-family="DejaVu Sans, sans-serif" font-size="10" fill="#69737C" text-anchor="start">lead 15.0 pp · model: Labour</text>
+<text x="28" y="654" font-family="DejaVu Sans, sans-serif" font-size="13" fill="#263238" text-anchor="start">Tukituki</text>
+<text x="28" y="668" font-family="DejaVu Sans, sans-serif" font-size="9" fill="#69737C" text-anchor="start">Oct 2026 · Taxpayers&#x27; Union–Curia</text>
+<line x1="558.3" y1="651" x2="742.5" y2="651" stroke="#ADB6BE" stroke-width="2"/>
+<circle cx="558.3" cy="651" r="5.5" fill="#C8102E" stroke="#FFFFFF" stroke-width="1.5"><title>LAB 22.0%</title></circle>
+<circle cx="742.5" cy="651" r="5.5" fill="#00529B" stroke="#FFFFFF" stroke-width="1.5"><title>NAT 39.0%</title></circle>
+<text x="998" y="650" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">NAT 39.0 vs LAB 22.0</text>
+<text x="998" y="665" font-family="DejaVu Sans, sans-serif" font-size="10" fill="#69737C" text-anchor="start">lead 17.0 pp · model: National</text>
+<text x="28" y="696" font-family="DejaVu Sans, sans-serif" font-size="13" fill="#263238" text-anchor="start">Mount Roskill</text>
+<text x="28" y="710" font-family="DejaVu Sans, sans-serif" font-size="9" fill="#69737C" text-anchor="start">1–12 Oct 2026 · Community Engagement Limited</text>
+<line x1="643.9" y1="693" x2="829.2" y2="693" stroke="#ADB6BE" stroke-width="2"/>
+<circle cx="643.9" cy="693" r="5.5" fill="#00529B" stroke="#FFFFFF" stroke-width="1.5"><title>NAT 29.9%</title></circle>
+<circle cx="829.2" cy="693" r="5.5" fill="#C8102E" stroke="#FFFFFF" stroke-width="1.5"><title>LAB 47.0%</title></circle>
+<text x="998" y="692" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">LAB 47.0 vs NAT 29.9</text>
+<text x="998" y="707" font-family="DejaVu Sans, sans-serif" font-size="10" fill="#69737C" text-anchor="start">lead 17.1 pp · model: Labour</text>
+<text x="28" y="738" font-family="DejaVu Sans, sans-serif" font-size="13" fill="#263238" text-anchor="start">Ikaroa-Rāwhiti</text>
+<text x="28" y="752" font-family="DejaVu Sans, sans-serif" font-size="9" fill="#69737C" text-anchor="start">28 Sep – 8 Oct 2026 · Whakaata Māori–Curia</text>
+<line x1="525.8" y1="735" x2="753.3" y2="735" stroke="#ADB6BE" stroke-width="2"/>
+<circle cx="525.8" cy="735" r="5.5" fill="#805B46" stroke="#FFFFFF" stroke-width="1.5"><title>TPM 19.0%</title></circle>
+<circle cx="753.3" cy="735" r="5.5" fill="#C8102E" stroke="#FFFFFF" stroke-width="1.5"><title>LAB 40.0%</title></circle>
+<text x="998" y="734" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">LAB 40.0 vs TPM 19.0</text>
+<text x="998" y="749" font-family="DejaVu Sans, sans-serif" font-size="10" fill="#69737C" text-anchor="start">lead 21.0 pp · model: Labour</text>
+<text x="28" y="780" font-family="DejaVu Sans, sans-serif" font-size="13" fill="#263238" text-anchor="start">Hauraki-Waikato</text>
+<text x="28" y="794" font-family="DejaVu Sans, sans-serif" font-size="9" fill="#69737C" text-anchor="start">21 Sep – 1 Oct 2026 · Whakaata Māori–Curia</text>
+<line x1="655.8" y1="777" x2="905.0" y2="777" stroke="#ADB6BE" stroke-width="2"/>
+<circle cx="655.8" cy="777" r="5.5" fill="#C8102E" stroke="#FFFFFF" stroke-width="1.5"><title>LAB 31.0%</title></circle>
+<circle cx="905.0" cy="777" r="5.5" fill="#805B46" stroke="#FFFFFF" stroke-width="1.5"><title>TPM 54.0%</title></circle>
+<text x="998" y="776" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">TPM 54.0 vs LAB 31.0</text>
+<text x="998" y="791" font-family="DejaVu Sans, sans-serif" font-size="10" fill="#69737C" text-anchor="start">lead 23.0 pp · model: Te Pati Maori</text>
+<text x="28" y="822" font-family="DejaVu Sans, sans-serif" font-size="13" fill="#263238" text-anchor="start">Waitaki</text>
+<text x="28" y="836" font-family="DejaVu Sans, sans-serif" font-size="9" fill="#69737C" text-anchor="start">18–25 Sep 2026 · Taxpayers&#x27; Union–Curia</text>
+<line x1="547.5" y1="819" x2="796.7" y2="819" stroke="#ADB6BE" stroke-width="2"/>
+<circle cx="547.5" cy="819" r="5.5" fill="#C8102E" stroke="#FFFFFF" stroke-width="1.5"><title>LAB 21.0%</title></circle>
+<circle cx="796.7" cy="819" r="5.5" fill="#00529B" stroke="#FFFFFF" stroke-width="1.5"><title>NAT 44.0%</title></circle>
+<text x="998" y="818" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">NAT 44.0 vs LAB 21.0</text>
+<text x="998" y="833" font-family="DejaVu Sans, sans-serif" font-size="10" fill="#69737C" text-anchor="start">lead 23.0 pp · model: National</text>
+<text x="28" y="864" font-family="DejaVu Sans, sans-serif" font-size="13" fill="#263238" text-anchor="start">Waiariki</text>
+<text x="28" y="878" font-family="DejaVu Sans, sans-serif" font-size="9" fill="#69737C" text-anchor="start">21 Sep – 1 Oct 2026 · Whakaata Māori–Curia</text>
+<line x1="536.7" y1="861" x2="883.3" y2="861" stroke="#ADB6BE" stroke-width="2"/>
+<circle cx="536.7" cy="861" r="5.5" fill="#00843D" stroke="#FFFFFF" stroke-width="1.5"><title>GRN 20.0%</title></circle>
+<circle cx="883.3" cy="861" r="5.5" fill="#805B46" stroke="#FFFFFF" stroke-width="1.5"><title>TPM 52.0%</title></circle>
+<text x="998" y="860" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">TPM 52.0 vs GRN 20.0</text>
+<text x="998" y="875" font-family="DejaVu Sans, sans-serif" font-size="10" fill="#69737C" text-anchor="start">lead 32.0 pp · model: Te Pati Maori</text>
+<text x="645.0" y="937" font-family="DejaVu Sans, sans-serif" font-size="13" fill="#263238" text-anchor="middle">Electorate-vote share</text>
+<text x="28" y="963" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#5D6872" text-anchor="start">Shows 16 electorates with local polls; the other 55 seat estimates rely on fallback assumptions.</text>
+<text x="28" y="983" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#5D6872" text-anchor="start">Poll lead is not a win probability; sample sizes and field dates vary. Only latest poll per electorate shown.</text>
+</svg>

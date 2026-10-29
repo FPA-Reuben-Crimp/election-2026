@@ -12,61 +12,66 @@ COALITION_DATA_FILE = Path(__file__).with_name("coalition-polls.csv")
 COALITION_OUTPUT_FILE = Path(__file__).with_name("coalition-trends.svg")
 
 PARTIES = [
-    ("National", "nat_pct", "#00529B"),
-    ("Labour", "lab_pct", "#C8102E"),
-    ("Green", "green_pct", "#00843D"),
+    ("NAT", "nat_pct", "#00529B"),
+    ("LAB", "lab_pct", "#C8102E"),
+    ("GRN", "green_pct", "#00843D"),
     ("ACT", "act_pct", "#B28A00"),
-    ("New Zealand First", "nz_first_pct", "#6D7075"),
-    ("Te Pati Maori", "te_pati_maori_pct", "#805B46"),
-    ("Opportunity", "opportunity_pct", "#007F7B"),
-    ("Other parties", "others_pct", "#39424E"),
+    ("NZF", "nz_first_pct", "#6D7075"),
+    ("TPM", "te_pati_maori_pct", "#805B46"),
+    ("OPP", "opportunity_pct", "#007F7B"),
+    ("OTH", "others_pct", "#39424E"),
 ]
 
-SERIES = PARTIES + [
-    ("Lab + Green + Opp", "lab_green_opportunity_pct", "#A23A72"),
-    ("Nat + NZF + ACT", "nat_nz_first_act_pct", "#C47A00"),
-]
+PARTY_LABEL_COLORS = {
+    "NAT": PARTIES[0][2],
+    "LAB": PARTIES[1][2],
+    "GRN": PARTIES[2][2],
+    "ACT": PARTIES[3][2],
+    "NZF": PARTIES[4][2],
+    "OPP": PARTIES[6][2],
+}
+
+SERIES = PARTIES
 
 COALITIONS = [
-    ("Lab + Green", "lab_green_pct", ("lab_pct", "green_pct"), "#0072B2"),
     (
-        "Lab + Green + Opp",
+        "LAB + GRN + OPP",
         "lab_green_opportunity_pct",
         ("lab_pct", "green_pct", "opportunity_pct"),
         "#E69F00",
     ),
     (
-        "Lab + Green + NZF",
+        "LAB + GRN + NZF",
         "lab_green_nz_first_pct",
         ("lab_pct", "green_pct", "nz_first_pct"),
         "#009E73",
     ),
     (
-        "Lab + Green + Opp + NZF",
+        "LAB + GRN + OPP + NZF",
         "lab_green_opportunity_nz_first_pct",
         ("lab_pct", "green_pct", "opportunity_pct", "nz_first_pct"),
         "#D55E00",
     ),
     (
-        "Nat + ACT + NZF",
+        "NAT + ACT + NZF",
         "nat_nz_first_act_pct",
         ("nat_pct", "act_pct", "nz_first_pct"),
         "#56B4E9",
     ),
     (
-        "Nat + ACT + Opp",
+        "NAT + ACT + OPP",
         "nat_act_opportunity_pct",
         ("nat_pct", "act_pct", "opportunity_pct"),
         "#CC79A7",
     ),
     (
-        "Nat + NZF + Opp",
+        "NAT + NZF + OPP",
         "nat_nz_first_opportunity_pct",
         ("nat_pct", "nz_first_pct", "opportunity_pct"),
         "#4D4D4D",
     ),
     (
-        "Nat + ACT + NZF + Opp",
+        "NAT + ACT + NZF + OPP",
         "nat_act_nz_first_opportunity_pct",
         ("nat_pct", "act_pct", "nz_first_pct", "opportunity_pct"),
         "#332288",
@@ -94,6 +99,19 @@ def svg_text(x, y, text, size=14, color="#263238", anchor="start", extra=""):
         f'<text x="{x}" y="{y}" font-family="DejaVu Sans, sans-serif" '
         f'font-size="{size}" fill="{color}" text-anchor="{anchor}" {extra}>'
         f"{html.escape(str(text))}</text>"
+    )
+
+
+def svg_coalition_text(x, y, label, size=14, prefix=""):
+    segments = [f'<tspan fill="#263238">{html.escape(prefix)}</tspan>']
+    for index, party in enumerate(label.split(" + ")):
+        if index:
+            segments.append('<tspan fill="#263238"> + </tspan>')
+        color = PARTY_LABEL_COLORS.get(party, "#263238")
+        segments.append(f'<tspan fill="{color}">{html.escape(party)}</tspan>')
+    return (
+        f'<text x="{x}" y="{y}" font-family="DejaVu Sans, sans-serif" '
+        f'font-size="{size}" text-anchor="start">{"".join(segments)}</text>'
     )
 
 
@@ -322,21 +340,24 @@ def render_coalition_chart(polls):
     ranked_coalitions = sorted(
         COALITIONS, key=lambda coalition: latest_values[coalition[1]], reverse=True
     )
-    legend_order = (1, 4, 2, 3, 6, 7, 8, 5)
+    legend_order = (1, 4, 2, 3, 5, 6, 7)
+    legend_group_gap = 16
 
     parts.append(svg_text(legend_x, TOP + 4, "LATEST OBSERVED POLL", 12, "#69737C"))
     for index, rank in enumerate(legend_order):
         label, column, _, color = ranked_coalitions[rank - 1]
-        y = TOP + 36 + index * 34
+        y = TOP + 36 + index * 34 + (legend_group_gap if index >= 4 else 0)
         parts.append(
             f'<circle cx="{legend_x + 7}" cy="{y - 5}" r="5" fill="{color}"/>'
         )
-        parts.append(svg_text(legend_x + 22, y, f"{rank}. {label}", 12, "#263238"))
+        parts.append(
+            svg_coalition_text(legend_x + 22, y, label, 12, prefix=f"{rank}. ")
+        )
         parts.append(
             svg_text(legend_x + 284, y, f"{latest_values[column]:.1f}%", 12, "#263238", "end")
         )
 
-    key_dates_y = TOP + 36 + len(COALITIONS) * 34 + 12
+    key_dates_y = TOP + 36 + len(COALITIONS) * 34 + legend_group_gap + 12
     parts.append(svg_text(legend_x, key_dates_y, "KEY DATES", 12, "#69737C"))
     for index, (_, label, date_label, color) in enumerate(KEY_DATES):
         y = key_dates_y + 34 + index * 48
@@ -524,13 +545,13 @@ def main():
             point_count += 1
 
     legend_x = LEFT + PLOT_WIDTH + 48
-    parts.append(svg_text(legend_x, TOP + 4, "PARTIES AND ESTIMATES", 12, "#69737C"))
+    parts.append(svg_text(legend_x, TOP + 4, "PARTY POLLS", 12, "#69737C"))
     for index, (label, _, color) in enumerate(SERIES):
         y = TOP + 36 + index * 34
         parts.append(
             f'<circle cx="{legend_x + 7}" cy="{y - 5}" r="5" fill="{color}"/>'
         )
-        parts.append(svg_text(legend_x + 22, y, label, 14, "#263238"))
+        parts.append(svg_text(legend_x + 22, y, label, 14, color))
 
     key_dates_y = TOP + 36 + len(SERIES) * 34 + 12
     parts.append(svg_text(legend_x, key_dates_y, "KEY DATES", 12, "#69737C"))
@@ -548,8 +569,7 @@ def main():
         svg_text(
             LEFT,
             HEIGHT - 25,
-            "Source: Wikipedia opinion polling table, retrieved 29 Oct 2026. "
-            "Coalition estimates sum named parties only; missing components are blank.",
+            "Source: Wikipedia opinion polling table, retrieved 29 Oct 2026.",
             12,
             "#69737C",
         )

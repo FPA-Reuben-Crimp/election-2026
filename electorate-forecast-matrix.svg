@@ -1,0 +1,394 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1928" viewBox="0 0 1800 1928">
+<rect width="100%" height="100%" fill="#FFFFFF"/>
+<text x="28" y="44" font-family="DejaVu Sans, sans-serif" font-size="27" fill="#17212B" text-anchor="start">Electorate forecast: party and evidence</text>
+<text x="28" y="74" font-family="DejaVu Sans, sans-serif" font-size="14" fill="#5D6872" text-anchor="start">One row per electorate. Poll margins show measured contestability; fallback rows are assumptions, not polling.</text>
+<text x="28" y="101" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#4E5963" text-anchor="start">Forecast methods: 2023 same-name winner 6 · 2026 local poll 15 · Incumbent hold 48 · Manual fallback 2</text>
+<text x="28" y="130" font-family="DejaVu Sans, sans-serif" font-size="10" fill="#69737C" text-anchor="start">FORECAST PARTY</text>
+<circle cx="195" cy="126" r="5" fill="#00529B"/>
+<text x="206" y="130" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">National</text>
+<circle cx="370" cy="126" r="5" fill="#C8102E"/>
+<text x="381" y="130" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">Labour</text>
+<circle cx="545" cy="126" r="5" fill="#00843D"/>
+<text x="556" y="130" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">Green</text>
+<circle cx="720" cy="126" r="5" fill="#B28A00"/>
+<text x="731" y="130" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">ACT</text>
+<circle cx="895" cy="126" r="5" fill="#6D7075"/>
+<text x="906" y="130" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">New Zealand First</text>
+<circle cx="1070" cy="126" r="5" fill="#805B46"/>
+<text x="1081" y="130" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">Te Pati Maori</text>
+<circle cx="1245" cy="126" r="5" fill="#007F7B"/>
+<text x="1256" y="130" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">Opportunity</text>
+<circle cx="1420" cy="126" r="5" fill="#CC79A7"/>
+<text x="1431" y="130" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">Te Tai Tokerau</text>
+<circle cx="1595" cy="126" r="5" fill="#39424E"/>
+<text x="1606" y="130" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">Independent</text>
+<text x="28" y="164" font-family="DejaVu Sans, sans-serif" font-size="10" fill="#69737C" text-anchor="start">ELECTORATE</text>
+<text x="360" y="164" font-family="DejaVu Sans, sans-serif" font-size="10" fill="#69737C" text-anchor="start">MODEL PARTY</text>
+<text x="625" y="164" font-family="DejaVu Sans, sans-serif" font-size="10" fill="#69737C" text-anchor="start">LOCAL POLL SIGNAL</text>
+<text x="1420" y="164" font-family="DejaVu Sans, sans-serif" font-size="10" fill="#69737C" text-anchor="start">ASSIGNMENT BASIS</text>
+<line x1="28" y1="196" x2="1770" y2="196" stroke="#DCE2E7" stroke-width="1"/>
+<text x="28" y="191" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#35424B" text-anchor="start">2026 LOCAL POLLS (16)</text>
+<text x="28" y="233" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Wellington Bays</text>
+<circle cx="366" cy="229" r="5" fill="#00843D"/>
+<text x="378" y="233" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">GRN</text>
+<text x="625" y="233" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">4–10 Sep 2026 · Taxpayers&#x27; Union–Curia · Tie: GRN / LAB 29.0% · n=400</text>
+<text x="1420" y="233" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">Poll tie; incumbent baseline</text>
+<text x="28" y="255" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Tāmaki Makaurau</text>
+<circle cx="366" cy="251" r="5" fill="#805B46"/>
+<text x="378" y="255" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">TPM</text>
+<text x="625" y="255" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">5–15 Oct 2026 · Whakaata Māori–Curia · TPM 36.0% over LAB 34.0% (+2.0 pp) · n=500</text>
+<text x="1420" y="255" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">2026 local poll</text>
+<text x="28" y="277" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Auckland Central</text>
+<circle cx="366" cy="273" r="5" fill="#00843D"/>
+<text x="378" y="277" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">GRN</text>
+<text x="625" y="277" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">14–21 Oct 2026 · Taxpayers&#x27; Union–Curia · GRN 39.0% over NAT 35.0% (+4.0 pp) · n=400</text>
+<text x="1420" y="277" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">2026 local poll</text>
+<text x="28" y="299" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Mount Albert</text>
+<circle cx="366" cy="295" r="5" fill="#C8102E"/>
+<text x="378" y="299" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">LAB</text>
+<text x="625" y="299" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">1–5 Oct 2026 · Taxpayers&#x27; Union–Curia · LAB 31.0% over NAT 26.0% (+5.0 pp) · n=400</text>
+<text x="1420" y="299" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">2026 local poll</text>
+<text x="28" y="321" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Te Tai Tokerau</text>
+<circle cx="366" cy="317" r="5" fill="#00843D"/>
+<text x="378" y="321" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">GRN</text>
+<text x="625" y="321" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">5 Oct – 15 Oct 2026 · Whakaata Māori–Curia · GRN 24.0% over LAB 18.0% (+6.0 pp) · n=500</text>
+<text x="1420" y="321" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">2026 local poll</text>
+<text x="28" y="343" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">West Coast-Tasman</text>
+<circle cx="366" cy="339" r="5" fill="#00529B"/>
+<text x="378" y="343" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">NAT</text>
+<text x="625" y="343" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">10–17 Sep 2026 · Taxpayers&#x27; Union–Curia · NAT 36.0% over LAB 30.0% (+6.0 pp) · n=400</text>
+<text x="1420" y="343" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">2026 local poll</text>
+<text x="28" y="365" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Kapiti</text>
+<circle cx="366" cy="361" r="5" fill="#00529B"/>
+<text x="378" y="365" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">NAT</text>
+<text x="625" y="365" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">Sep 2026 · Curia · NAT 43.0% over LAB 36.0% (+7.0 pp) · sample n/a</text>
+<text x="1420" y="365" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">2026 local poll</text>
+<text x="28" y="387" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Hutt South</text>
+<circle cx="366" cy="383" r="5" fill="#C8102E"/>
+<text x="378" y="387" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">LAB</text>
+<text x="625" y="387" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">17–19 Sep 2026 · Victor Consulting · LAB 42.0% over NAT 30.0% (+12.0 pp) · n=533</text>
+<text x="1420" y="387" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">2026 local poll</text>
+<text x="28" y="409" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Te Tai Hauāuru</text>
+<circle cx="366" cy="405" r="5" fill="#805B46"/>
+<text x="378" y="409" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">TPM</text>
+<text x="625" y="409" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">14–24 Sep 2026 · Whakaata Māori–Curia · TPM 46.0% over LAB 34.0% (+12.0 pp) · n=500</text>
+<text x="1420" y="409" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">2026 local poll</text>
+<text x="28" y="431" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Te Tai Tonga</text>
+<circle cx="366" cy="427" r="5" fill="#C8102E"/>
+<text x="378" y="431" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">LAB</text>
+<text x="625" y="431" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">14–24 Sep 2026 · Whakaata Māori–Curia · LAB 36.0% over TPM 21.0% (+15.0 pp) · n=500</text>
+<text x="1420" y="431" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">2026 local poll</text>
+<text x="28" y="453" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Tukituki</text>
+<circle cx="366" cy="449" r="5" fill="#00529B"/>
+<text x="378" y="453" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">NAT</text>
+<text x="625" y="453" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">Oct 2026 · Taxpayers&#x27; Union–Curia · NAT 39.0% over LAB 22.0% (+17.0 pp) · n=400</text>
+<text x="1420" y="453" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">2026 local poll</text>
+<text x="28" y="475" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Mount Roskill</text>
+<circle cx="366" cy="471" r="5" fill="#C8102E"/>
+<text x="378" y="475" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">LAB</text>
+<text x="625" y="475" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">1–12 Oct 2026 · Community Engagement Limited · LAB 47.0% over NAT 29.9% (+17.1 pp) · n=520</text>
+<text x="1420" y="475" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">2026 local poll</text>
+<text x="28" y="497" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Ikaroa-Rāwhiti</text>
+<circle cx="366" cy="493" r="5" fill="#C8102E"/>
+<text x="378" y="497" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">LAB</text>
+<text x="625" y="497" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">28 Sep – 8 Oct 2026 · Whakaata Māori–Curia · LAB 40.0% over TPM 19.0% (+21.0 pp) · n=500</text>
+<text x="1420" y="497" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">2026 local poll</text>
+<text x="28" y="519" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Hauraki-Waikato</text>
+<circle cx="366" cy="515" r="5" fill="#805B46"/>
+<text x="378" y="519" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">TPM</text>
+<text x="625" y="519" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">21 Sep – 1 Oct 2026 · Whakaata Māori–Curia · TPM 54.0% over LAB 31.0% (+23.0 pp) · n=500</text>
+<text x="1420" y="519" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">2026 local poll</text>
+<text x="28" y="541" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Waitaki</text>
+<circle cx="366" cy="537" r="5" fill="#00529B"/>
+<text x="378" y="541" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">NAT</text>
+<text x="625" y="541" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">18–25 Sep 2026 · Taxpayers&#x27; Union–Curia · NAT 44.0% over LAB 21.0% (+23.0 pp) · n=400</text>
+<text x="1420" y="541" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">2026 local poll</text>
+<text x="28" y="563" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Waiariki</text>
+<circle cx="366" cy="559" r="5" fill="#805B46"/>
+<text x="378" y="563" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">TPM</text>
+<text x="625" y="563" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">21 Sep – 1 Oct 2026 · Whakaata Māori–Curia · TPM 52.0% over GRN 20.0% (+32.0 pp) · n=500</text>
+<text x="1420" y="563" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">2026 local poll</text>
+<line x1="28" y1="568" x2="1770" y2="568" stroke="#DCE2E7" stroke-width="1"/>
+<text x="28" y="563" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#35424B" text-anchor="start">NO LOCAL POLL · INCUMBENT HOLD (47)</text>
+<text x="28" y="605" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Banks Peninsula</text>
+<circle cx="366" cy="601" r="5" fill="#00529B"/>
+<text x="378" y="605" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">NAT</text>
+<text x="625" y="605" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">No local electorate poll in saved data</text>
+<text x="1420" y="605" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">Incumbent hold</text>
+<text x="28" y="627" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Botany</text>
+<circle cx="366" cy="623" r="5" fill="#00529B"/>
+<text x="378" y="627" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">NAT</text>
+<text x="625" y="627" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">No local electorate poll in saved data</text>
+<text x="1420" y="627" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">Incumbent hold</text>
+<text x="28" y="649" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Christchurch East</text>
+<circle cx="366" cy="645" r="5" fill="#C8102E"/>
+<text x="378" y="649" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">LAB</text>
+<text x="625" y="649" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">No local electorate poll in saved data</text>
+<text x="1420" y="649" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">Incumbent hold</text>
+<text x="28" y="671" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Coromandel</text>
+<circle cx="366" cy="667" r="5" fill="#00529B"/>
+<text x="378" y="671" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">NAT</text>
+<text x="625" y="671" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">No local electorate poll in saved data</text>
+<text x="1420" y="671" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">Incumbent hold</text>
+<text x="28" y="693" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Dunedin</text>
+<circle cx="366" cy="689" r="5" fill="#C8102E"/>
+<text x="378" y="693" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">LAB</text>
+<text x="625" y="693" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">No local electorate poll in saved data</text>
+<text x="1420" y="693" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">Incumbent hold</text>
+<text x="28" y="715" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">East Cape</text>
+<circle cx="366" cy="711" r="5" fill="#00529B"/>
+<text x="378" y="715" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">NAT</text>
+<text x="625" y="715" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">No local electorate poll in saved data</text>
+<text x="1420" y="715" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">Incumbent hold</text>
+<text x="28" y="737" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">East Coast Bays</text>
+<circle cx="366" cy="733" r="5" fill="#00529B"/>
+<text x="378" y="737" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">NAT</text>
+<text x="625" y="737" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">No local electorate poll in saved data</text>
+<text x="1420" y="737" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">Incumbent hold</text>
+<text x="28" y="759" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Epsom</text>
+<circle cx="366" cy="755" r="5" fill="#B28A00"/>
+<text x="378" y="759" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">ACT</text>
+<text x="625" y="759" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">No local electorate poll in saved data</text>
+<text x="1420" y="759" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">Incumbent hold</text>
+<text x="28" y="781" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Glendene</text>
+<circle cx="366" cy="777" r="5" fill="#C8102E"/>
+<text x="378" y="781" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">LAB</text>
+<text x="625" y="781" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">No local electorate poll in saved data</text>
+<text x="1420" y="781" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">Incumbent hold</text>
+<text x="28" y="803" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Hamilton East</text>
+<circle cx="366" cy="799" r="5" fill="#00529B"/>
+<text x="378" y="803" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">NAT</text>
+<text x="625" y="803" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">No local electorate poll in saved data</text>
+<text x="1420" y="803" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">Incumbent hold</text>
+<text x="28" y="825" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Hamilton West</text>
+<circle cx="366" cy="821" r="5" fill="#00529B"/>
+<text x="378" y="825" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">NAT</text>
+<text x="625" y="825" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">No local electorate poll in saved data</text>
+<text x="1420" y="825" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">Incumbent hold</text>
+<text x="28" y="847" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Henderson</text>
+<circle cx="366" cy="843" r="5" fill="#C8102E"/>
+<text x="378" y="847" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">LAB</text>
+<text x="625" y="847" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">No local electorate poll in saved data</text>
+<text x="1420" y="847" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">Incumbent hold</text>
+<text x="28" y="869" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Ilam</text>
+<circle cx="366" cy="865" r="5" fill="#00529B"/>
+<text x="378" y="869" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">NAT</text>
+<text x="625" y="869" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">No local electorate poll in saved data</text>
+<text x="1420" y="869" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">Incumbent hold</text>
+<text x="28" y="891" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Invercargill</text>
+<circle cx="366" cy="887" r="5" fill="#00529B"/>
+<text x="378" y="891" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">NAT</text>
+<text x="625" y="891" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">No local electorate poll in saved data</text>
+<text x="1420" y="891" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">Incumbent hold</text>
+<text x="28" y="913" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Kaikōura</text>
+<circle cx="366" cy="909" r="5" fill="#00529B"/>
+<text x="378" y="913" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">NAT</text>
+<text x="625" y="913" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">No local electorate poll in saved data</text>
+<text x="1420" y="913" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">Incumbent hold</text>
+<text x="28" y="935" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Kenepuru</text>
+<circle cx="366" cy="931" r="5" fill="#C8102E"/>
+<text x="378" y="935" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">LAB</text>
+<text x="625" y="935" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">No local electorate poll in saved data</text>
+<text x="1420" y="935" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">Incumbent hold</text>
+<text x="28" y="957" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Manurewa</text>
+<circle cx="366" cy="953" r="5" fill="#C8102E"/>
+<text x="378" y="957" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">LAB</text>
+<text x="625" y="957" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">No local electorate poll in saved data</text>
+<text x="1420" y="957" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">Incumbent hold</text>
+<text x="28" y="979" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Maungakiekie</text>
+<circle cx="366" cy="975" r="5" fill="#00529B"/>
+<text x="378" y="979" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">NAT</text>
+<text x="625" y="979" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">No local electorate poll in saved data</text>
+<text x="1420" y="979" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">Incumbent hold</text>
+<text x="28" y="1001" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Mount Maunganui</text>
+<circle cx="366" cy="997" r="5" fill="#00529B"/>
+<text x="378" y="1001" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">NAT</text>
+<text x="625" y="1001" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">No local electorate poll in saved data</text>
+<text x="1420" y="1001" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">Incumbent hold</text>
+<text x="28" y="1023" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Māngere</text>
+<circle cx="366" cy="1019" r="5" fill="#C8102E"/>
+<text x="378" y="1023" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">LAB</text>
+<text x="625" y="1023" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">No local electorate poll in saved data</text>
+<text x="1420" y="1023" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">Incumbent hold</text>
+<text x="28" y="1045" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Napier</text>
+<circle cx="366" cy="1041" r="5" fill="#00529B"/>
+<text x="378" y="1045" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">NAT</text>
+<text x="625" y="1045" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">No local electorate poll in saved data</text>
+<text x="1420" y="1045" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">Incumbent hold</text>
+<text x="28" y="1067" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Nelson</text>
+<circle cx="366" cy="1063" r="5" fill="#C8102E"/>
+<text x="378" y="1067" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">LAB</text>
+<text x="625" y="1067" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">No local electorate poll in saved data</text>
+<text x="1420" y="1067" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">Incumbent hold</text>
+<text x="28" y="1089" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">New Plymouth</text>
+<circle cx="366" cy="1085" r="5" fill="#00529B"/>
+<text x="378" y="1089" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">NAT</text>
+<text x="625" y="1089" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">No local electorate poll in saved data</text>
+<text x="1420" y="1089" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">Incumbent hold</text>
+<text x="28" y="1111" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">North Shore</text>
+<circle cx="366" cy="1107" r="5" fill="#00529B"/>
+<text x="378" y="1111" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">NAT</text>
+<text x="625" y="1111" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">No local electorate poll in saved data</text>
+<text x="1420" y="1111" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">Incumbent hold</text>
+<text x="28" y="1133" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Northcote</text>
+<circle cx="366" cy="1129" r="5" fill="#00529B"/>
+<text x="378" y="1133" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">NAT</text>
+<text x="625" y="1133" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">No local electorate poll in saved data</text>
+<text x="1420" y="1133" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">Incumbent hold</text>
+<text x="28" y="1155" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Northland</text>
+<circle cx="366" cy="1151" r="5" fill="#00529B"/>
+<text x="378" y="1155" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">NAT</text>
+<text x="625" y="1155" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">No local electorate poll in saved data</text>
+<text x="1420" y="1155" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">Incumbent hold</text>
+<text x="28" y="1177" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Pakuranga</text>
+<circle cx="366" cy="1173" r="5" fill="#00529B"/>
+<text x="378" y="1177" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">NAT</text>
+<text x="625" y="1177" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">No local electorate poll in saved data</text>
+<text x="1420" y="1177" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">Incumbent hold</text>
+<text x="28" y="1199" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Palmerston North</text>
+<circle cx="366" cy="1195" r="5" fill="#C8102E"/>
+<text x="378" y="1199" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">LAB</text>
+<text x="625" y="1199" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">No local electorate poll in saved data</text>
+<text x="1420" y="1199" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">Incumbent hold</text>
+<text x="28" y="1221" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Rangitata</text>
+<circle cx="366" cy="1217" r="5" fill="#00529B"/>
+<text x="378" y="1221" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">NAT</text>
+<text x="625" y="1221" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">No local electorate poll in saved data</text>
+<text x="1420" y="1221" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">Incumbent hold</text>
+<text x="28" y="1243" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Rangitīkei</text>
+<circle cx="366" cy="1239" r="5" fill="#00529B"/>
+<text x="378" y="1243" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">NAT</text>
+<text x="625" y="1243" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">No local electorate poll in saved data</text>
+<text x="1420" y="1243" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">Incumbent hold</text>
+<text x="28" y="1265" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Remutaka</text>
+<circle cx="366" cy="1261" r="5" fill="#C8102E"/>
+<text x="378" y="1265" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">LAB</text>
+<text x="625" y="1265" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">No local electorate poll in saved data</text>
+<text x="1420" y="1265" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">Incumbent hold</text>
+<text x="28" y="1287" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Rotorua</text>
+<circle cx="366" cy="1283" r="5" fill="#00529B"/>
+<text x="378" y="1287" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">NAT</text>
+<text x="625" y="1287" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">No local electorate poll in saved data</text>
+<text x="1420" y="1287" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">Incumbent hold</text>
+<text x="28" y="1309" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Selwyn</text>
+<circle cx="366" cy="1305" r="5" fill="#00529B"/>
+<text x="378" y="1309" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">NAT</text>
+<text x="625" y="1309" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">No local electorate poll in saved data</text>
+<text x="1420" y="1309" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">Incumbent hold</text>
+<text x="28" y="1331" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Southland</text>
+<circle cx="366" cy="1327" r="5" fill="#00529B"/>
+<text x="378" y="1331" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">NAT</text>
+<text x="625" y="1331" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">No local electorate poll in saved data</text>
+<text x="1420" y="1331" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">Incumbent hold</text>
+<text x="28" y="1353" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Taieri</text>
+<circle cx="366" cy="1349" r="5" fill="#C8102E"/>
+<text x="378" y="1353" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">LAB</text>
+<text x="625" y="1353" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">No local electorate poll in saved data</text>
+<text x="1420" y="1353" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">Incumbent hold</text>
+<text x="28" y="1375" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Takanini</text>
+<circle cx="366" cy="1371" r="5" fill="#00529B"/>
+<text x="378" y="1375" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">NAT</text>
+<text x="625" y="1375" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">No local electorate poll in saved data</text>
+<text x="1420" y="1375" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">Incumbent hold</text>
+<text x="28" y="1397" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Taranaki-King Country</text>
+<circle cx="366" cy="1393" r="5" fill="#00529B"/>
+<text x="378" y="1397" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">NAT</text>
+<text x="625" y="1397" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">No local electorate poll in saved data</text>
+<text x="1420" y="1397" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">Incumbent hold</text>
+<text x="28" y="1419" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Taupō</text>
+<circle cx="366" cy="1415" r="5" fill="#00529B"/>
+<text x="378" y="1419" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">NAT</text>
+<text x="625" y="1419" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">No local electorate poll in saved data</text>
+<text x="1420" y="1419" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">Incumbent hold</text>
+<text x="28" y="1441" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Tauranga</text>
+<circle cx="366" cy="1437" r="5" fill="#00529B"/>
+<text x="378" y="1441" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">NAT</text>
+<text x="625" y="1441" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">No local electorate poll in saved data</text>
+<text x="1420" y="1441" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">Incumbent hold</text>
+<text x="28" y="1463" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Upper Harbour</text>
+<circle cx="366" cy="1459" r="5" fill="#00529B"/>
+<text x="378" y="1463" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">NAT</text>
+<text x="625" y="1463" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">No local electorate poll in saved data</text>
+<text x="1420" y="1463" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">Incumbent hold</text>
+<text x="28" y="1485" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Waikato</text>
+<circle cx="366" cy="1481" r="5" fill="#00529B"/>
+<text x="378" y="1485" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">NAT</text>
+<text x="625" y="1485" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">No local electorate poll in saved data</text>
+<text x="1420" y="1485" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">Incumbent hold</text>
+<text x="28" y="1507" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Waimakariri</text>
+<circle cx="366" cy="1503" r="5" fill="#00529B"/>
+<text x="378" y="1507" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">NAT</text>
+<text x="625" y="1507" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">No local electorate poll in saved data</text>
+<text x="1420" y="1507" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">Incumbent hold</text>
+<text x="28" y="1529" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Wairarapa</text>
+<circle cx="366" cy="1525" r="5" fill="#00529B"/>
+<text x="378" y="1529" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">NAT</text>
+<text x="625" y="1529" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">No local electorate poll in saved data</text>
+<text x="1420" y="1529" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">Incumbent hold</text>
+<text x="28" y="1551" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Wellington North</text>
+<circle cx="366" cy="1547" r="5" fill="#00843D"/>
+<text x="378" y="1551" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">GRN</text>
+<text x="625" y="1551" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">No local electorate poll in saved data</text>
+<text x="1420" y="1551" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">Incumbent hold</text>
+<text x="28" y="1573" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Whanganui</text>
+<circle cx="366" cy="1569" r="5" fill="#00529B"/>
+<text x="378" y="1573" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">NAT</text>
+<text x="625" y="1573" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">No local electorate poll in saved data</text>
+<text x="1420" y="1573" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">Incumbent hold</text>
+<text x="28" y="1595" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Whangaparāoa</text>
+<circle cx="366" cy="1591" r="5" fill="#00529B"/>
+<text x="378" y="1595" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">NAT</text>
+<text x="625" y="1595" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">No local electorate poll in saved data</text>
+<text x="1420" y="1595" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">Incumbent hold</text>
+<text x="28" y="1617" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Ōtāhuhu</text>
+<circle cx="366" cy="1613" r="5" fill="#C8102E"/>
+<text x="378" y="1617" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">LAB</text>
+<text x="625" y="1617" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">No local electorate poll in saved data</text>
+<text x="1420" y="1617" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">Incumbent hold</text>
+<line x1="28" y1="1622" x2="1770" y2="1622" stroke="#DCE2E7" stroke-width="1"/>
+<text x="28" y="1617" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#35424B" text-anchor="start">NO LOCAL POLL · 2023 WINNER (6)</text>
+<text x="28" y="1659" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Christchurch Central</text>
+<circle cx="366" cy="1655" r="5" fill="#C8102E"/>
+<text x="378" y="1659" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">LAB</text>
+<text x="625" y="1659" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">No local electorate poll in saved data</text>
+<text x="1420" y="1659" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">2023 same-name winner</text>
+<text x="28" y="1681" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Kaipara ki Mahurangi</text>
+<circle cx="366" cy="1677" r="5" fill="#00529B"/>
+<text x="378" y="1681" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">NAT</text>
+<text x="625" y="1681" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">No local electorate poll in saved data</text>
+<text x="1420" y="1681" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">2023 same-name winner</text>
+<text x="28" y="1703" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Papakura</text>
+<circle cx="366" cy="1699" r="5" fill="#00529B"/>
+<text x="378" y="1703" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">NAT</text>
+<text x="625" y="1703" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">No local electorate poll in saved data</text>
+<text x="1420" y="1703" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">2023 same-name winner</text>
+<text x="28" y="1725" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Tāmaki</text>
+<circle cx="366" cy="1721" r="5" fill="#B28A00"/>
+<text x="378" y="1725" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">ACT</text>
+<text x="625" y="1725" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">No local electorate poll in saved data</text>
+<text x="1420" y="1725" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">2023 same-name winner</text>
+<text x="28" y="1747" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Whangārei</text>
+<circle cx="366" cy="1743" r="5" fill="#00529B"/>
+<text x="378" y="1747" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">NAT</text>
+<text x="625" y="1747" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">No local electorate poll in saved data</text>
+<text x="1420" y="1747" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">2023 same-name winner</text>
+<text x="28" y="1769" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Wigram</text>
+<circle cx="366" cy="1765" r="5" fill="#C8102E"/>
+<text x="378" y="1769" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">LAB</text>
+<text x="625" y="1769" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">No local electorate poll in saved data</text>
+<text x="1420" y="1769" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">2023 same-name winner</text>
+<line x1="28" y1="1774" x2="1770" y2="1774" stroke="#DCE2E7" stroke-width="1"/>
+<text x="28" y="1769" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#35424B" text-anchor="start">NO LOCAL POLL · MANUAL FALLBACK (2)</text>
+<text x="28" y="1811" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Port Waikato</text>
+<circle cx="366" cy="1807" r="5" fill="#00529B"/>
+<text x="378" y="1811" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">NAT</text>
+<text x="625" y="1811" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">No local electorate poll in saved data</text>
+<text x="1420" y="1811" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">Manual fallback</text>
+<text x="28" y="1833" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">Waitākere</text>
+<circle cx="366" cy="1829" r="5" fill="#00529B"/>
+<text x="378" y="1833" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">NAT</text>
+<text x="625" y="1833" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">No local electorate poll in saved data</text>
+<text x="1420" y="1833" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="start">Manual fallback</text>
+<text x="28" y="1885" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#5D6872" text-anchor="start">Latest local electorate poll shown where available; 55 electorates have no 2026 local poll in the saved source.</text>
+<text x="28" y="1905" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#5D6872" text-anchor="start">Forecasts use current incumbent holds, same-name 2023 winners, or documented manual fallbacks for unpolled seats.</text>
+</svg>

@@ -1,0 +1,6 @@
+rank_by_seats,scenario,parties,projected_mps,overhang_mps_in_coalition,majority_threshold,parliament_size,majority,party_vote_poll_date,party_vote_pollster,seat_forecast_basis,overhang_total
+1,LAB + GRN + OPP + NZF,Labour + Green + Opportunity + New Zealand First,76,0,68,134,True,20–26 Oct 2026,RNZ–Reid Research,2023_same_name_winner=6; 2026_local_poll=15; incumbent_hold=48; manual_fallback=2,14
+2,NAT + ACT + NZF + OPP,National + ACT + New Zealand First + Opportunity,75,12,68,134,True,20–26 Oct 2026,RNZ–Reid Research,2023_same_name_winner=6; 2026_local_poll=15; incumbent_hold=48; manual_fallback=2,14
+3,LAB + GRN + OPP + TPM,Labour + Green + Opportunity + Te Pati Maori,68,2,68,134,True,20–26 Oct 2026,RNZ–Reid Research,2023_same_name_winner=6; 2026_local_poll=15; incumbent_hold=48; manual_fallback=2,14
+4,LAB + GRN + NZF,Labour + Green + New Zealand First,67,0,68,134,False,20–26 Oct 2026,RNZ–Reid Research,2023_same_name_winner=6; 2026_local_poll=15; incumbent_hold=48; manual_fallback=2,14
+5,NAT + ACT + NZF,National + ACT + New Zealand First,66,12,68,134,False,20–26 Oct 2026,RNZ–Reid Research,2023_same_name_winner=6; 2026_local_poll=15; incumbent_hold=48; manual_fallback=2,14
