@@ -82,12 +82,14 @@ KEY_DATES = [
     (date(2026, 10, 26), "Advance voting opens", "26 Oct, 9 am", "#C75B12"),
     (date(2026, 11, 7), "Voting closes", "7 Nov, 7 pm", "#C0266B"),
 ]
-COALITION_START_DATE = date(2026, 1, 1)
-COALITION_Y_MIN = 30
+COALITION_Y_MIN = 35
 COALITION_Y_MAX = 65
 
 WIDTH = 1280
 HEIGHT = 760
+COALITION_HEIGHT = 700
+POLLS_WIDTH = 1160
+POLLS_HEIGHT = 700
 LEFT = 108
 TOP = 105
 PLOT_WIDTH = 820
@@ -196,6 +198,39 @@ def lowess(points, evaluation_points=None, fraction=0.35, robust_iterations=3):
     return list(zip(target_values, fitted))
 
 
+def trend_envelope(points, trend_points, fraction=0.35):
+    trend_by_day = dict(trend_points)
+    residuals = [
+        (day, value - trend_by_day[day])
+        for day, value in points
+    ]
+    neighbor_count = max(2, min(len(points), math.ceil(fraction * len(points))))
+    envelope = []
+
+    for day, trend_value in trend_points:
+        nearby_residuals = [
+            residual
+            for _, residual in sorted(residuals, key=lambda point: abs(point[0] - day))[
+                :neighbor_count
+            ]
+        ]
+        ordered = sorted(nearby_residuals)
+
+        def quantile(probability):
+            position = probability * (len(ordered) - 1)
+            lower_index = math.floor(position)
+            upper_index = math.ceil(position)
+            return ordered[lower_index] + (ordered[upper_index] - ordered[lower_index]) * (
+                position - lower_index
+            )
+
+        envelope.append(
+            (day, trend_value + quantile(0.1), trend_value + quantile(0.9))
+        )
+
+    return envelope
+
+
 def append_trend(parts, points, first_date, date_span, y_position, color):
     if len(points) < 2:
         return
@@ -229,11 +264,12 @@ def append_trend(parts, points, first_date, date_span, y_position, color):
 
 def render_coalition_chart(polls):
     all_polls = polls
-    polls = [row for row in all_polls if row["plot_date"] >= COALITION_START_DATE]
-    first_date = COALITION_START_DATE
+    polls = all_polls
     last_date = max(
         max(row["plot_date"] for row in polls), KEY_DATES[-1][0] + timedelta(days=14)
     )
+    first_date = last_date - timedelta(days=365)
+    polls = [row for row in polls if row["plot_date"] >= first_date]
     date_span = (last_date - first_date).days
 
     def x_position(day):
@@ -246,13 +282,13 @@ def render_coalition_chart(polls):
 
     parts = [
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{WIDTH}" '
-        f'height="{HEIGHT}" viewBox="0 0 {WIDTH} {HEIGHT}">',
+        f'height="{COALITION_HEIGHT}" viewBox="0 0 {WIDTH} {COALITION_HEIGHT}">',
         '<rect width="100%" height="100%" fill="#FFFFFF"/>',
         svg_text(LEFT, 44, "Potential coalition party-vote trends", 28, "#17212B"),
         svg_text(
             LEFT,
             72,
-            "Jan 2026 onward; named-party sums with solid LOWESS and dashed extensions to voting day.",
+            "Past year; named-party sums with solid LOWESS and dashed extensions to voting day.",
             15,
             "#5D6872",
         ),
@@ -275,7 +311,12 @@ def render_coalition_chart(polls):
             'stroke="#EEF1F3" stroke-width="1"/>'
         )
         parts.append(
-            svg_text(x, TOP + PLOT_HEIGHT + 25, tick.strftime("%b %Y"), 12, "#59636E", "middle")
+            f'<line x1="{x:.1f}" y1="{TOP + PLOT_HEIGHT}" '
+            f'x2="{x:.1f}" y2="{TOP + PLOT_HEIGHT + 6}" '
+            'stroke="#59636E" stroke-width="1"/>'
+        )
+        parts.append(
+            svg_text(x, TOP + PLOT_HEIGHT + 25, tick.strftime("%b %y"), 11, "#59636E", "middle")
         )
 
     parts.extend(
@@ -372,7 +413,7 @@ def render_coalition_chart(polls):
     parts.append(
         svg_text(
             LEFT,
-            HEIGHT - 25,
+            COALITION_HEIGHT - 25,
             "Party-vote sums are not seat projections; polls missing a component are omitted.",
             12,
             "#69737C",
@@ -409,12 +450,18 @@ def main():
             values = [row.get(component, "").strip() for component in components]
             row[result] = f"{sum(map(float, values)):.2f}" if all(values) else ""
 
-    first_date = min(row["plot_date"] for row in polls)
     last_date = max(
         max(row["plot_date"] for row in polls), KEY_DATES[-1][0] + timedelta(days=14)
     )
+    first_date = last_date - timedelta(days=365)
+    visible_polls = [row for row in polls if row["plot_date"] >= first_date]
     y_max = math.ceil(
-        max(float(row[column]) for row in polls for _, column, _ in SERIES if row[column].strip())
+        max(
+            float(row[column])
+            for row in visible_polls
+            for _, column, _ in SERIES
+            if row[column].strip()
+        )
         / 10
     ) * 10
     date_span = (last_date - first_date).days
@@ -428,8 +475,8 @@ def main():
         return TOP + PLOT_HEIGHT - value / y_max * PLOT_HEIGHT
 
     parts = [
-        f'<svg xmlns="http://www.w3.org/2000/svg" width="{WIDTH}" '
-        f'height="{HEIGHT}" viewBox="0 0 {WIDTH} {HEIGHT}">',
+        f'<svg xmlns="http://www.w3.org/2000/svg" width="{POLLS_WIDTH}" '
+        f'height="{POLLS_HEIGHT}" viewBox="0 0 {POLLS_WIDTH} {POLLS_HEIGHT}">',
         '<rect width="100%" height="100%" fill="#FFFFFF"/>',
         svg_text(LEFT, 44, "New Zealand party vote polling", 28, "#17212B"),
         svg_text(
@@ -450,17 +497,21 @@ def main():
         )
         parts.append(svg_text(LEFT - 14, y + 5, f"{value}%", 13, "#59636E", "end"))
 
-    for tick in date_ticks(first_date.year, last_date.year):
-        if first_date <= tick <= last_date:
-            x = x_position(tick)
-            parts.append(
-                f'<line x1="{x:.1f}" y1="{TOP}" '
-                f'x2="{x:.1f}" y2="{TOP + PLOT_HEIGHT}" '
-                'stroke="#EEF1F3" stroke-width="1"/>'
-            )
-            parts.append(
-                svg_text(x, TOP + PLOT_HEIGHT + 25, tick.strftime("%b %Y"), 13, "#59636E", "middle")
-            )
+    for tick in month_ticks(first_date, last_date):
+        x = x_position(tick)
+        parts.append(
+            f'<line x1="{x:.1f}" y1="{TOP}" '
+            f'x2="{x:.1f}" y2="{TOP + PLOT_HEIGHT}" '
+            'stroke="#EEF1F3" stroke-width="1"/>'
+        )
+        parts.append(
+            f'<line x1="{x:.1f}" y1="{TOP + PLOT_HEIGHT}" '
+            f'x2="{x:.1f}" y2="{TOP + PLOT_HEIGHT + 6}" '
+            'stroke="#59636E" stroke-width="1"/>'
+        )
+        parts.append(
+            svg_text(x, TOP + PLOT_HEIGHT + 25, tick.strftime("%b %y"), 11, "#59636E", "middle")
+        )
 
     parts.extend(
         [
@@ -492,7 +543,7 @@ def main():
     for label, column, color in SERIES:
         points = [
             ((row["plot_date"] - first_date).days, float(row[column]))
-            for row in polls
+            for row in visible_polls
             if row[column].strip()
         ]
         if len(points) < 2:
@@ -504,6 +555,7 @@ def main():
         trend_tail = [supported_trend[-1]] + [
             point for point in trend_points if point[0] > last_observed_day
         ]
+        envelope = trend_envelope(points, supported_trend)
 
         def svg_points(trend):
             return " ".join(
@@ -512,6 +564,17 @@ def main():
                 for day, value in trend
             )
 
+        band_points = [
+            (day, max(0, min(y_max, upper)))
+            for day, _, upper in envelope
+        ] + [
+            (day, max(0, min(y_max, lower)))
+            for day, lower, _ in reversed(envelope)
+        ]
+        parts.append(
+            f'<polygon points="{svg_points(band_points)}" fill="{color}" '
+            'fill-opacity="0.12" stroke="none"/>'
+        )
         parts.append(
             f'<polyline points="{svg_points(supported_trend)}" fill="none" stroke="{color}" '
             'stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" '
@@ -525,7 +588,7 @@ def main():
 
     point_count = 0
     for label, column, color in SERIES:
-        for row in polls:
+        for row in visible_polls:
             raw_value = row[column].strip()
             if not raw_value:
                 continue
@@ -568,7 +631,7 @@ def main():
     parts.append(
         svg_text(
             LEFT,
-            HEIGHT - 25,
+            POLLS_HEIGHT - 25,
             "Source: Wikipedia opinion polling table, retrieved 29 Oct 2026.",
             12,
             "#69737C",

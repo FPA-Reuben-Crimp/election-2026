@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1360" height="690" viewBox="0 0 1360 690">
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="590" viewBox="0 0 980 590">
 <rect width="100%" height="100%" fill="#FFFFFF"/>
-<text x="32" y="44" font-family="DejaVu Sans, sans-serif" font-size="27" fill="#17212B" text-anchor="start">Why an overhang appears in this scenario</text>
+<text x="32" y="44" font-family="DejaVu Sans, sans-serif" font-size="27" fill="#17212B" text-anchor="start">Overhang Predictions</text>
 <text x="32" y="72" font-family="DejaVu Sans, sans-serif" font-size="14" fill="#5D6872" text-anchor="start">RNZ–Reid Research, 20–26 Oct 2026: party-vote entitlement versus predicted electorate wins.</text>
 <rect x="32" y="98" width="14" height="10" fill="#69737C" fill-opacity="0.24"/>
 <text x="54" y="108" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#4E5963" text-anchor="start">Proportional entitlement (120-seat MMP allocation)</text>
@@ -8,54 +8,53 @@
 <text x="368" y="108" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#4E5963" text-anchor="start">Predicted electorate seats</text>
 <rect x="595" y="98" width="14" height="10" fill="#C75B12"/>
 <text x="617" y="108" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#4E5963" text-anchor="start">Overhang: electorate seats above entitlement</text>
-<line x1="340.0" y1="164" x2="340.0" y2="486" stroke="#E5E9EC" stroke-width="1"/>
-<text x="340.0" y="508" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="middle">0</text>
-<line x1="449.0" y1="164" x2="449.0" y2="486" stroke="#E5E9EC" stroke-width="1"/>
-<text x="449.0" y="508" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="middle">10</text>
-<line x1="558.0" y1="164" x2="558.0" y2="486" stroke="#E5E9EC" stroke-width="1"/>
-<text x="558.0" y="508" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="middle">20</text>
-<line x1="667.0" y1="164" x2="667.0" y2="486" stroke="#E5E9EC" stroke-width="1"/>
-<text x="667.0" y="508" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="middle">30</text>
-<line x1="776.0" y1="164" x2="776.0" y2="486" stroke="#E5E9EC" stroke-width="1"/>
-<text x="776.0" y="508" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="middle">40</text>
-<line x1="885.0" y1="164" x2="885.0" y2="486" stroke="#E5E9EC" stroke-width="1"/>
-<text x="885.0" y="508" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="middle">50</text>
+<line x1="220.0" y1="164" x2="220.0" y2="486" stroke="#E5E9EC" stroke-width="1"/>
+<text x="220.0" y="508" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="middle">0</text>
+<line x1="366.7" y1="164" x2="366.7" y2="486" stroke="#E5E9EC" stroke-width="1"/>
+<text x="366.7" y="508" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="middle">10</text>
+<line x1="513.3" y1="164" x2="513.3" y2="486" stroke="#E5E9EC" stroke-width="1"/>
+<text x="513.3" y="508" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="middle">20</text>
+<line x1="660.0" y1="164" x2="660.0" y2="486" stroke="#E5E9EC" stroke-width="1"/>
+<text x="660.0" y="508" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="middle">30</text>
+<line x1="806.7" y1="164" x2="806.7" y2="486" stroke="#E5E9EC" stroke-width="1"/>
+<text x="806.7" y="508" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="middle">40</text>
+<line x1="880.0" y1="164" x2="880.0" y2="486" stroke="#E5E9EC" stroke-width="1"/>
+<text x="880.0" y="508" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="middle">45</text>
 <text x="28" y="198" font-family="DejaVu Sans, sans-serif" font-size="14" fill="#263238" text-anchor="start">National</text>
 <text x="28" y="212" font-family="DejaVu Sans, sans-serif" font-size="10" fill="#69737C" text-anchor="start">24.8% party vote</text>
-<rect x="340" y="187" width="327.00" height="14" fill="#00529B" fill-opacity="0.24"/>
-<rect x="340" y="191" width="457.80" height="6" fill="#00529B"/>
-<rect x="667.00" y="187" width="130.80" height="14" fill="#C75B12"/>
-<text x="905" y="198" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">30 entitled  |  42 electorate  |  0 list  |  +12 overhang</text>
+<rect x="220" y="187" width="440.00" height="14" fill="#00529B" fill-opacity="0.24"/>
+<rect x="220" y="191" width="616.00" height="6" fill="#00529B"/>
+<rect x="660.00" y="187" width="176.00" height="14" fill="#C75B12"/>
+<text x="220" y="216" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">30 entitled  |  42 electorate  |  0 list  |  +12 overhang</text>
 <text x="28" y="242" font-family="DejaVu Sans, sans-serif" font-size="14" fill="#263238" text-anchor="start">Te Pati Maori</text>
 <text x="28" y="256" font-family="DejaVu Sans, sans-serif" font-size="10" fill="#69737C" text-anchor="start">1.9% party vote</text>
-<rect x="340" y="231" width="21.80" height="14" fill="#805B46" fill-opacity="0.24"/>
-<rect x="340" y="235" width="43.60" height="6" fill="#805B46"/>
-<rect x="361.80" y="231" width="21.80" height="14" fill="#C75B12"/>
-<text x="905" y="242" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">2 entitled  |  4 electorate  |  0 list  |  +2 overhang</text>
+<rect x="220" y="231" width="29.33" height="14" fill="#805B46" fill-opacity="0.24"/>
+<rect x="220" y="235" width="58.67" height="6" fill="#805B46"/>
+<rect x="249.33" y="231" width="29.33" height="14" fill="#C75B12"/>
+<text x="220" y="260" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">2 entitled  |  4 electorate  |  0 list  |  +2 overhang</text>
 <text x="28" y="286" font-family="DejaVu Sans, sans-serif" font-size="14" fill="#263238" text-anchor="start">Labour</text>
 <text x="28" y="300" font-family="DejaVu Sans, sans-serif" font-size="10" fill="#69737C" text-anchor="start">30.6% party vote</text>
-<rect x="340" y="275" width="403.30" height="14" fill="#C8102E" fill-opacity="0.24"/>
-<rect x="340" y="279" width="207.10" height="6" fill="#C8102E"/>
-<text x="905" y="286" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">37 entitled  |  19 electorate  |  18 list  |  +0 overhang</text>
+<rect x="220" y="275" width="542.67" height="14" fill="#C8102E" fill-opacity="0.24"/>
+<rect x="220" y="279" width="278.67" height="6" fill="#C8102E"/>
+<text x="220" y="304" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">37 entitled  |  19 electorate  |  18 list</text>
 <text x="28" y="330" font-family="DejaVu Sans, sans-serif" font-size="14" fill="#263238" text-anchor="start">Green</text>
 <text x="28" y="344" font-family="DejaVu Sans, sans-serif" font-size="10" fill="#69737C" text-anchor="start">14.5% party vote</text>
-<rect x="340" y="319" width="196.20" height="14" fill="#00843D" fill-opacity="0.24"/>
-<rect x="340" y="323" width="43.60" height="6" fill="#00843D"/>
-<text x="905" y="330" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">18 entitled  |  4 electorate  |  14 list  |  +0 overhang</text>
+<rect x="220" y="319" width="264.00" height="14" fill="#00843D" fill-opacity="0.24"/>
+<rect x="220" y="323" width="58.67" height="6" fill="#00843D"/>
+<text x="220" y="348" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">18 entitled  |  4 electorate  |  14 list</text>
 <text x="28" y="374" font-family="DejaVu Sans, sans-serif" font-size="14" fill="#263238" text-anchor="start">ACT</text>
 <text x="28" y="388" font-family="DejaVu Sans, sans-serif" font-size="10" fill="#69737C" text-anchor="start">10.1% party vote</text>
-<rect x="340" y="363" width="130.80" height="14" fill="#B28A00" fill-opacity="0.24"/>
-<rect x="340" y="367" width="21.80" height="6" fill="#B28A00"/>
-<text x="905" y="374" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">12 entitled  |  2 electorate  |  10 list  |  +0 overhang</text>
+<rect x="220" y="363" width="176.00" height="14" fill="#B28A00" fill-opacity="0.24"/>
+<rect x="220" y="367" width="29.33" height="6" fill="#B28A00"/>
+<text x="220" y="392" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">12 entitled  |  2 electorate  |  10 list</text>
 <text x="28" y="418" font-family="DejaVu Sans, sans-serif" font-size="14" fill="#263238" text-anchor="start">New Zealand First</text>
 <text x="28" y="432" font-family="DejaVu Sans, sans-serif" font-size="10" fill="#69737C" text-anchor="start">9.9% party vote</text>
-<rect x="340" y="407" width="130.80" height="14" fill="#6D7075" fill-opacity="0.24"/>
-<text x="905" y="418" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">12 entitled  |  0 electorate  |  12 list  |  +0 overhang</text>
+<rect x="220" y="407" width="176.00" height="14" fill="#6D7075" fill-opacity="0.24"/>
+<text x="220" y="436" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">12 entitled  |  0 electorate  |  12 list</text>
 <text x="28" y="462" font-family="DejaVu Sans, sans-serif" font-size="14" fill="#263238" text-anchor="start">Opportunity</text>
 <text x="28" y="476" font-family="DejaVu Sans, sans-serif" font-size="10" fill="#69737C" text-anchor="start">7.2% party vote</text>
-<rect x="340" y="451" width="98.10" height="14" fill="#007F7B" fill-opacity="0.24"/>
-<text x="905" y="462" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#263238" text-anchor="start">9 entitled  |  0 electorate  |  9 list  |  +0 overhang</text>
+<rect x="220" y="451" width="132.00" height="14" fill="#007F7B" fill-opacity="0.24"/>
+<text x="220" y="480" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#263238" text-anchor="start">9 entitled  |  0 electorate  |  9 list</text>
 <text x="28" y="538" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#4E5963" text-anchor="start">Electorate basis: 2023_same_name_winner 6, 2026_local_poll 15, incumbent_hold 48, manual_fallback 2.</text>
-<text x="28" y="648" font-family="DejaVu Sans, sans-serif" font-size="13" fill="#263238" text-anchor="start">120 proportional seats + 14 overhang = 134 projected MPs.</text>
-<text x="28" y="668" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#5D6872" text-anchor="start">Overhang = max(0, electorate seats - proportional entitlement). Incumbent holds are a rough fallback, not polling.</text>
+<text x="28" y="568" font-family="DejaVu Sans, sans-serif" font-size="13" fill="#263238" text-anchor="start">120 proportional seats + 14 overhang = 134 projected MPs.</text>
 </svg>

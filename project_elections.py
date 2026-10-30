@@ -450,8 +450,8 @@ def svg_text(x, y, value, size=14, color="#263238", anchor="start"):
 
 
 def render_coalition_chart(poll, electorate_predictions, projection, scenarios):
-    width = 1480
-    height = 760
+    width = 1320
+    height = 540
     left = 300
     top = 190
     plot_width = 760
@@ -466,18 +466,23 @@ def render_coalition_chart(poll, electorate_predictions, projection, scenarios):
     parts = [
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}">',
         '<rect width="100%" height="100%" fill="#FFFFFF"/>',
-        svg_text(32, 48, "Rough electorate and coalition seat scenarios", 28, "#17212B"),
+        svg_text(32, 48, "Coalition Seat Majority with Overhang", 28, "#17212B"),
         svg_text(
             32,
             78,
-            "Stacked bars are party seats; dashed line is majority. Order is by MPs, not probability.",
+            "Highlighted band marks the last seat needed for a majority. Order is by MPs, not probability.",
             15,
             "#5D6872",
         ),
         svg_text(32, 111, "PARTY SEAT SEGMENTS", 11, "#69737C"),
     ]
 
-    for index, (party, color) in enumerate(PARTY_COLORS.items()):
+    legend_parties = [
+        (party, color)
+        for party, color in PARTY_COLORS.items()
+        if party not in {"Te Tai Tokerau", "Independent"}
+    ]
+    for index, (party, color) in enumerate(legend_parties):
         column = index % 5
         row = index // 5
         x = 32 + column * 265
@@ -496,12 +501,10 @@ def render_coalition_chart(poll, electorate_predictions, projection, scenarios):
         parts.append(svg_text(x, plot_bottom + 25, seats, 12, "#59636E", "middle"))
 
     majority_x = x_position(majority)
+    majority_seat_x = x_position(majority - 1)
     parts.append(
-        f'<line x1="{majority_x:.1f}" y1="{top - 22}" '
-        f'x2="{majority_x:.1f}" y2="{plot_bottom}" '
-        'stroke="#252525" stroke-width="2" stroke-dasharray="6 4"/>'
+        svg_text(majority_x + 6, top - 28, f"Majority seat: {majority}", 12, "#252525")
     )
-    parts.append(svg_text(majority_x + 6, top - 28, f"Majority: {majority}", 12, "#252525"))
 
     for index, scenario in enumerate(scenarios):
         y = top + index * row_height + 18
@@ -536,6 +539,13 @@ def render_coalition_chart(poll, electorate_predictions, projection, scenarios):
                 "#263238",
             )
         )
+
+    parts.append(
+        f'<rect x="{majority_seat_x:.1f}" y="{top - 22}" '
+        f'width="{majority_x - majority_seat_x:.1f}" '
+        f'height="{plot_bottom - (top - 22)}" fill="#F4C95D" '
+        'fill-opacity="0.22" stroke="#252525" stroke-width="1"/>'
+    )
 
     method_counts = Counter(row["forecast_method"] for row in electorate_predictions)
     methods_text = ", ".join(f"{count} {method}" for method, count in sorted(method_counts.items()))
@@ -628,18 +638,14 @@ def render_overhang_chart(poll, electorate_predictions, projection):
         )
     )
 
-    width = 1360
-    height = 690
-    left = 340
+    width = 980
+    height = 590
+    left = 220
     top = 178
-    plot_width = 545
+    plot_width = 660
     row_height = 44
     plot_bottom = top + row_height * len(parties)
-    max_seats = max(
-        max(values["proportional_entitlement"], values["electorate_seats"])
-        for _, values in parties
-    )
-    x_max = max(50, ((max_seats + 9) // 10) * 10)
+    x_max = 45
 
     def x_position(seats):
         return left + seats / x_max * plot_width
@@ -647,7 +653,7 @@ def render_overhang_chart(poll, electorate_predictions, projection):
     parts = [
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}">',
         '<rect width="100%" height="100%" fill="#FFFFFF"/>',
-        svg_text(32, 44, "Why an overhang appears in this scenario", 27, "#17212B"),
+        svg_text(32, 44, "Overhang Predictions", 27, "#17212B"),
         svg_text(
             32,
             72,
@@ -663,7 +669,10 @@ def render_overhang_chart(poll, electorate_predictions, projection):
         svg_text(617, 108, "Overhang: electorate seats above entitlement", 12, "#4E5963"),
     ]
 
-    for seats in range(0, x_max + 1, 10):
+    tick_values = list(range(0, x_max + 1, 10))
+    if tick_values[-1] != x_max:
+        tick_values.append(x_max)
+    for seats in tick_values:
         x = x_position(seats)
         parts.append(
             f'<line x1="{x:.1f}" y1="{top - 14}" x2="{x:.1f}" y2="{plot_bottom}" '
@@ -678,6 +687,7 @@ def render_overhang_chart(poll, electorate_predictions, projection):
         overhang = values["overhang_seats"]
         list_seats = values["list_seats"]
         color = PARTY_COLORS.get(party, "#39424E")
+        overhang_label = f"  |  +{overhang} overhang" if overhang else ""
 
         parts.append(svg_text(28, y + 4, party, 14, "#263238"))
         parts.append(
@@ -700,11 +710,11 @@ def render_overhang_chart(poll, electorate_predictions, projection):
             )
         parts.append(
             svg_text(
-                left + plot_width + 20,
-                y + 4,
+                left,
+                y + 22,
                 f"{entitlement} entitled  |  {electorate} electorate  |  "
-                f"{list_seats} list  |  +{overhang} overhang",
-                12,
+                f"{list_seats} list{overhang_label}",
+                11,
                 "#263238",
             )
         )
@@ -722,18 +732,11 @@ def render_overhang_chart(poll, electorate_predictions, projection):
             ),
             svg_text(
                 28,
-                height - 42,
+                height - 22,
                 f"120 proportional seats + {projection['overhang_seats']} overhang = "
                 f"{projection['parliament_size']} projected MPs.",
                 13,
                 "#263238",
-            ),
-            svg_text(
-                28,
-                height - 22,
-                "Overhang = max(0, electorate seats - proportional entitlement). Incumbent holds are a rough fallback, not polling.",
-                11,
-                "#5D6872",
             ),
             "</svg>",
         ]

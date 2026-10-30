@@ -1,373 +1,415 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="760" viewBox="0 0 1280 760">
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="700" viewBox="0 0 1280 700">
 <rect width="100%" height="100%" fill="#FFFFFF"/>
 <text x="108" y="44" font-family="DejaVu Sans, sans-serif" font-size="28" fill="#17212B" text-anchor="start" >Potential coalition party-vote trends</text>
-<text x="108" y="72" font-family="DejaVu Sans, sans-serif" font-size="15" fill="#5D6872" text-anchor="start" >Jan 2026 onward; named-party sums with solid LOWESS and dashed extensions to voting day.</text>
+<text x="108" y="72" font-family="DejaVu Sans, sans-serif" font-size="15" fill="#5D6872" text-anchor="start" >Past year; named-party sums with solid LOWESS and dashed extensions to voting day.</text>
 <line x1="108" y1="605.0" x2="928" y2="605.0" stroke="#DCE2E7" stroke-width="1"/>
-<text x="94" y="610.0" font-family="DejaVu Sans, sans-serif" font-size="13" fill="#59636E" text-anchor="end" >30%</text>
-<line x1="108" y1="533.6" x2="928" y2="533.6" stroke="#DCE2E7" stroke-width="1"/>
-<text x="94" y="538.5714285714286" font-family="DejaVu Sans, sans-serif" font-size="13" fill="#59636E" text-anchor="end" >35%</text>
-<line x1="108" y1="462.1" x2="928" y2="462.1" stroke="#DCE2E7" stroke-width="1"/>
-<text x="94" y="467.1428571428571" font-family="DejaVu Sans, sans-serif" font-size="13" fill="#59636E" text-anchor="end" >40%</text>
-<line x1="108" y1="390.7" x2="928" y2="390.7" stroke="#DCE2E7" stroke-width="1"/>
-<text x="94" y="395.7142857142857" font-family="DejaVu Sans, sans-serif" font-size="13" fill="#59636E" text-anchor="end" >45%</text>
-<line x1="108" y1="319.3" x2="928" y2="319.3" stroke="#DCE2E7" stroke-width="1"/>
-<text x="94" y="324.2857142857143" font-family="DejaVu Sans, sans-serif" font-size="13" fill="#59636E" text-anchor="end" >50%</text>
-<line x1="108" y1="247.9" x2="928" y2="247.9" stroke="#DCE2E7" stroke-width="1"/>
-<text x="94" y="252.85714285714283" font-family="DejaVu Sans, sans-serif" font-size="13" fill="#59636E" text-anchor="end" >55%</text>
-<line x1="108" y1="176.4" x2="928" y2="176.4" stroke="#DCE2E7" stroke-width="1"/>
-<text x="94" y="181.42857142857144" font-family="DejaVu Sans, sans-serif" font-size="13" fill="#59636E" text-anchor="end" >60%</text>
+<text x="94" y="610.0" font-family="DejaVu Sans, sans-serif" font-size="13" fill="#59636E" text-anchor="end" >35%</text>
+<line x1="108" y1="521.7" x2="928" y2="521.7" stroke="#DCE2E7" stroke-width="1"/>
+<text x="94" y="526.6666666666666" font-family="DejaVu Sans, sans-serif" font-size="13" fill="#59636E" text-anchor="end" >40%</text>
+<line x1="108" y1="438.3" x2="928" y2="438.3" stroke="#DCE2E7" stroke-width="1"/>
+<text x="94" y="443.33333333333337" font-family="DejaVu Sans, sans-serif" font-size="13" fill="#59636E" text-anchor="end" >45%</text>
+<line x1="108" y1="355.0" x2="928" y2="355.0" stroke="#DCE2E7" stroke-width="1"/>
+<text x="94" y="360.0" font-family="DejaVu Sans, sans-serif" font-size="13" fill="#59636E" text-anchor="end" >50%</text>
+<line x1="108" y1="271.7" x2="928" y2="271.7" stroke="#DCE2E7" stroke-width="1"/>
+<text x="94" y="276.6666666666667" font-family="DejaVu Sans, sans-serif" font-size="13" fill="#59636E" text-anchor="end" >55%</text>
+<line x1="108" y1="188.3" x2="928" y2="188.3" stroke="#DCE2E7" stroke-width="1"/>
+<text x="94" y="193.33333333333331" font-family="DejaVu Sans, sans-serif" font-size="13" fill="#59636E" text-anchor="end" >60%</text>
 <line x1="108" y1="105.0" x2="928" y2="105.0" stroke="#DCE2E7" stroke-width="1"/>
 <text x="94" y="110.0" font-family="DejaVu Sans, sans-serif" font-size="13" fill="#59636E" text-anchor="end" >65%</text>
-<line x1="108.0" y1="105" x2="108.0" y2="605" stroke="#EEF1F3" stroke-width="1"/>
-<text x="108.0" y="630" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#59636E" text-anchor="middle" >Jan 2026</text>
-<line x1="186.5" y1="105" x2="186.5" y2="605" stroke="#EEF1F3" stroke-width="1"/>
-<text x="186.45679012345678" y="630" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#59636E" text-anchor="middle" >Feb 2026</text>
-<line x1="257.3" y1="105" x2="257.3" y2="605" stroke="#EEF1F3" stroke-width="1"/>
-<text x="257.320987654321" y="630" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#59636E" text-anchor="middle" >Mar 2026</text>
-<line x1="335.8" y1="105" x2="335.8" y2="605" stroke="#EEF1F3" stroke-width="1"/>
-<text x="335.7777777777778" y="630" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#59636E" text-anchor="middle" >Apr 2026</text>
-<line x1="411.7" y1="105" x2="411.7" y2="605" stroke="#EEF1F3" stroke-width="1"/>
-<text x="411.7037037037037" y="630" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#59636E" text-anchor="middle" >May 2026</text>
-<line x1="490.2" y1="105" x2="490.2" y2="605" stroke="#EEF1F3" stroke-width="1"/>
-<text x="490.1604938271605" y="630" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#59636E" text-anchor="middle" >Jun 2026</text>
-<line x1="566.1" y1="105" x2="566.1" y2="605" stroke="#EEF1F3" stroke-width="1"/>
-<text x="566.0864197530864" y="630" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#59636E" text-anchor="middle" >Jul 2026</text>
-<line x1="644.5" y1="105" x2="644.5" y2="605" stroke="#EEF1F3" stroke-width="1"/>
-<text x="644.5432098765432" y="630" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#59636E" text-anchor="middle" >Aug 2026</text>
-<line x1="723.0" y1="105" x2="723.0" y2="605" stroke="#EEF1F3" stroke-width="1"/>
-<text x="723.0" y="630" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#59636E" text-anchor="middle" >Sep 2026</text>
-<line x1="798.9" y1="105" x2="798.9" y2="605" stroke="#EEF1F3" stroke-width="1"/>
-<text x="798.9259259259259" y="630" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#59636E" text-anchor="middle" >Oct 2026</text>
-<line x1="877.4" y1="105" x2="877.4" y2="605" stroke="#EEF1F3" stroke-width="1"/>
-<text x="877.3827160493827" y="630" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#59636E" text-anchor="middle" >Nov 2026</text>
+<line x1="130.5" y1="105" x2="130.5" y2="605" stroke="#EEF1F3" stroke-width="1"/>
+<line x1="130.5" y1="605" x2="130.5" y2="611" stroke="#59636E" stroke-width="1"/>
+<text x="130.46575342465752" y="630" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="middle" >Dec 25</text>
+<line x1="200.1" y1="105" x2="200.1" y2="605" stroke="#EEF1F3" stroke-width="1"/>
+<line x1="200.1" y1="605" x2="200.1" y2="611" stroke="#59636E" stroke-width="1"/>
+<text x="200.1095890410959" y="630" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="middle" >Jan 26</text>
+<line x1="269.8" y1="105" x2="269.8" y2="605" stroke="#EEF1F3" stroke-width="1"/>
+<line x1="269.8" y1="605" x2="269.8" y2="611" stroke="#59636E" stroke-width="1"/>
+<text x="269.75342465753425" y="630" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="middle" >Feb 26</text>
+<line x1="332.7" y1="105" x2="332.7" y2="605" stroke="#EEF1F3" stroke-width="1"/>
+<line x1="332.7" y1="605" x2="332.7" y2="611" stroke="#59636E" stroke-width="1"/>
+<text x="332.6575342465753" y="630" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="middle" >Mar 26</text>
+<line x1="402.3" y1="105" x2="402.3" y2="605" stroke="#EEF1F3" stroke-width="1"/>
+<line x1="402.3" y1="605" x2="402.3" y2="611" stroke="#59636E" stroke-width="1"/>
+<text x="402.30136986301375" y="630" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="middle" >Apr 26</text>
+<line x1="469.7" y1="105" x2="469.7" y2="605" stroke="#EEF1F3" stroke-width="1"/>
+<line x1="469.7" y1="605" x2="469.7" y2="611" stroke="#59636E" stroke-width="1"/>
+<text x="469.6986301369863" y="630" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="middle" >May 26</text>
+<line x1="539.3" y1="105" x2="539.3" y2="605" stroke="#EEF1F3" stroke-width="1"/>
+<line x1="539.3" y1="605" x2="539.3" y2="611" stroke="#59636E" stroke-width="1"/>
+<text x="539.3424657534247" y="630" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="middle" >Jun 26</text>
+<line x1="606.7" y1="105" x2="606.7" y2="605" stroke="#EEF1F3" stroke-width="1"/>
+<line x1="606.7" y1="605" x2="606.7" y2="611" stroke="#59636E" stroke-width="1"/>
+<text x="606.7397260273973" y="630" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="middle" >Jul 26</text>
+<line x1="676.4" y1="105" x2="676.4" y2="605" stroke="#EEF1F3" stroke-width="1"/>
+<line x1="676.4" y1="605" x2="676.4" y2="611" stroke="#59636E" stroke-width="1"/>
+<text x="676.3835616438356" y="630" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="middle" >Aug 26</text>
+<line x1="746.0" y1="105" x2="746.0" y2="605" stroke="#EEF1F3" stroke-width="1"/>
+<line x1="746.0" y1="605" x2="746.0" y2="611" stroke="#59636E" stroke-width="1"/>
+<text x="746.027397260274" y="630" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="middle" >Sep 26</text>
+<line x1="813.4" y1="105" x2="813.4" y2="605" stroke="#EEF1F3" stroke-width="1"/>
+<line x1="813.4" y1="605" x2="813.4" y2="611" stroke="#59636E" stroke-width="1"/>
+<text x="813.4246575342465" y="630" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="middle" >Oct 26</text>
+<line x1="883.1" y1="105" x2="883.1" y2="605" stroke="#EEF1F3" stroke-width="1"/>
+<line x1="883.1" y1="605" x2="883.1" y2="611" stroke="#59636E" stroke-width="1"/>
+<text x="883.068493150685" y="630" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#59636E" text-anchor="middle" >Nov 26</text>
 <line x1="108" y1="105" x2="108" y2="605" stroke="#59636E" stroke-width="1.5"/>
 <line x1="108" y1="605" x2="928" y2="605" stroke="#59636E" stroke-width="1.5"/>
 <text x="28" y="355.0" font-family="DejaVu Sans, sans-serif" font-size="14" fill="#263238" text-anchor="middle" transform="rotate(-90 28 355)">Combined party vote</text>
-<line x1="862.2" y1="105" x2="862.2" y2="605" stroke="#C75B12" stroke-width="2" stroke-dasharray="6 5"/>
-<line x1="892.6" y1="105" x2="892.6" y2="605" stroke="#C0266B" stroke-width="2" stroke-dasharray="6 5"/>
-<polyline points="151.02,396.60 161.15,393.80 171.27,391.05 191.52,385.71 211.77,380.59 239.60,373.94 262.38,368.72 285.16,363.54 305.41,358.86 310.47,357.84 338.31,358.85 371.21,361.82 373.74,362.13 399.05,361.14 426.89,361.50 469.91,360.75 507.88,361.57 512.94,361.76 530.65,361.20 540.78,360.57 576.21,358.50 586.33,358.15 611.64,359.28 629.36,360.48 652.14,358.25 669.85,356.50 672.38,356.20 695.16,353.52 700.22,352.53 728.06,346.42 745.78,343.69 748.31,343.76 788.80,335.13 798.93,332.48 809.05,329.86 821.70,326.61 826.77,325.31 844.48,320.83 859.67,317.11 862.20,316.50" fill="none" stroke="#E69F00" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" stroke-opacity="0.92"/>
-<polyline points="862.20,316.50 892.57,309.20" fill="none" stroke="#E69F00" stroke-width="2.5" stroke-dasharray="3 2" stroke-linejoin="round" stroke-linecap="round" stroke-opacity="0.92"/>
-<polyline points="151.02,269.58 161.15,267.21 171.27,264.85 191.52,260.15 211.77,255.46 214.30,254.87 239.60,248.99 262.38,243.66 285.16,238.24 305.41,234.01 310.47,233.32 338.31,230.38 371.21,228.48 373.74,228.48 399.05,228.37 426.89,228.94 434.48,228.90 469.91,233.83 507.88,242.58 512.94,243.52 515.47,243.93 530.65,248.23 540.78,251.12 576.21,265.09 586.33,269.30 611.64,281.02 629.36,289.12 652.14,293.50 669.85,295.78 672.38,296.44 695.16,300.62 700.22,299.60 728.06,292.39 745.78,288.98 748.31,288.89 788.80,277.63 798.93,275.66 809.05,273.83 821.70,271.68 826.77,270.86 844.48,268.23 859.67,266.26 862.20,265.95" fill="none" stroke="#009E73" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" stroke-opacity="0.92"/>
-<polyline points="862.20,265.95 892.57,262.66" fill="none" stroke="#009E73" stroke-width="2.5" stroke-dasharray="3 2" stroke-linejoin="round" stroke-linecap="round" stroke-opacity="0.92"/>
-<polyline points="151.02,254.89 161.15,251.11 171.27,247.34 191.52,239.85 211.77,232.44 239.60,222.44 262.38,214.39 285.16,206.36 305.41,198.85 310.47,196.90 338.31,193.34 371.21,192.86 373.74,192.85 399.05,192.59 426.89,192.40 469.91,195.26 507.88,200.67 512.94,201.56 530.65,202.53 540.78,202.67 576.21,203.54 586.33,204.20 611.64,207.62 629.36,210.18 652.14,209.24 669.85,208.39 672.38,208.00 695.16,205.92 700.22,204.75 728.06,197.63 745.78,195.24 748.31,195.27 788.80,185.45 798.93,184.23 809.05,182.98 821.70,181.29 826.77,180.59 844.48,178.13 859.67,176.05 862.20,175.71" fill="none" stroke="#D55E00" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" stroke-opacity="0.92"/>
-<polyline points="862.20,175.71 892.57,171.55" fill="none" stroke="#D55E00" stroke-width="2.5" stroke-dasharray="3 2" stroke-linejoin="round" stroke-linecap="round" stroke-opacity="0.92"/>
-<polyline points="151.02,325.29 161.15,326.48 171.27,327.61 191.52,329.69 211.77,331.54 214.30,331.75 239.60,333.71 262.38,335.27 285.16,336.91 305.41,337.07 310.47,337.08 338.31,336.09 371.21,333.06 373.74,332.84 399.05,331.87 426.89,332.38 434.48,332.44 469.91,334.72 507.88,335.45 512.94,335.43 515.47,335.43 530.65,335.90 540.78,336.49 576.21,339.72 586.33,340.39 611.64,341.30 629.36,341.31 652.14,342.38 669.85,343.32 672.38,343.46 695.16,345.03 700.22,345.11 728.06,345.26 745.78,344.23 748.31,344.17 788.80,343.37 798.93,342.41 809.05,341.44 821.70,340.22 826.77,339.72 844.48,337.93 859.67,336.23 862.20,335.93" fill="none" stroke="#56B4E9" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" stroke-opacity="0.92"/>
-<polyline points="862.20,335.93 892.57,332.19" fill="none" stroke="#56B4E9" stroke-width="2.5" stroke-dasharray="3 2" stroke-linejoin="round" stroke-linecap="round" stroke-opacity="0.92"/>
-<polyline points="151.02,434.30 161.15,435.48 171.27,436.68 191.52,439.08 211.77,441.45 239.60,444.61 262.38,447.11 285.16,449.78 305.41,452.90 310.47,453.92 338.31,456.48 371.21,455.75 373.74,455.63 399.05,453.91 426.89,452.36 469.91,449.17 507.88,442.67 512.94,441.66 530.65,437.87 540.78,435.67 576.21,427.97 586.33,425.16 611.64,417.76 629.36,412.26 652.14,408.18 669.85,404.33 672.38,404.19 695.16,401.32 700.22,401.51 728.06,402.52 745.78,402.31 748.31,402.23 788.80,403.51 798.93,401.86 809.05,400.34 821.70,398.61 826.77,397.94 844.48,395.51 859.67,393.24 862.20,392.84" fill="none" stroke="#CC79A7" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" stroke-opacity="0.92"/>
-<polyline points="862.20,392.84 892.57,387.90" fill="none" stroke="#CC79A7" stroke-width="2.5" stroke-dasharray="3 2" stroke-linejoin="round" stroke-linecap="round" stroke-opacity="0.92"/>
-<polyline points="151.02,399.86 161.15,400.40 171.27,400.91 191.52,401.87 211.77,402.74 239.60,403.79 262.38,404.57 285.16,405.46 305.41,406.52 310.47,406.77 338.31,405.63 371.21,401.93 373.74,401.59 399.05,398.58 426.89,395.37 469.91,391.77 507.88,386.61 512.94,385.64 530.65,382.45 540.78,380.92 576.21,377.24 586.33,376.26 611.64,373.04 629.36,370.62 652.14,370.87 669.85,370.68 672.38,371.00 695.16,373.46 700.22,374.62 728.06,380.12 745.78,383.34 748.31,383.88 788.80,389.98 798.93,390.46 809.05,391.34 821.70,392.65 826.77,393.18 844.48,395.00 859.67,396.49 862.20,396.74" fill="none" stroke="#4D4D4D" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" stroke-opacity="0.92"/>
-<polyline points="862.20,396.74 892.57,400.05" fill="none" stroke="#4D4D4D" stroke-width="2.5" stroke-dasharray="3 2" stroke-linejoin="round" stroke-linecap="round" stroke-opacity="0.92"/>
-<polyline points="151.02,292.08 161.15,292.17 171.27,292.24 191.52,292.31 211.77,292.30 239.60,292.12 262.38,291.90 285.16,291.86 305.41,292.32 310.47,292.50 338.31,291.71 371.21,288.70 373.74,288.39 399.05,287.46 426.89,286.04 469.91,285.95 507.88,282.69 512.94,282.23 530.65,279.58 540.78,277.99 576.21,272.71 586.33,270.73 611.64,265.36 629.36,260.98 652.14,258.28 669.85,255.93 672.38,255.88 695.16,255.01 700.22,255.22 728.06,255.19 745.78,255.21 748.31,255.29 788.80,255.87 798.93,254.28 809.05,252.89 821.70,251.31 826.77,250.69 844.48,248.44 859.67,246.33 862.20,245.97" fill="none" stroke="#332288" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" stroke-opacity="0.92"/>
-<polyline points="862.20,245.97 892.57,241.46" fill="none" stroke="#332288" stroke-width="2.5" stroke-dasharray="3 2" stroke-linejoin="round" stroke-linecap="round" stroke-opacity="0.92"/>
-<circle cx="862.20" cy="286.43" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>20–26 Oct 2026 | RNZ–Reid Research | LAB + GRN + OPP: 52.3%</title></circle>
-<circle cx="859.67" cy="342.14" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>21–25 Oct 2026 | 1 News–Verian | LAB + GRN + OPP: 48.4%</title></circle>
-<circle cx="844.48" cy="319.29" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>15–19 Oct 2026 | 1 News–Verian | LAB + GRN + OPP: 50%</title></circle>
-<circle cx="844.48" cy="342.14" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>9–19 Oct 2026 | The Post/Freshwater Strategy | LAB + GRN + OPP: 48.4%</title></circle>
-<circle cx="826.77" cy="305.00" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>8–12 Oct 2026 | 1 News–Verian | LAB + GRN + OPP: 51%</title></circle>
-<circle cx="821.70" cy="327.86" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>6–10 Oct 2026 | Anacta | LAB + GRN + OPP: 49.4%</title></circle>
-<circle cx="809.05" cy="372.14" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–5 Oct 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + OPP: 46.3%</title></circle>
-<circle cx="809.05" cy="305.00" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–5 Oct 2026 | 1 News–Verian | LAB + GRN + OPP: 51%</title></circle>
-<circle cx="798.93" cy="303.57" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>24 Sep – 1 Oct 2026 | RNZ–Reid Research | LAB + GRN + OPP: 51.1%</title></circle>
-<circle cx="788.80" cy="319.29" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>23–27 Sep 2026 | 1 News–Verian | LAB + GRN + OPP: 50%</title></circle>
-<circle cx="788.80" cy="376.43" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>31 Aug – 27 Sep 2026 | Roy Morgan | LAB + GRN + OPP: 46%</title></circle>
-<circle cx="748.31" cy="349.29" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>4–11 Sep 2026 | The Post/Freshwater Strategy | LAB + GRN + OPP: 47.9%</title></circle>
-<circle cx="745.78" cy="319.29" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>4–10 Sep 2026 | Anacta | LAB + GRN + OPP: 50%</title></circle>
-<circle cx="728.06" cy="400.71" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–3 Sep 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + OPP: 44.3%</title></circle>
-<circle cx="700.22" cy="333.57" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>27 Jul – 23 Aug 2026 | Roy Morgan | LAB + GRN + OPP: 49%</title></circle>
-<circle cx="695.16" cy="352.14" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>14–21 Aug 2026 | RNZ–Reid Research | LAB + GRN + OPP: 47.7%</title></circle>
-<circle cx="672.38" cy="319.29" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>8–11 Aug 2026 | 1 News–Verian | LAB + GRN + OPP: 50%</title></circle>
-<circle cx="669.85" cy="359.29" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–11 Aug 2026 | Talbot Mills | LAB + GRN + OPP: 47.2%</title></circle>
-<circle cx="652.14" cy="405.00" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–4 Aug 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + OPP: 44%</title></circle>
-<circle cx="629.36" cy="362.14" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>29 Jun – 26 Jul 2026 | Roy Morgan | LAB + GRN + OPP: 47%</title></circle>
-<circle cx="611.64" cy="366.43" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>10–19 Jul 2026 | Talbot Mills | LAB + GRN + OPP: 46.7%</title></circle>
-<circle cx="586.33" cy="333.57" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>2–9 Jul 2026 | RNZ–Reid Research | LAB + GRN + OPP: 49%</title></circle>
-<circle cx="576.21" cy="387.86" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–5 Jul 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + OPP: 45.2%</title></circle>
-<circle cx="540.78" cy="383.57" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>25 May – 21 Jun 2026 | Roy Morgan | LAB + GRN + OPP: 45.5%</title></circle>
-<circle cx="530.65" cy="325.00" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>13–17 Jun 2026 | 1 News–Verian | LAB + GRN + OPP: 49.6%</title></circle>
-<circle cx="512.94" cy="315.00" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–10 Jun 2026 | Talbot Mills | LAB + GRN + OPP: 50.3%</title></circle>
-<circle cx="507.88" cy="363.57" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>4–8 Jun 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + OPP: 46.9%</title></circle>
-<circle cx="469.91" cy="390.71" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>27 Apr – 24 May 2026 | Roy Morgan | LAB + GRN + OPP: 45%</title></circle>
-<circle cx="426.89" cy="399.29" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>3–7 May 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + OPP: 44.4%</title></circle>
-<circle cx="399.05" cy="333.57" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>30 Mar – 26 Apr 2026 | Roy Morgan | LAB + GRN + OPP: 49%</title></circle>
-<circle cx="373.74" cy="386.43" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>16 Apr 2026 | Talbot Mills | LAB + GRN + OPP: 45.3%</title></circle>
-<circle cx="371.21" cy="300.71" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>11–15 Apr 2026 | 1 News–Verian | LAB + GRN + OPP: 51.3%</title></circle>
-<circle cx="338.31" cy="407.86" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–2 Apr 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + OPP: 43.8%</title></circle>
-<circle cx="310.47" cy="333.57" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>23 Feb – 22 Mar 2026 | Roy Morgan | LAB + GRN + OPP: 49%</title></circle>
-<circle cx="305.41" cy="352.14" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>12–20 Mar 2026 | RNZ–Reid Research | LAB + GRN + OPP: 47.7%</title></circle>
-<circle cx="285.16" cy="342.14" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>2–12 Mar 2026 | Talbot Mills | LAB + GRN + OPP: 48.4%</title></circle>
-<circle cx="262.38" cy="365.00" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–3 Mar 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + OPP: 46.8%</title></circle>
-<circle cx="239.60" cy="340.71" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>27 Jan – 22 Feb 2026 | Roy Morgan | LAB + GRN + OPP: 48.5%</title></circle>
-<circle cx="211.77" cy="405.00" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>7–11 Feb 2026 | 1 News–Verian | LAB + GRN + OPP: 44%</title></circle>
-<circle cx="191.52" cy="379.29" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–3 Feb 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + OPP: 45.8%</title></circle>
-<circle cx="171.27" cy="412.14" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>6–26 Jan 2026 | Roy Morgan | LAB + GRN + OPP: 43.5%</title></circle>
-<circle cx="161.15" cy="363.57" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>15–22 Jan 2026 | RNZ–Reid Research | LAB + GRN + OPP: 46.9%</title></circle>
-<circle cx="151.02" cy="422.14" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>14–18 Jan 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + OPP: 42.8%</title></circle>
-<circle cx="862.20" cy="247.86" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>20–26 Oct 2026 | RNZ–Reid Research | LAB + GRN + NZF: 55%</title></circle>
-<circle cx="859.67" cy="289.29" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>21–25 Oct 2026 | 1 News–Verian | LAB + GRN + NZF: 52.1%</title></circle>
-<circle cx="844.48" cy="305.00" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>15–19 Oct 2026 | 1 News–Verian | LAB + GRN + NZF: 51%</title></circle>
-<circle cx="844.48" cy="250.71" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>9–19 Oct 2026 | The Post/Freshwater Strategy | LAB + GRN + NZF: 54.8%</title></circle>
-<circle cx="826.77" cy="276.43" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>8–12 Oct 2026 | 1 News–Verian | LAB + GRN + NZF: 53%</title></circle>
-<circle cx="821.70" cy="262.14" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>6–10 Oct 2026 | Anacta | LAB + GRN + NZF: 54%</title></circle>
-<circle cx="809.05" cy="269.29" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–5 Oct 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + NZF: 53.5%</title></circle>
-<circle cx="809.05" cy="262.14" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–5 Oct 2026 | 1 News–Verian | LAB + GRN + NZF: 54%</title></circle>
-<circle cx="798.93" cy="230.71" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>24 Sep – 1 Oct 2026 | RNZ–Reid Research | LAB + GRN + NZF: 56.2%</title></circle>
-<circle cx="788.80" cy="276.43" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>23–27 Sep 2026 | 1 News–Verian | LAB + GRN + NZF: 53%</title></circle>
-<circle cx="788.80" cy="326.43" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>31 Aug – 27 Sep 2026 | Roy Morgan | LAB + GRN + NZF: 49.5%</title></circle>
-<circle cx="748.31" cy="259.29" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>4–11 Sep 2026 | The Post/Freshwater Strategy | LAB + GRN + NZF: 54.2%</title></circle>
-<circle cx="745.78" cy="276.43" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>4–10 Sep 2026 | Anacta | LAB + GRN + NZF: 53%</title></circle>
-<circle cx="728.06" cy="345.00" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–3 Sep 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + NZF: 48.2%</title></circle>
-<circle cx="700.22" cy="362.14" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>27 Jul – 23 Aug 2026 | Roy Morgan | LAB + GRN + NZF: 47%</title></circle>
-<circle cx="695.16" cy="257.86" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>14–21 Aug 2026 | RNZ–Reid Research | LAB + GRN + NZF: 54.3%</title></circle>
-<circle cx="672.38" cy="319.29" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>8–11 Aug 2026 | 1 News–Verian | LAB + GRN + NZF: 50%</title></circle>
-<circle cx="669.85" cy="247.86" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–11 Aug 2026 | Talbot Mills | LAB + GRN + NZF: 55%</title></circle>
-<circle cx="652.14" cy="362.14" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–4 Aug 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + NZF: 47%</title></circle>
-<circle cx="629.36" cy="355.00" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>29 Jun – 26 Jul 2026 | Roy Morgan | LAB + GRN + NZF: 47.5%</title></circle>
-<circle cx="611.64" cy="262.14" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>10–19 Jul 2026 | Talbot Mills | LAB + GRN + NZF: 54%</title></circle>
-<circle cx="586.33" cy="236.43" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>2–9 Jul 2026 | RNZ–Reid Research | LAB + GRN + NZF: 55.8%</title></circle>
-<circle cx="576.21" cy="280.71" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–5 Jul 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + NZF: 52.7%</title></circle>
-<circle cx="540.78" cy="326.43" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>25 May – 21 Jun 2026 | Roy Morgan | LAB + GRN + NZF: 49.5%</title></circle>
-<circle cx="530.65" cy="233.57" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>13–17 Jun 2026 | 1 News–Verian | LAB + GRN + NZF: 56%</title></circle>
-<circle cx="515.47" cy="209.29" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>5–11 Jun 2026 | The Post/Freshwater Strategy | LAB + GRN + NZF: 57.7%</title></circle>
-<circle cx="512.94" cy="190.71" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–10 Jun 2026 | Talbot Mills | LAB + GRN + NZF: 59%</title></circle>
-<circle cx="507.88" cy="246.43" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>4–8 Jun 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + NZF: 55.1%</title></circle>
-<circle cx="469.91" cy="319.29" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>27 Apr – 24 May 2026 | Roy Morgan | LAB + GRN + NZF: 50%</title></circle>
-<circle cx="434.48" cy="190.71" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–10 May 2026 | Talbot Mills | LAB + GRN + NZF: 59%</title></circle>
-<circle cx="426.89" cy="272.14" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>3–7 May 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + NZF: 53.3%</title></circle>
-<circle cx="399.05" cy="226.43" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>30 Mar – 26 Apr 2026 | Roy Morgan | LAB + GRN + NZF: 56.5%</title></circle>
-<circle cx="373.74" cy="205.00" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>16 Apr 2026 | Talbot Mills | LAB + GRN + NZF: 58%</title></circle>
-<circle cx="371.21" cy="205.00" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>11–15 Apr 2026 | 1 News–Verian | LAB + GRN + NZF: 58%</title></circle>
-<circle cx="338.31" cy="250.71" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–2 Apr 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + NZF: 54.8%</title></circle>
-<circle cx="310.47" cy="233.57" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>23 Feb – 22 Mar 2026 | Roy Morgan | LAB + GRN + NZF: 56%</title></circle>
-<circle cx="305.41" cy="229.29" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>12–20 Mar 2026 | RNZ–Reid Research | LAB + GRN + NZF: 56.3%</title></circle>
-<circle cx="285.16" cy="219.29" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>2–12 Mar 2026 | Talbot Mills | LAB + GRN + NZF: 57%</title></circle>
-<circle cx="262.38" cy="253.57" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–3 Mar 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + NZF: 54.6%</title></circle>
-<circle cx="239.60" cy="262.14" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>27 Jan – 22 Feb 2026 | Roy Morgan | LAB + GRN + NZF: 54%</title></circle>
-<circle cx="214.30" cy="203.57" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>6–12 Feb 2026 | The Post/Freshwater Strategy | LAB + GRN + NZF: 58.1%</title></circle>
-<circle cx="211.77" cy="276.43" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>7–11 Feb 2026 | 1 News–Verian | LAB + GRN + NZF: 53%</title></circle>
-<circle cx="191.52" cy="249.29" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–3 Feb 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + NZF: 54.9%</title></circle>
-<circle cx="171.27" cy="319.29" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>6–26 Jan 2026 | Roy Morgan | LAB + GRN + NZF: 50%</title></circle>
-<circle cx="171.27" cy="262.14" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>16–26 Jan 2026 | Talbot Mills | LAB + GRN + NZF: 54%</title></circle>
-<circle cx="161.15" cy="256.43" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>15–22 Jan 2026 | RNZ–Reid Research | LAB + GRN + NZF: 54.4%</title></circle>
-<circle cx="151.02" cy="262.14" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>14–18 Jan 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + NZF: 54%</title></circle>
-<circle cx="862.20" cy="145.00" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>20–26 Oct 2026 | RNZ–Reid Research | LAB + GRN + OPP + NZF: 62.2%</title></circle>
-<circle cx="859.67" cy="199.29" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>21–25 Oct 2026 | 1 News–Verian | LAB + GRN + OPP + NZF: 58.4%</title></circle>
-<circle cx="844.48" cy="205.00" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>15–19 Oct 2026 | 1 News–Verian | LAB + GRN + OPP + NZF: 58%</title></circle>
-<circle cx="844.48" cy="173.57" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>9–19 Oct 2026 | The Post/Freshwater Strategy | LAB + GRN + OPP + NZF: 60.2%</title></circle>
-<circle cx="826.77" cy="162.14" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>8–12 Oct 2026 | 1 News–Verian | LAB + GRN + OPP + NZF: 61%</title></circle>
-<circle cx="821.70" cy="185.00" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>6–10 Oct 2026 | Anacta | LAB + GRN + OPP + NZF: 59.4%</title></circle>
-<circle cx="809.05" cy="200.71" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–5 Oct 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + OPP + NZF: 58.3%</title></circle>
-<circle cx="809.05" cy="162.14" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–5 Oct 2026 | 1 News–Verian | LAB + GRN + OPP + NZF: 61%</title></circle>
-<circle cx="798.93" cy="152.14" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>24 Sep – 1 Oct 2026 | RNZ–Reid Research | LAB + GRN + OPP + NZF: 61.7%</title></circle>
-<circle cx="788.80" cy="190.71" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>23–27 Sep 2026 | 1 News–Verian | LAB + GRN + OPP + NZF: 59%</title></circle>
-<circle cx="788.80" cy="233.57" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>31 Aug – 27 Sep 2026 | Roy Morgan | LAB + GRN + OPP + NZF: 56%</title></circle>
-<circle cx="748.31" cy="169.29" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>4–11 Sep 2026 | The Post/Freshwater Strategy | LAB + GRN + OPP + NZF: 60.5%</title></circle>
-<circle cx="745.78" cy="176.43" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>4–10 Sep 2026 | Anacta | LAB + GRN + OPP + NZF: 60%</title></circle>
-<circle cx="728.06" cy="280.71" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–3 Sep 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + OPP + NZF: 52.7%</title></circle>
-<circle cx="700.22" cy="226.43" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>27 Jul – 23 Aug 2026 | Roy Morgan | LAB + GRN + OPP + NZF: 56.5%</title></circle>
-<circle cx="695.16" cy="182.14" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>14–21 Aug 2026 | RNZ–Reid Research | LAB + GRN + OPP + NZF: 59.6%</title></circle>
-<circle cx="672.38" cy="205.00" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>8–11 Aug 2026 | 1 News–Verian | LAB + GRN + OPP + NZF: 58%</title></circle>
-<circle cx="669.85" cy="173.57" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–11 Aug 2026 | Talbot Mills | LAB + GRN + OPP + NZF: 60.2%</title></circle>
-<circle cx="652.14" cy="275.00" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–4 Aug 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + OPP + NZF: 53.1%</title></circle>
-<circle cx="629.36" cy="240.71" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>29 Jun – 26 Jul 2026 | Roy Morgan | LAB + GRN + OPP + NZF: 55.5%</title></circle>
-<circle cx="611.64" cy="195.00" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>10–19 Jul 2026 | Talbot Mills | LAB + GRN + OPP + NZF: 58.7%</title></circle>
-<circle cx="586.33" cy="169.29" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>2–9 Jul 2026 | RNZ–Reid Research | LAB + GRN + OPP + NZF: 60.5%</title></circle>
-<circle cx="576.21" cy="233.57" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–5 Jul 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + OPP + NZF: 56%</title></circle>
-<circle cx="540.78" cy="233.57" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>25 May – 21 Jun 2026 | Roy Morgan | LAB + GRN + OPP + NZF: 56%</title></circle>
-<circle cx="530.65" cy="167.86" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>13–17 Jun 2026 | 1 News–Verian | LAB + GRN + OPP + NZF: 60.6%</title></circle>
-<circle cx="512.94" cy="143.57" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–10 Jun 2026 | Talbot Mills | LAB + GRN + OPP + NZF: 62.3%</title></circle>
-<circle cx="507.88" cy="200.71" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>4–8 Jun 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + OPP + NZF: 58.3%</title></circle>
-<circle cx="469.91" cy="233.57" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>27 Apr – 24 May 2026 | Roy Morgan | LAB + GRN + OPP + NZF: 56%</title></circle>
-<circle cx="426.89" cy="232.14" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>3–7 May 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + OPP + NZF: 56.1%</title></circle>
-<circle cx="399.05" cy="169.29" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>30 Mar – 26 Apr 2026 | Roy Morgan | LAB + GRN + OPP + NZF: 60.5%</title></circle>
-<circle cx="373.74" cy="172.14" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>16 Apr 2026 | Talbot Mills | LAB + GRN + OPP + NZF: 60.3%</title></circle>
-<circle cx="371.21" cy="157.86" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>11–15 Apr 2026 | 1 News–Verian | LAB + GRN + OPP + NZF: 61.3%</title></circle>
-<circle cx="338.31" cy="213.57" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–2 Apr 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + OPP + NZF: 57.4%</title></circle>
-<circle cx="310.47" cy="176.43" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>23 Feb – 22 Mar 2026 | Roy Morgan | LAB + GRN + OPP + NZF: 60%</title></circle>
-<circle cx="305.41" cy="200.71" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>12–20 Mar 2026 | RNZ–Reid Research | LAB + GRN + OPP + NZF: 58.3%</title></circle>
-<circle cx="285.16" cy="185.00" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>2–12 Mar 2026 | Talbot Mills | LAB + GRN + OPP + NZF: 59.4%</title></circle>
-<circle cx="262.38" cy="226.43" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–3 Mar 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + OPP + NZF: 56.5%</title></circle>
-<circle cx="239.60" cy="205.00" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>27 Jan – 22 Feb 2026 | Roy Morgan | LAB + GRN + OPP + NZF: 58%</title></circle>
-<circle cx="211.77" cy="262.14" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>7–11 Feb 2026 | 1 News–Verian | LAB + GRN + OPP + NZF: 54%</title></circle>
-<circle cx="191.52" cy="229.29" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–3 Feb 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + OPP + NZF: 56.3%</title></circle>
-<circle cx="171.27" cy="283.57" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>6–26 Jan 2026 | Roy Morgan | LAB + GRN + OPP + NZF: 52.5%</title></circle>
-<circle cx="161.15" cy="223.57" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>15–22 Jan 2026 | RNZ–Reid Research | LAB + GRN + OPP + NZF: 56.7%</title></circle>
-<circle cx="151.02" cy="252.14" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>14–18 Jan 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + OPP + NZF: 54.7%</title></circle>
-<circle cx="862.20" cy="393.57" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>20–26 Oct 2026 | RNZ–Reid Research | NAT + ACT + NZF: 44.8%</title></circle>
-<circle cx="859.67" cy="300.71" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>21–25 Oct 2026 | 1 News–Verian | NAT + ACT + NZF: 51.3%</title></circle>
-<circle cx="844.48" cy="305.00" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>15–19 Oct 2026 | 1 News–Verian | NAT + ACT + NZF: 51%</title></circle>
-<circle cx="844.48" cy="342.14" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>9–19 Oct 2026 | The Post/Freshwater Strategy | NAT + ACT + NZF: 48.4%</title></circle>
-<circle cx="826.77" cy="347.86" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>8–12 Oct 2026 | 1 News–Verian | NAT + ACT + NZF: 48%</title></circle>
-<circle cx="821.70" cy="362.14" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>6–10 Oct 2026 | Anacta | NAT + ACT + NZF: 47%</title></circle>
-<circle cx="809.05" cy="323.57" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–5 Oct 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + NZF: 49.7%</title></circle>
-<circle cx="809.05" cy="347.86" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–5 Oct 2026 | 1 News–Verian | NAT + ACT + NZF: 48%</title></circle>
-<circle cx="798.93" cy="383.57" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>24 Sep – 1 Oct 2026 | RNZ–Reid Research | NAT + ACT + NZF: 45.5%</title></circle>
-<circle cx="788.80" cy="347.86" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>23–27 Sep 2026 | 1 News–Verian | NAT + ACT + NZF: 48%</title></circle>
-<circle cx="788.80" cy="290.71" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>31 Aug – 27 Sep 2026 | Roy Morgan | NAT + ACT + NZF: 52%</title></circle>
-<circle cx="748.31" cy="350.71" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>4–11 Sep 2026 | The Post/Freshwater Strategy | NAT + ACT + NZF: 47.8%</title></circle>
-<circle cx="745.78" cy="347.86" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>4–10 Sep 2026 | Anacta | NAT + ACT + NZF: 48%</title></circle>
-<circle cx="728.06" cy="349.29" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–3 Sep 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + NZF: 47.9%</title></circle>
-<circle cx="700.22" cy="333.57" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>27 Jul – 23 Aug 2026 | Roy Morgan | NAT + ACT + NZF: 49%</title></circle>
-<circle cx="695.16" cy="337.86" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>14–21 Aug 2026 | RNZ–Reid Research | NAT + ACT + NZF: 48.7%</title></circle>
-<circle cx="672.38" cy="376.43" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>8–11 Aug 2026 | 1 News–Verian | NAT + ACT + NZF: 46%</title></circle>
-<circle cx="669.85" cy="333.57" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–11 Aug 2026 | Talbot Mills | NAT + ACT + NZF: 49%</title></circle>
-<circle cx="652.14" cy="356.43" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–4 Aug 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + NZF: 47.4%</title></circle>
-<circle cx="629.36" cy="333.57" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>29 Jun – 26 Jul 2026 | Roy Morgan | NAT + ACT + NZF: 49%</title></circle>
-<circle cx="611.64" cy="319.29" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>10–19 Jul 2026 | Talbot Mills | NAT + ACT + NZF: 50%</title></circle>
-<circle cx="586.33" cy="347.86" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>2–9 Jul 2026 | RNZ–Reid Research | NAT + ACT + NZF: 48%</title></circle>
-<circle cx="576.21" cy="345.00" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–5 Jul 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + NZF: 48.2%</title></circle>
-<circle cx="540.78" cy="305.00" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>25 May – 21 Jun 2026 | Roy Morgan | NAT + ACT + NZF: 51%</title></circle>
-<circle cx="530.65" cy="376.43" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>13–17 Jun 2026 | 1 News–Verian | NAT + ACT + NZF: 46%</title></circle>
-<circle cx="515.47" cy="333.57" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>5–11 Jun 2026 | The Post/Freshwater Strategy | NAT + ACT + NZF: 49%</title></circle>
-<circle cx="512.94" cy="362.14" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–10 Jun 2026 | Talbot Mills | NAT + ACT + NZF: 47%</title></circle>
-<circle cx="507.88" cy="329.29" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>4–8 Jun 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + NZF: 49.3%</title></circle>
-<circle cx="469.91" cy="297.86" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>27 Apr – 24 May 2026 | Roy Morgan | NAT + ACT + NZF: 51.5%</title></circle>
-<circle cx="434.48" cy="319.29" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–10 May 2026 | Talbot Mills | NAT + ACT + NZF: 50%</title></circle>
-<circle cx="426.89" cy="345.00" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>3–7 May 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + NZF: 48.2%</title></circle>
-<circle cx="399.05" cy="355.00" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>30 Mar – 26 Apr 2026 | Roy Morgan | NAT + ACT + NZF: 47.5%</title></circle>
-<circle cx="373.74" cy="290.71" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>16 Apr 2026 | Talbot Mills | NAT + ACT + NZF: 52%</title></circle>
-<circle cx="371.21" cy="362.14" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>11–15 Apr 2026 | 1 News–Verian | NAT + ACT + NZF: 47%</title></circle>
-<circle cx="338.31" cy="285.00" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–2 Apr 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + NZF: 52.4%</title></circle>
-<circle cx="310.47" cy="355.00" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>23 Feb – 22 Mar 2026 | Roy Morgan | NAT + ACT + NZF: 47.5%</title></circle>
-<circle cx="305.41" cy="342.14" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>12–20 Mar 2026 | RNZ–Reid Research | NAT + ACT + NZF: 48.4%</title></circle>
-<circle cx="285.16" cy="319.29" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>2–12 Mar 2026 | Talbot Mills | NAT + ACT + NZF: 50%</title></circle>
-<circle cx="262.38" cy="382.14" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–3 Mar 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + NZF: 45.6%</title></circle>
-<circle cx="239.60" cy="340.71" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>27 Jan – 22 Feb 2026 | Roy Morgan | NAT + ACT + NZF: 48.5%</title></circle>
-<circle cx="214.30" cy="363.57" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>6–12 Feb 2026 | The Post/Freshwater Strategy | NAT + ACT + NZF: 46.9%</title></circle>
-<circle cx="211.77" cy="276.43" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>7–11 Feb 2026 | 1 News–Verian | NAT + ACT + NZF: 53%</title></circle>
-<circle cx="191.52" cy="340.71" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–3 Feb 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + NZF: 48.5%</title></circle>
-<circle cx="171.27" cy="290.71" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>6–26 Jan 2026 | Roy Morgan | NAT + ACT + NZF: 52%</title></circle>
-<circle cx="171.27" cy="347.86" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>16–26 Jan 2026 | Talbot Mills | NAT + ACT + NZF: 48%</title></circle>
-<circle cx="161.15" cy="329.29" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>15–22 Jan 2026 | RNZ–Reid Research | NAT + ACT + NZF: 49.3%</title></circle>
-<circle cx="151.02" cy="313.57" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>14–18 Jan 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + NZF: 50.4%</title></circle>
-<circle cx="862.20" cy="432.14" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>20–26 Oct 2026 | RNZ–Reid Research | NAT + ACT + OPP: 42.1%</title></circle>
-<circle cx="859.67" cy="353.57" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>21–25 Oct 2026 | 1 News–Verian | NAT + ACT + OPP: 47.6%</title></circle>
-<circle cx="844.48" cy="319.29" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>15–19 Oct 2026 | 1 News–Verian | NAT + ACT + OPP: 50%</title></circle>
-<circle cx="844.48" cy="433.57" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>9–19 Oct 2026 | The Post/Freshwater Strategy | NAT + ACT + OPP: 42%</title></circle>
-<circle cx="826.77" cy="376.43" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>8–12 Oct 2026 | 1 News–Verian | NAT + ACT + OPP: 46%</title></circle>
-<circle cx="821.70" cy="427.86" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>6–10 Oct 2026 | Anacta | NAT + ACT + OPP: 42.4%</title></circle>
-<circle cx="809.05" cy="426.43" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–5 Oct 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + OPP: 42.5%</title></circle>
-<circle cx="809.05" cy="390.71" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–5 Oct 2026 | 1 News–Verian | NAT + ACT + OPP: 45%</title></circle>
-<circle cx="798.93" cy="456.43" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>24 Sep – 1 Oct 2026 | RNZ–Reid Research | NAT + ACT + OPP: 40.4%</title></circle>
-<circle cx="788.80" cy="390.71" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>23–27 Sep 2026 | 1 News–Verian | NAT + ACT + OPP: 45%</title></circle>
-<circle cx="788.80" cy="340.71" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>31 Aug – 27 Sep 2026 | Roy Morgan | NAT + ACT + OPP: 48.5%</title></circle>
-<circle cx="748.31" cy="440.71" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>4–11 Sep 2026 | The Post/Freshwater Strategy | NAT + ACT + OPP: 41.5%</title></circle>
-<circle cx="745.78" cy="390.71" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>4–10 Sep 2026 | Anacta | NAT + ACT + OPP: 45%</title></circle>
-<circle cx="728.06" cy="405.00" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–3 Sep 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + OPP: 44%</title></circle>
-<circle cx="700.22" cy="305.00" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>27 Jul – 23 Aug 2026 | Roy Morgan | NAT + ACT + OPP: 51%</title></circle>
-<circle cx="695.16" cy="432.14" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>14–21 Aug 2026 | RNZ–Reid Research | NAT + ACT + OPP: 42.1%</title></circle>
-<circle cx="672.38" cy="376.43" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>8–11 Aug 2026 | 1 News–Verian | NAT + ACT + OPP: 46%</title></circle>
-<circle cx="669.85" cy="445.00" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–11 Aug 2026 | Talbot Mills | NAT + ACT + OPP: 41.2%</title></circle>
-<circle cx="652.14" cy="399.29" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–4 Aug 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + OPP: 44.4%</title></circle>
-<circle cx="629.36" cy="340.71" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>29 Jun – 26 Jul 2026 | Roy Morgan | NAT + ACT + OPP: 48.5%</title></circle>
-<circle cx="611.64" cy="423.57" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>10–19 Jul 2026 | Talbot Mills | NAT + ACT + OPP: 42.7%</title></circle>
-<circle cx="586.33" cy="445.00" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>2–9 Jul 2026 | RNZ–Reid Research | NAT + ACT + OPP: 41.2%</title></circle>
-<circle cx="576.21" cy="452.14" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–5 Jul 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + OPP: 40.7%</title></circle>
-<circle cx="540.78" cy="362.14" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>25 May – 21 Jun 2026 | Roy Morgan | NAT + ACT + OPP: 47%</title></circle>
-<circle cx="530.65" cy="467.86" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>13–17 Jun 2026 | 1 News–Verian | NAT + ACT + OPP: 39.6%</title></circle>
-<circle cx="512.94" cy="486.43" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–10 Jun 2026 | Talbot Mills | NAT + ACT + OPP: 38.3%</title></circle>
-<circle cx="507.88" cy="446.43" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>4–8 Jun 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + OPP: 41.1%</title></circle>
-<circle cx="469.91" cy="369.29" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>27 Apr – 24 May 2026 | Roy Morgan | NAT + ACT + OPP: 46.5%</title></circle>
-<circle cx="426.89" cy="472.14" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>3–7 May 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + OPP: 39.3%</title></circle>
-<circle cx="399.05" cy="462.14" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>30 Mar – 26 Apr 2026 | Roy Morgan | NAT + ACT + OPP: 40%</title></circle>
-<circle cx="373.74" cy="472.14" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>16 Apr 2026 | Talbot Mills | NAT + ACT + OPP: 39.3%</title></circle>
-<circle cx="371.21" cy="457.86" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>11–15 Apr 2026 | 1 News–Verian | NAT + ACT + OPP: 40.3%</title></circle>
-<circle cx="338.31" cy="442.14" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–2 Apr 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + OPP: 41.4%</title></circle>
-<circle cx="310.47" cy="455.00" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>23 Feb – 22 Mar 2026 | Roy Morgan | NAT + ACT + OPP: 40.5%</title></circle>
-<circle cx="305.41" cy="465.00" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>12–20 Mar 2026 | RNZ–Reid Research | NAT + ACT + OPP: 39.8%</title></circle>
-<circle cx="285.16" cy="442.14" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>2–12 Mar 2026 | Talbot Mills | NAT + ACT + OPP: 41.4%</title></circle>
-<circle cx="262.38" cy="493.57" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–3 Mar 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + OPP: 37.8%</title></circle>
-<circle cx="239.60" cy="419.29" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>27 Jan – 22 Feb 2026 | Roy Morgan | NAT + ACT + OPP: 43%</title></circle>
-<circle cx="211.77" cy="405.00" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>7–11 Feb 2026 | 1 News–Verian | NAT + ACT + OPP: 44%</title></circle>
-<circle cx="191.52" cy="470.71" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–3 Feb 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + OPP: 39.4%</title></circle>
-<circle cx="171.27" cy="383.57" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>6–26 Jan 2026 | Roy Morgan | NAT + ACT + OPP: 45.5%</title></circle>
-<circle cx="161.15" cy="436.43" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>15–22 Jan 2026 | RNZ–Reid Research | NAT + ACT + OPP: 41.8%</title></circle>
-<circle cx="151.02" cy="473.57" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>14–18 Jan 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + OPP: 39.2%</title></circle>
-<circle cx="862.20" cy="435.00" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>20–26 Oct 2026 | RNZ–Reid Research | NAT + NZF + OPP: 41.9%</title></circle>
-<circle cx="859.67" cy="387.86" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>21–25 Oct 2026 | 1 News–Verian | NAT + NZF + OPP: 45.2%</title></circle>
-<circle cx="844.48" cy="362.14" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>15–19 Oct 2026 | 1 News–Verian | NAT + NZF + OPP: 47%</title></circle>
-<circle cx="844.48" cy="393.57" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>9–19 Oct 2026 | The Post/Freshwater Strategy | NAT + NZF + OPP: 44.8%</title></circle>
-<circle cx="826.77" cy="376.43" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>8–12 Oct 2026 | 1 News–Verian | NAT + NZF + OPP: 46%</title></circle>
-<circle cx="821.70" cy="413.57" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>6–10 Oct 2026 | Anacta | NAT + NZF + OPP: 43.4%</title></circle>
-<circle cx="809.05" cy="386.43" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–5 Oct 2026 | Taxpayers&#x27; Union–Curia | NAT + NZF + OPP: 45.3%</title></circle>
-<circle cx="809.05" cy="376.43" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–5 Oct 2026 | 1 News–Verian | NAT + NZF + OPP: 46%</title></circle>
-<circle cx="798.93" cy="433.57" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>24 Sep – 1 Oct 2026 | RNZ–Reid Research | NAT + NZF + OPP: 42%</title></circle>
-<circle cx="788.80" cy="419.29" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>23–27 Sep 2026 | 1 News–Verian | NAT + NZF + OPP: 43%</title></circle>
-<circle cx="788.80" cy="355.00" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>31 Aug – 27 Sep 2026 | Roy Morgan | NAT + NZF + OPP: 47.5%</title></circle>
-<circle cx="748.31" cy="385.00" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>4–11 Sep 2026 | The Post/Freshwater Strategy | NAT + NZF + OPP: 45.4%</title></circle>
-<circle cx="745.78" cy="362.14" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>4–10 Sep 2026 | Anacta | NAT + NZF + OPP: 47%</title></circle>
-<circle cx="728.06" cy="435.00" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–3 Sep 2026 | Taxpayers&#x27; Union–Curia | NAT + NZF + OPP: 41.9%</title></circle>
-<circle cx="700.22" cy="347.86" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>27 Jul – 23 Aug 2026 | Roy Morgan | NAT + NZF + OPP: 48%</title></circle>
-<circle cx="695.16" cy="372.14" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>14–21 Aug 2026 | RNZ–Reid Research | NAT + NZF + OPP: 46.3%</title></circle>
-<circle cx="672.38" cy="390.71" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>8–11 Aug 2026 | 1 News–Verian | NAT + NZF + OPP: 45%</title></circle>
-<circle cx="669.85" cy="359.29" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–11 Aug 2026 | Talbot Mills | NAT + NZF + OPP: 47.2%</title></circle>
-<circle cx="652.14" cy="373.57" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–4 Aug 2026 | Taxpayers&#x27; Union–Curia | NAT + NZF + OPP: 46.2%</title></circle>
-<circle cx="629.36" cy="340.71" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>29 Jun – 26 Jul 2026 | Roy Morgan | NAT + NZF + OPP: 48.5%</title></circle>
-<circle cx="611.64" cy="352.14" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>10–19 Jul 2026 | Talbot Mills | NAT + NZF + OPP: 47.7%</title></circle>
-<circle cx="586.33" cy="392.14" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>2–9 Jul 2026 | RNZ–Reid Research | NAT + NZF + OPP: 44.9%</title></circle>
-<circle cx="576.21" cy="396.43" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–5 Jul 2026 | Taxpayers&#x27; Union–Curia | NAT + NZF + OPP: 44.6%</title></circle>
-<circle cx="540.78" cy="347.86" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>25 May – 21 Jun 2026 | Roy Morgan | NAT + NZF + OPP: 48%</title></circle>
-<circle cx="530.65" cy="396.43" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>13–17 Jun 2026 | 1 News–Verian | NAT + NZF + OPP: 44.6%</title></circle>
-<circle cx="512.94" cy="400.71" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–10 Jun 2026 | Talbot Mills | NAT + NZF + OPP: 44.3%</title></circle>
-<circle cx="507.88" cy="395.00" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>4–8 Jun 2026 | Taxpayers&#x27; Union–Curia | NAT + NZF + OPP: 44.7%</title></circle>
-<circle cx="469.91" cy="355.00" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>27 Apr – 24 May 2026 | Roy Morgan | NAT + NZF + OPP: 47.5%</title></circle>
-<circle cx="426.89" cy="397.86" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>3–7 May 2026 | Taxpayers&#x27; Union–Curia | NAT + NZF + OPP: 44.5%</title></circle>
-<circle cx="399.05" cy="447.86" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>30 Mar – 26 Apr 2026 | Roy Morgan | NAT + NZF + OPP: 41%</title></circle>
-<circle cx="373.74" cy="372.14" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>16 Apr 2026 | Talbot Mills | NAT + NZF + OPP: 46.3%</title></circle>
-<circle cx="371.21" cy="415.00" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>11–15 Apr 2026 | 1 News–Verian | NAT + NZF + OPP: 43.3%</title></circle>
-<circle cx="338.31" cy="376.43" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–2 Apr 2026 | Taxpayers&#x27; Union–Curia | NAT + NZF + OPP: 46%</title></circle>
-<circle cx="310.47" cy="440.71" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>23 Feb – 22 Mar 2026 | Roy Morgan | NAT + NZF + OPP: 41.5%</title></circle>
-<circle cx="305.41" cy="413.57" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>12–20 Mar 2026 | RNZ–Reid Research | NAT + NZF + OPP: 43.4%</title></circle>
-<circle cx="285.16" cy="385.00" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>2–12 Mar 2026 | Talbot Mills | NAT + NZF + OPP: 45.4%</title></circle>
-<circle cx="262.38" cy="462.14" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–3 Mar 2026 | Taxpayers&#x27; Union–Curia | NAT + NZF + OPP: 40%</title></circle>
-<circle cx="239.60" cy="397.86" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>27 Jan – 22 Feb 2026 | Roy Morgan | NAT + NZF + OPP: 44.5%</title></circle>
-<circle cx="211.77" cy="390.71" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>7–11 Feb 2026 | 1 News–Verian | NAT + NZF + OPP: 45%</title></circle>
-<circle cx="191.52" cy="416.43" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–3 Feb 2026 | Taxpayers&#x27; Union–Curia | NAT + NZF + OPP: 43.2%</title></circle>
-<circle cx="171.27" cy="376.43" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>6–26 Jan 2026 | Roy Morgan | NAT + NZF + OPP: 46%</title></circle>
-<circle cx="161.15" cy="405.00" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>15–22 Jan 2026 | RNZ–Reid Research | NAT + NZF + OPP: 44%</title></circle>
-<circle cx="151.02" cy="403.57" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>14–18 Jan 2026 | Taxpayers&#x27; Union–Curia | NAT + NZF + OPP: 44.1%</title></circle>
-<circle cx="862.20" cy="290.71" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>20–26 Oct 2026 | RNZ–Reid Research | NAT + ACT + NZF + OPP: 52%</title></circle>
-<circle cx="859.67" cy="210.71" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>21–25 Oct 2026 | 1 News–Verian | NAT + ACT + NZF + OPP: 57.6%</title></circle>
-<circle cx="844.48" cy="205.00" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>15–19 Oct 2026 | 1 News–Verian | NAT + ACT + NZF + OPP: 58%</title></circle>
-<circle cx="844.48" cy="265.00" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>9–19 Oct 2026 | The Post/Freshwater Strategy | NAT + ACT + NZF + OPP: 53.8%</title></circle>
-<circle cx="826.77" cy="233.57" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>8–12 Oct 2026 | 1 News–Verian | NAT + ACT + NZF + OPP: 56%</title></circle>
-<circle cx="821.70" cy="285.00" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>6–10 Oct 2026 | Anacta | NAT + ACT + NZF + OPP: 52.4%</title></circle>
-<circle cx="809.05" cy="255.00" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–5 Oct 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + NZF + OPP: 54.5%</title></circle>
-<circle cx="809.05" cy="247.86" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–5 Oct 2026 | 1 News–Verian | NAT + ACT + NZF + OPP: 55%</title></circle>
-<circle cx="798.93" cy="305.00" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>24 Sep – 1 Oct 2026 | RNZ–Reid Research | NAT + ACT + NZF + OPP: 51%</title></circle>
-<circle cx="788.80" cy="262.14" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>23–27 Sep 2026 | 1 News–Verian | NAT + ACT + NZF + OPP: 54%</title></circle>
-<circle cx="788.80" cy="197.86" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>31 Aug – 27 Sep 2026 | Roy Morgan | NAT + ACT + NZF + OPP: 58.5%</title></circle>
-<circle cx="748.31" cy="260.71" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>4–11 Sep 2026 | The Post/Freshwater Strategy | NAT + ACT + NZF + OPP: 54.1%</title></circle>
-<circle cx="745.78" cy="247.86" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>4–10 Sep 2026 | Anacta | NAT + ACT + NZF + OPP: 55%</title></circle>
-<circle cx="728.06" cy="285.00" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–3 Sep 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + NZF + OPP: 52.4%</title></circle>
-<circle cx="700.22" cy="197.86" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>27 Jul – 23 Aug 2026 | Roy Morgan | NAT + ACT + NZF + OPP: 58.5%</title></circle>
-<circle cx="695.16" cy="262.14" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>14–21 Aug 2026 | RNZ–Reid Research | NAT + ACT + NZF + OPP: 54%</title></circle>
-<circle cx="672.38" cy="262.14" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>8–11 Aug 2026 | 1 News–Verian | NAT + ACT + NZF + OPP: 54%</title></circle>
-<circle cx="669.85" cy="259.29" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–11 Aug 2026 | Talbot Mills | NAT + ACT + NZF + OPP: 54.2%</title></circle>
-<circle cx="652.14" cy="269.29" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–4 Aug 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + NZF + OPP: 53.5%</title></circle>
-<circle cx="629.36" cy="219.29" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>29 Jun – 26 Jul 2026 | Roy Morgan | NAT + ACT + NZF + OPP: 57%</title></circle>
-<circle cx="611.64" cy="252.14" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>10–19 Jul 2026 | Talbot Mills | NAT + ACT + NZF + OPP: 54.7%</title></circle>
-<circle cx="586.33" cy="280.71" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>2–9 Jul 2026 | RNZ–Reid Research | NAT + ACT + NZF + OPP: 52.7%</title></circle>
-<circle cx="576.21" cy="297.86" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–5 Jul 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + NZF + OPP: 51.5%</title></circle>
-<circle cx="540.78" cy="212.14" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>25 May – 21 Jun 2026 | Roy Morgan | NAT + ACT + NZF + OPP: 57.5%</title></circle>
-<circle cx="530.65" cy="310.71" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>13–17 Jun 2026 | 1 News–Verian | NAT + ACT + NZF + OPP: 50.6%</title></circle>
-<circle cx="512.94" cy="315.00" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–10 Jun 2026 | Talbot Mills | NAT + ACT + NZF + OPP: 50.3%</title></circle>
-<circle cx="507.88" cy="283.57" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>4–8 Jun 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + NZF + OPP: 52.5%</title></circle>
-<circle cx="469.91" cy="212.14" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>27 Apr – 24 May 2026 | Roy Morgan | NAT + ACT + NZF + OPP: 57.5%</title></circle>
-<circle cx="426.89" cy="305.00" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>3–7 May 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + NZF + OPP: 51%</title></circle>
-<circle cx="399.05" cy="297.86" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>30 Mar – 26 Apr 2026 | Roy Morgan | NAT + ACT + NZF + OPP: 51.5%</title></circle>
-<circle cx="373.74" cy="257.86" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>16 Apr 2026 | Talbot Mills | NAT + ACT + NZF + OPP: 54.3%</title></circle>
-<circle cx="371.21" cy="315.00" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>11–15 Apr 2026 | 1 News–Verian | NAT + ACT + NZF + OPP: 50.3%</title></circle>
-<circle cx="338.31" cy="247.86" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–2 Apr 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + NZF + OPP: 55%</title></circle>
-<circle cx="310.47" cy="297.86" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>23 Feb – 22 Mar 2026 | Roy Morgan | NAT + ACT + NZF + OPP: 51.5%</title></circle>
-<circle cx="305.41" cy="313.57" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>12–20 Mar 2026 | RNZ–Reid Research | NAT + ACT + NZF + OPP: 50.4%</title></circle>
-<circle cx="285.16" cy="285.00" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>2–12 Mar 2026 | Talbot Mills | NAT + ACT + NZF + OPP: 52.4%</title></circle>
-<circle cx="262.38" cy="355.00" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–3 Mar 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + NZF + OPP: 47.5%</title></circle>
-<circle cx="239.60" cy="283.57" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>27 Jan – 22 Feb 2026 | Roy Morgan | NAT + ACT + NZF + OPP: 52.5%</title></circle>
-<circle cx="211.77" cy="262.14" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>7–11 Feb 2026 | 1 News–Verian | NAT + ACT + NZF + OPP: 54%</title></circle>
-<circle cx="191.52" cy="320.71" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–3 Feb 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + NZF + OPP: 49.9%</title></circle>
-<circle cx="171.27" cy="255.00" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>6–26 Jan 2026 | Roy Morgan | NAT + ACT + NZF + OPP: 54.5%</title></circle>
-<circle cx="161.15" cy="296.43" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>15–22 Jan 2026 | RNZ–Reid Research | NAT + ACT + NZF + OPP: 51.6%</title></circle>
-<circle cx="151.02" cy="303.57" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>14–18 Jan 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + NZF + OPP: 51.1%</title></circle>
+<line x1="869.6" y1="105" x2="869.6" y2="605" stroke="#C75B12" stroke-width="2" stroke-dasharray="6 5"/>
+<line x1="896.5" y1="105" x2="896.5" y2="605" stroke="#C0266B" stroke-width="2" stroke-dasharray="6 5"/>
+<polyline points="112.49,457.22 134.96,453.41 143.95,451.86 175.40,446.20 238.30,433.49 247.29,431.66 256.27,429.92 274.25,426.80 292.22,422.45 316.93,416.55 337.15,412.21 357.37,408.03 375.34,405.19 379.84,404.17 404.55,401.27 433.75,403.70 436.00,403.53 458.47,402.86 483.18,402.92 521.37,403.22 555.07,404.05 559.56,404.13 575.29,404.02 584.27,403.52 615.73,400.78 624.71,400.32 647.18,401.21 662.90,400.15 683.12,400.47 698.85,398.35 701.10,398.05 721.32,395.01 725.81,393.88 750.52,386.70 766.25,383.61 768.49,383.71 804.44,373.86 813.42,370.74 822.41,367.60 833.64,363.66 838.14,362.08 853.86,356.63 867.34,352.05 869.59,351.29" fill="none" stroke="#E69F00" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" stroke-opacity="0.92"/>
+<polyline points="869.59,351.29 896.55,342.30" fill="none" stroke="#E69F00" stroke-width="2.5" stroke-dasharray="3 2" stroke-linejoin="round" stroke-linecap="round" stroke-opacity="0.92"/>
+<polyline points="112.49,323.83 134.96,318.15 143.95,315.90 150.68,314.21 175.40,307.97 238.30,291.43 247.29,289.02 256.27,286.68 274.25,282.71 292.22,279.26 294.47,278.66 316.93,272.56 337.15,266.69 357.37,261.52 375.34,256.36 379.84,255.12 404.55,252.19 433.75,250.73 436.00,250.59 458.47,251.40 483.18,252.90 489.92,253.11 521.37,258.45 555.07,268.11 559.56,270.15 561.81,271.20 575.29,275.12 584.27,278.91 615.73,292.87 624.71,297.37 647.18,306.58 662.90,314.89 683.12,324.16 698.85,327.70 701.10,327.59 721.32,330.93 725.81,331.44 750.52,323.79 766.25,318.43 768.49,317.89 804.44,307.54 813.42,305.07 822.41,302.66 833.64,299.74 838.14,298.61 853.86,294.85 867.34,291.89 869.59,291.42" fill="none" stroke="#009E73" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" stroke-opacity="0.92"/>
+<polyline points="869.59,291.42 896.55,286.19" fill="none" stroke="#009E73" stroke-width="2.5" stroke-dasharray="3 2" stroke-linejoin="round" stroke-linecap="round" stroke-opacity="0.92"/>
+<polyline points="112.49,309.71 134.96,302.78 143.95,300.01 175.40,290.25 238.30,269.55 247.29,266.45 256.27,263.34 274.25,257.25 292.22,250.66 316.93,240.66 337.15,232.22 357.37,224.34 375.34,218.29 379.84,216.47 404.55,208.50 433.75,207.94 436.00,207.97 458.47,207.34 483.18,207.28 521.37,209.90 555.07,216.19 559.56,216.83 575.29,218.88 584.27,219.31 615.73,220.11 624.71,220.66 647.18,224.33 662.90,224.44 683.12,226.68 698.85,225.26 701.10,225.18 721.32,223.24 725.81,222.07 750.52,214.22 766.25,210.91 768.49,210.97 804.44,201.09 813.42,198.92 822.41,196.80 833.64,194.19 838.14,193.17 853.86,189.65 867.34,186.76 869.59,186.28" fill="none" stroke="#D55E00" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" stroke-opacity="0.92"/>
+<polyline points="869.59,186.28 896.55,180.70" fill="none" stroke="#D55E00" stroke-width="2.5" stroke-dasharray="3 2" stroke-linejoin="round" stroke-linecap="round" stroke-opacity="0.92"/>
+<polyline points="112.49,366.94 134.96,367.05 143.95,367.14 150.68,367.23 175.40,367.78 238.30,369.83 247.29,369.97 256.27,369.93 274.25,369.55 292.22,370.72 294.47,370.87 316.93,372.17 337.15,373.33 357.37,374.19 375.34,375.57 379.84,375.78 404.55,374.48 433.75,371.51 436.00,371.21 458.47,371.32 483.18,371.28 489.92,371.24 521.37,372.85 555.07,374.01 559.56,374.17 561.81,374.28 575.29,374.54 584.27,375.24 615.73,378.37 624.71,379.48 647.18,380.85 662.90,381.49 683.12,381.96 698.85,383.04 701.10,383.13 721.32,384.35 725.81,384.81 750.52,385.25 766.25,384.62 768.49,384.46 804.44,382.32 813.42,381.51 822.41,380.68 833.64,379.62 838.14,379.19 853.86,377.59 867.34,376.07 869.59,375.80" fill="none" stroke="#56B4E9" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" stroke-opacity="0.92"/>
+<polyline points="869.59,375.80 896.55,372.41" fill="none" stroke="#56B4E9" stroke-width="2.5" stroke-dasharray="3 2" stroke-linejoin="round" stroke-linecap="round" stroke-opacity="0.92"/>
+<polyline points="112.49,461.77 134.96,466.18 143.95,467.92 175.40,473.96 238.30,486.38 247.29,488.28 256.27,490.21 274.25,493.82 292.22,496.83 316.93,500.71 337.15,503.99 357.37,507.25 375.34,509.89 379.84,510.68 404.55,514.78 433.75,513.73 436.00,513.50 458.47,511.61 483.18,509.43 521.37,505.77 555.07,498.49 559.56,497.02 575.29,492.82 584.27,490.13 615.73,480.75 624.71,478.42 647.18,470.12 662.90,466.19 683.12,458.90 698.85,455.35 701.10,454.59 721.32,450.39 725.81,450.39 750.52,452.01 766.25,451.51 768.49,451.41 804.44,451.48 813.42,450.23 822.41,448.97 833.64,447.42 838.14,446.80 853.86,444.49 867.34,442.31 869.59,441.93" fill="none" stroke="#CC79A7" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" stroke-opacity="0.92"/>
+<polyline points="869.59,441.93 896.55,437.15" fill="none" stroke="#CC79A7" stroke-width="2.5" stroke-dasharray="3 2" stroke-linejoin="round" stroke-linecap="round" stroke-opacity="0.92"/>
+<polyline points="112.49,442.77 134.96,443.64 143.95,444.01 175.40,445.42 238.30,448.41 247.29,448.79 256.27,449.15 274.25,450.09 292.22,451.65 316.93,452.80 337.15,453.38 357.37,453.98 375.34,454.10 379.84,454.26 404.55,454.28 433.75,450.48 436.00,450.17 458.47,446.99 483.18,443.61 521.37,439.06 555.07,433.80 559.56,432.80 575.29,429.30 584.27,427.54 615.73,423.00 624.71,421.96 647.18,418.44 662.90,417.98 683.12,415.24 698.85,415.47 701.10,415.37 721.32,417.39 725.81,418.63 750.52,425.15 766.25,428.41 768.49,428.97 804.44,435.76 813.42,437.00 822.41,438.36 833.64,440.10 838.14,440.78 853.86,443.11 867.34,445.01 869.59,445.33" fill="none" stroke="#4D4D4D" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" stroke-opacity="0.92"/>
+<polyline points="869.59,445.33 896.55,449.27" fill="none" stroke="#4D4D4D" stroke-width="2.5" stroke-dasharray="3 2" stroke-linejoin="round" stroke-linecap="round" stroke-opacity="0.92"/>
+<polyline points="112.49,310.22 134.96,311.87 143.95,312.53 175.40,314.89 238.30,319.83 247.29,320.56 256.27,321.27 274.25,322.56 292.22,323.37 316.93,323.29 337.15,322.97 357.37,322.98 375.34,322.85 379.84,322.92 404.55,322.69 433.75,319.48 436.00,319.42 458.47,317.83 483.18,316.05 521.37,314.46 555.07,311.34 559.56,310.29 575.29,307.81 584.27,305.94 615.73,299.56 624.71,298.04 647.18,292.17 662.90,289.36 683.12,283.89 698.85,281.73 701.10,281.29 721.32,279.62 725.81,279.71 750.52,280.61 766.25,279.94 768.49,280.04 804.44,279.66 813.42,278.40 822.41,277.17 833.64,275.67 838.14,275.06 853.86,272.83 867.34,270.76 869.59,270.40" fill="none" stroke="#332288" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" stroke-opacity="0.92"/>
+<polyline points="869.59,270.40 896.55,265.94" fill="none" stroke="#332288" stroke-width="2.5" stroke-dasharray="3 2" stroke-linejoin="round" stroke-linecap="round" stroke-opacity="0.92"/>
+<circle cx="869.59" cy="316.67" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>20–26 Oct 2026 | RNZ–Reid Research | LAB + GRN + OPP: 52.3%</title></circle>
+<circle cx="867.34" cy="381.67" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>21–25 Oct 2026 | 1 News–Verian | LAB + GRN + OPP: 48.4%</title></circle>
+<circle cx="853.86" cy="355.00" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>15–19 Oct 2026 | 1 News–Verian | LAB + GRN + OPP: 50%</title></circle>
+<circle cx="853.86" cy="381.67" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>9–19 Oct 2026 | The Post/Freshwater Strategy | LAB + GRN + OPP: 48.4%</title></circle>
+<circle cx="838.14" cy="338.33" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>8–12 Oct 2026 | 1 News–Verian | LAB + GRN + OPP: 51%</title></circle>
+<circle cx="833.64" cy="365.00" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>6–10 Oct 2026 | Anacta | LAB + GRN + OPP: 49.4%</title></circle>
+<circle cx="822.41" cy="416.67" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–5 Oct 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + OPP: 46.3%</title></circle>
+<circle cx="822.41" cy="338.33" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–5 Oct 2026 | 1 News–Verian | LAB + GRN + OPP: 51%</title></circle>
+<circle cx="813.42" cy="336.67" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>24 Sep – 1 Oct 2026 | RNZ–Reid Research | LAB + GRN + OPP: 51.1%</title></circle>
+<circle cx="804.44" cy="355.00" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>23–27 Sep 2026 | 1 News–Verian | LAB + GRN + OPP: 50%</title></circle>
+<circle cx="804.44" cy="421.67" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>31 Aug – 27 Sep 2026 | Roy Morgan | LAB + GRN + OPP: 46%</title></circle>
+<circle cx="768.49" cy="390.00" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>4–11 Sep 2026 | The Post/Freshwater Strategy | LAB + GRN + OPP: 47.9%</title></circle>
+<circle cx="766.25" cy="355.00" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>4–10 Sep 2026 | Anacta | LAB + GRN + OPP: 50%</title></circle>
+<circle cx="750.52" cy="450.00" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–3 Sep 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + OPP: 44.3%</title></circle>
+<circle cx="725.81" cy="371.67" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>27 Jul – 23 Aug 2026 | Roy Morgan | LAB + GRN + OPP: 49%</title></circle>
+<circle cx="721.32" cy="393.33" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>14–21 Aug 2026 | RNZ–Reid Research | LAB + GRN + OPP: 47.7%</title></circle>
+<circle cx="701.10" cy="355.00" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>8–11 Aug 2026 | 1 News–Verian | LAB + GRN + OPP: 50%</title></circle>
+<circle cx="698.85" cy="401.67" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–11 Aug 2026 | Talbot Mills | LAB + GRN + OPP: 47.2%</title></circle>
+<circle cx="683.12" cy="455.00" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–4 Aug 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + OPP: 44%</title></circle>
+<circle cx="662.90" cy="405.00" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>29 Jun – 26 Jul 2026 | Roy Morgan | LAB + GRN + OPP: 47%</title></circle>
+<circle cx="647.18" cy="410.00" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>10–19 Jul 2026 | Talbot Mills | LAB + GRN + OPP: 46.7%</title></circle>
+<circle cx="624.71" cy="371.67" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>2–9 Jul 2026 | RNZ–Reid Research | LAB + GRN + OPP: 49%</title></circle>
+<circle cx="615.73" cy="435.00" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–5 Jul 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + OPP: 45.2%</title></circle>
+<circle cx="584.27" cy="430.00" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>25 May – 21 Jun 2026 | Roy Morgan | LAB + GRN + OPP: 45.5%</title></circle>
+<circle cx="575.29" cy="361.67" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>13–17 Jun 2026 | 1 News–Verian | LAB + GRN + OPP: 49.6%</title></circle>
+<circle cx="559.56" cy="350.00" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–10 Jun 2026 | Talbot Mills | LAB + GRN + OPP: 50.3%</title></circle>
+<circle cx="555.07" cy="406.67" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>4–8 Jun 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + OPP: 46.9%</title></circle>
+<circle cx="521.37" cy="438.33" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>27 Apr – 24 May 2026 | Roy Morgan | LAB + GRN + OPP: 45%</title></circle>
+<circle cx="483.18" cy="448.33" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>3–7 May 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + OPP: 44.4%</title></circle>
+<circle cx="458.47" cy="371.67" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>30 Mar – 26 Apr 2026 | Roy Morgan | LAB + GRN + OPP: 49%</title></circle>
+<circle cx="436.00" cy="433.33" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>16 Apr 2026 | Talbot Mills | LAB + GRN + OPP: 45.3%</title></circle>
+<circle cx="433.75" cy="333.33" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>11–15 Apr 2026 | 1 News–Verian | LAB + GRN + OPP: 51.3%</title></circle>
+<circle cx="404.55" cy="458.33" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–2 Apr 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + OPP: 43.8%</title></circle>
+<circle cx="379.84" cy="371.67" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>23 Feb – 22 Mar 2026 | Roy Morgan | LAB + GRN + OPP: 49%</title></circle>
+<circle cx="375.34" cy="393.33" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>12–20 Mar 2026 | RNZ–Reid Research | LAB + GRN + OPP: 47.7%</title></circle>
+<circle cx="357.37" cy="381.67" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>2–12 Mar 2026 | Talbot Mills | LAB + GRN + OPP: 48.4%</title></circle>
+<circle cx="337.15" cy="408.33" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–3 Mar 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + OPP: 46.8%</title></circle>
+<circle cx="316.93" cy="380.00" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>27 Jan – 22 Feb 2026 | Roy Morgan | LAB + GRN + OPP: 48.5%</title></circle>
+<circle cx="292.22" cy="455.00" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>7–11 Feb 2026 | 1 News–Verian | LAB + GRN + OPP: 44%</title></circle>
+<circle cx="274.25" cy="425.00" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–3 Feb 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + OPP: 45.8%</title></circle>
+<circle cx="256.27" cy="463.33" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>6–26 Jan 2026 | Roy Morgan | LAB + GRN + OPP: 43.5%</title></circle>
+<circle cx="247.29" cy="406.67" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>15–22 Jan 2026 | RNZ–Reid Research | LAB + GRN + OPP: 46.9%</title></circle>
+<circle cx="238.30" cy="475.00" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>14–18 Jan 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + OPP: 42.8%</title></circle>
+<circle cx="175.40" cy="405.00" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>25 Nov – 21 Dec 2025 | Roy Morgan | LAB + GRN + OPP: 47%</title></circle>
+<circle cx="143.95" cy="455.00" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>3–7 Dec 2025 | Taxpayers&#x27; Union–Curia | LAB + GRN + OPP: 44%</title></circle>
+<circle cx="134.96" cy="481.67" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>29 Nov – 3 Dec 2025 | 1 News–Verian | LAB + GRN + OPP: 42.4%</title></circle>
+<circle cx="112.49" cy="438.33" r="2.1" fill="#E69F00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>27 Oct – 23 Nov 2025 | Roy Morgan | LAB + GRN + OPP: 45%</title></circle>
+<circle cx="869.59" cy="271.67" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>20–26 Oct 2026 | RNZ–Reid Research | LAB + GRN + NZF: 55%</title></circle>
+<circle cx="867.34" cy="320.00" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>21–25 Oct 2026 | 1 News–Verian | LAB + GRN + NZF: 52.1%</title></circle>
+<circle cx="853.86" cy="338.33" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>15–19 Oct 2026 | 1 News–Verian | LAB + GRN + NZF: 51%</title></circle>
+<circle cx="853.86" cy="275.00" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>9–19 Oct 2026 | The Post/Freshwater Strategy | LAB + GRN + NZF: 54.8%</title></circle>
+<circle cx="838.14" cy="305.00" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>8–12 Oct 2026 | 1 News–Verian | LAB + GRN + NZF: 53%</title></circle>
+<circle cx="833.64" cy="288.33" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>6–10 Oct 2026 | Anacta | LAB + GRN + NZF: 54%</title></circle>
+<circle cx="822.41" cy="296.67" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–5 Oct 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + NZF: 53.5%</title></circle>
+<circle cx="822.41" cy="288.33" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–5 Oct 2026 | 1 News–Verian | LAB + GRN + NZF: 54%</title></circle>
+<circle cx="813.42" cy="251.67" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>24 Sep – 1 Oct 2026 | RNZ–Reid Research | LAB + GRN + NZF: 56.2%</title></circle>
+<circle cx="804.44" cy="305.00" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>23–27 Sep 2026 | 1 News–Verian | LAB + GRN + NZF: 53%</title></circle>
+<circle cx="804.44" cy="363.33" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>31 Aug – 27 Sep 2026 | Roy Morgan | LAB + GRN + NZF: 49.5%</title></circle>
+<circle cx="768.49" cy="285.00" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>4–11 Sep 2026 | The Post/Freshwater Strategy | LAB + GRN + NZF: 54.2%</title></circle>
+<circle cx="766.25" cy="305.00" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>4–10 Sep 2026 | Anacta | LAB + GRN + NZF: 53%</title></circle>
+<circle cx="750.52" cy="385.00" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–3 Sep 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + NZF: 48.2%</title></circle>
+<circle cx="725.81" cy="405.00" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>27 Jul – 23 Aug 2026 | Roy Morgan | LAB + GRN + NZF: 47%</title></circle>
+<circle cx="721.32" cy="283.33" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>14–21 Aug 2026 | RNZ–Reid Research | LAB + GRN + NZF: 54.3%</title></circle>
+<circle cx="701.10" cy="355.00" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>8–11 Aug 2026 | 1 News–Verian | LAB + GRN + NZF: 50%</title></circle>
+<circle cx="698.85" cy="271.67" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–11 Aug 2026 | Talbot Mills | LAB + GRN + NZF: 55%</title></circle>
+<circle cx="683.12" cy="405.00" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–4 Aug 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + NZF: 47%</title></circle>
+<circle cx="662.90" cy="396.67" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>29 Jun – 26 Jul 2026 | Roy Morgan | LAB + GRN + NZF: 47.5%</title></circle>
+<circle cx="647.18" cy="288.33" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>10–19 Jul 2026 | Talbot Mills | LAB + GRN + NZF: 54%</title></circle>
+<circle cx="624.71" cy="258.33" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>2–9 Jul 2026 | RNZ–Reid Research | LAB + GRN + NZF: 55.8%</title></circle>
+<circle cx="615.73" cy="310.00" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–5 Jul 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + NZF: 52.7%</title></circle>
+<circle cx="584.27" cy="363.33" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>25 May – 21 Jun 2026 | Roy Morgan | LAB + GRN + NZF: 49.5%</title></circle>
+<circle cx="575.29" cy="255.00" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>13–17 Jun 2026 | 1 News–Verian | LAB + GRN + NZF: 56%</title></circle>
+<circle cx="561.81" cy="226.67" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>5–11 Jun 2026 | The Post/Freshwater Strategy | LAB + GRN + NZF: 57.7%</title></circle>
+<circle cx="559.56" cy="205.00" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–10 Jun 2026 | Talbot Mills | LAB + GRN + NZF: 59%</title></circle>
+<circle cx="555.07" cy="270.00" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>4–8 Jun 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + NZF: 55.1%</title></circle>
+<circle cx="521.37" cy="355.00" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>27 Apr – 24 May 2026 | Roy Morgan | LAB + GRN + NZF: 50%</title></circle>
+<circle cx="489.92" cy="205.00" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–10 May 2026 | Talbot Mills | LAB + GRN + NZF: 59%</title></circle>
+<circle cx="483.18" cy="300.00" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>3–7 May 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + NZF: 53.3%</title></circle>
+<circle cx="458.47" cy="246.67" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>30 Mar – 26 Apr 2026 | Roy Morgan | LAB + GRN + NZF: 56.5%</title></circle>
+<circle cx="436.00" cy="221.67" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>16 Apr 2026 | Talbot Mills | LAB + GRN + NZF: 58%</title></circle>
+<circle cx="433.75" cy="221.67" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>11–15 Apr 2026 | 1 News–Verian | LAB + GRN + NZF: 58%</title></circle>
+<circle cx="404.55" cy="275.00" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–2 Apr 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + NZF: 54.8%</title></circle>
+<circle cx="379.84" cy="255.00" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>23 Feb – 22 Mar 2026 | Roy Morgan | LAB + GRN + NZF: 56%</title></circle>
+<circle cx="375.34" cy="250.00" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>12–20 Mar 2026 | RNZ–Reid Research | LAB + GRN + NZF: 56.3%</title></circle>
+<circle cx="357.37" cy="238.33" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>2–12 Mar 2026 | Talbot Mills | LAB + GRN + NZF: 57%</title></circle>
+<circle cx="337.15" cy="278.33" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–3 Mar 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + NZF: 54.6%</title></circle>
+<circle cx="316.93" cy="288.33" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>27 Jan – 22 Feb 2026 | Roy Morgan | LAB + GRN + NZF: 54%</title></circle>
+<circle cx="294.47" cy="220.00" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>6–12 Feb 2026 | The Post/Freshwater Strategy | LAB + GRN + NZF: 58.1%</title></circle>
+<circle cx="292.22" cy="305.00" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>7–11 Feb 2026 | 1 News–Verian | LAB + GRN + NZF: 53%</title></circle>
+<circle cx="274.25" cy="273.33" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–3 Feb 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + NZF: 54.9%</title></circle>
+<circle cx="256.27" cy="355.00" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>6–26 Jan 2026 | Roy Morgan | LAB + GRN + NZF: 50%</title></circle>
+<circle cx="256.27" cy="288.33" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>16–26 Jan 2026 | Talbot Mills | LAB + GRN + NZF: 54%</title></circle>
+<circle cx="247.29" cy="281.67" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>15–22 Jan 2026 | RNZ–Reid Research | LAB + GRN + NZF: 54.4%</title></circle>
+<circle cx="238.30" cy="288.33" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>14–18 Jan 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + NZF: 54%</title></circle>
+<circle cx="175.40" cy="280.00" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>25 Nov – 21 Dec 2025 | Roy Morgan | LAB + GRN + NZF: 54.5%</title></circle>
+<circle cx="150.68" cy="256.67" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>5–10 Dec 2025 | The Post/Freshwater Strategy | LAB + GRN + NZF: 55.9%</title></circle>
+<circle cx="143.95" cy="346.67" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>3–7 Dec 2025 | Taxpayers&#x27; Union–Curia | LAB + GRN + NZF: 50.5%</title></circle>
+<circle cx="134.96" cy="338.33" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>29 Nov – 3 Dec 2025 | 1 News–Verian | LAB + GRN + NZF: 51%</title></circle>
+<circle cx="112.49" cy="330.00" r="2.1" fill="#009E73" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>27 Oct – 23 Nov 2025 | Roy Morgan | LAB + GRN + NZF: 51.5%</title></circle>
+<circle cx="869.59" cy="151.67" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>20–26 Oct 2026 | RNZ–Reid Research | LAB + GRN + OPP + NZF: 62.2%</title></circle>
+<circle cx="867.34" cy="215.00" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>21–25 Oct 2026 | 1 News–Verian | LAB + GRN + OPP + NZF: 58.4%</title></circle>
+<circle cx="853.86" cy="221.67" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>15–19 Oct 2026 | 1 News–Verian | LAB + GRN + OPP + NZF: 58%</title></circle>
+<circle cx="853.86" cy="185.00" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>9–19 Oct 2026 | The Post/Freshwater Strategy | LAB + GRN + OPP + NZF: 60.2%</title></circle>
+<circle cx="838.14" cy="171.67" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>8–12 Oct 2026 | 1 News–Verian | LAB + GRN + OPP + NZF: 61%</title></circle>
+<circle cx="833.64" cy="198.33" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>6–10 Oct 2026 | Anacta | LAB + GRN + OPP + NZF: 59.4%</title></circle>
+<circle cx="822.41" cy="216.67" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–5 Oct 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + OPP + NZF: 58.3%</title></circle>
+<circle cx="822.41" cy="171.67" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–5 Oct 2026 | 1 News–Verian | LAB + GRN + OPP + NZF: 61%</title></circle>
+<circle cx="813.42" cy="160.00" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>24 Sep – 1 Oct 2026 | RNZ–Reid Research | LAB + GRN + OPP + NZF: 61.7%</title></circle>
+<circle cx="804.44" cy="205.00" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>23–27 Sep 2026 | 1 News–Verian | LAB + GRN + OPP + NZF: 59%</title></circle>
+<circle cx="804.44" cy="255.00" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>31 Aug – 27 Sep 2026 | Roy Morgan | LAB + GRN + OPP + NZF: 56%</title></circle>
+<circle cx="768.49" cy="180.00" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>4–11 Sep 2026 | The Post/Freshwater Strategy | LAB + GRN + OPP + NZF: 60.5%</title></circle>
+<circle cx="766.25" cy="188.33" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>4–10 Sep 2026 | Anacta | LAB + GRN + OPP + NZF: 60%</title></circle>
+<circle cx="750.52" cy="310.00" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–3 Sep 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + OPP + NZF: 52.7%</title></circle>
+<circle cx="725.81" cy="246.67" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>27 Jul – 23 Aug 2026 | Roy Morgan | LAB + GRN + OPP + NZF: 56.5%</title></circle>
+<circle cx="721.32" cy="195.00" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>14–21 Aug 2026 | RNZ–Reid Research | LAB + GRN + OPP + NZF: 59.6%</title></circle>
+<circle cx="701.10" cy="221.67" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>8–11 Aug 2026 | 1 News–Verian | LAB + GRN + OPP + NZF: 58%</title></circle>
+<circle cx="698.85" cy="185.00" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–11 Aug 2026 | Talbot Mills | LAB + GRN + OPP + NZF: 60.2%</title></circle>
+<circle cx="683.12" cy="303.33" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–4 Aug 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + OPP + NZF: 53.1%</title></circle>
+<circle cx="662.90" cy="263.33" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>29 Jun – 26 Jul 2026 | Roy Morgan | LAB + GRN + OPP + NZF: 55.5%</title></circle>
+<circle cx="647.18" cy="210.00" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>10–19 Jul 2026 | Talbot Mills | LAB + GRN + OPP + NZF: 58.7%</title></circle>
+<circle cx="624.71" cy="180.00" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>2–9 Jul 2026 | RNZ–Reid Research | LAB + GRN + OPP + NZF: 60.5%</title></circle>
+<circle cx="615.73" cy="255.00" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–5 Jul 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + OPP + NZF: 56%</title></circle>
+<circle cx="584.27" cy="255.00" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>25 May – 21 Jun 2026 | Roy Morgan | LAB + GRN + OPP + NZF: 56%</title></circle>
+<circle cx="575.29" cy="178.33" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>13–17 Jun 2026 | 1 News–Verian | LAB + GRN + OPP + NZF: 60.6%</title></circle>
+<circle cx="559.56" cy="150.00" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–10 Jun 2026 | Talbot Mills | LAB + GRN + OPP + NZF: 62.3%</title></circle>
+<circle cx="555.07" cy="216.67" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>4–8 Jun 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + OPP + NZF: 58.3%</title></circle>
+<circle cx="521.37" cy="255.00" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>27 Apr – 24 May 2026 | Roy Morgan | LAB + GRN + OPP + NZF: 56%</title></circle>
+<circle cx="483.18" cy="253.33" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>3–7 May 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + OPP + NZF: 56.1%</title></circle>
+<circle cx="458.47" cy="180.00" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>30 Mar – 26 Apr 2026 | Roy Morgan | LAB + GRN + OPP + NZF: 60.5%</title></circle>
+<circle cx="436.00" cy="183.33" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>16 Apr 2026 | Talbot Mills | LAB + GRN + OPP + NZF: 60.3%</title></circle>
+<circle cx="433.75" cy="166.67" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>11–15 Apr 2026 | 1 News–Verian | LAB + GRN + OPP + NZF: 61.3%</title></circle>
+<circle cx="404.55" cy="231.67" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–2 Apr 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + OPP + NZF: 57.4%</title></circle>
+<circle cx="379.84" cy="188.33" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>23 Feb – 22 Mar 2026 | Roy Morgan | LAB + GRN + OPP + NZF: 60%</title></circle>
+<circle cx="375.34" cy="216.67" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>12–20 Mar 2026 | RNZ–Reid Research | LAB + GRN + OPP + NZF: 58.3%</title></circle>
+<circle cx="357.37" cy="198.33" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>2–12 Mar 2026 | Talbot Mills | LAB + GRN + OPP + NZF: 59.4%</title></circle>
+<circle cx="337.15" cy="246.67" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–3 Mar 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + OPP + NZF: 56.5%</title></circle>
+<circle cx="316.93" cy="221.67" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>27 Jan – 22 Feb 2026 | Roy Morgan | LAB + GRN + OPP + NZF: 58%</title></circle>
+<circle cx="292.22" cy="288.33" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>7–11 Feb 2026 | 1 News–Verian | LAB + GRN + OPP + NZF: 54%</title></circle>
+<circle cx="274.25" cy="250.00" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–3 Feb 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + OPP + NZF: 56.3%</title></circle>
+<circle cx="256.27" cy="313.33" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>6–26 Jan 2026 | Roy Morgan | LAB + GRN + OPP + NZF: 52.5%</title></circle>
+<circle cx="247.29" cy="243.33" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>15–22 Jan 2026 | RNZ–Reid Research | LAB + GRN + OPP + NZF: 56.7%</title></circle>
+<circle cx="238.30" cy="276.67" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>14–18 Jan 2026 | Taxpayers&#x27; Union–Curia | LAB + GRN + OPP + NZF: 54.7%</title></circle>
+<circle cx="175.40" cy="238.33" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>25 Nov – 21 Dec 2025 | Roy Morgan | LAB + GRN + OPP + NZF: 57%</title></circle>
+<circle cx="143.95" cy="320.00" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>3–7 Dec 2025 | Taxpayers&#x27; Union–Curia | LAB + GRN + OPP + NZF: 52.1%</title></circle>
+<circle cx="134.96" cy="331.67" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>29 Nov – 3 Dec 2025 | 1 News–Verian | LAB + GRN + OPP + NZF: 51.4%</title></circle>
+<circle cx="112.49" cy="288.33" r="2.1" fill="#D55E00" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>27 Oct – 23 Nov 2025 | Roy Morgan | LAB + GRN + OPP + NZF: 54%</title></circle>
+<circle cx="869.59" cy="441.67" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>20–26 Oct 2026 | RNZ–Reid Research | NAT + ACT + NZF: 44.8%</title></circle>
+<circle cx="867.34" cy="333.33" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>21–25 Oct 2026 | 1 News–Verian | NAT + ACT + NZF: 51.3%</title></circle>
+<circle cx="853.86" cy="338.33" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>15–19 Oct 2026 | 1 News–Verian | NAT + ACT + NZF: 51%</title></circle>
+<circle cx="853.86" cy="381.67" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>9–19 Oct 2026 | The Post/Freshwater Strategy | NAT + ACT + NZF: 48.4%</title></circle>
+<circle cx="838.14" cy="388.33" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>8–12 Oct 2026 | 1 News–Verian | NAT + ACT + NZF: 48%</title></circle>
+<circle cx="833.64" cy="405.00" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>6–10 Oct 2026 | Anacta | NAT + ACT + NZF: 47%</title></circle>
+<circle cx="822.41" cy="360.00" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–5 Oct 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + NZF: 49.7%</title></circle>
+<circle cx="822.41" cy="388.33" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–5 Oct 2026 | 1 News–Verian | NAT + ACT + NZF: 48%</title></circle>
+<circle cx="813.42" cy="430.00" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>24 Sep – 1 Oct 2026 | RNZ–Reid Research | NAT + ACT + NZF: 45.5%</title></circle>
+<circle cx="804.44" cy="388.33" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>23–27 Sep 2026 | 1 News–Verian | NAT + ACT + NZF: 48%</title></circle>
+<circle cx="804.44" cy="321.67" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>31 Aug – 27 Sep 2026 | Roy Morgan | NAT + ACT + NZF: 52%</title></circle>
+<circle cx="768.49" cy="391.67" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>4–11 Sep 2026 | The Post/Freshwater Strategy | NAT + ACT + NZF: 47.8%</title></circle>
+<circle cx="766.25" cy="388.33" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>4–10 Sep 2026 | Anacta | NAT + ACT + NZF: 48%</title></circle>
+<circle cx="750.52" cy="390.00" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–3 Sep 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + NZF: 47.9%</title></circle>
+<circle cx="725.81" cy="371.67" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>27 Jul – 23 Aug 2026 | Roy Morgan | NAT + ACT + NZF: 49%</title></circle>
+<circle cx="721.32" cy="376.67" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>14–21 Aug 2026 | RNZ–Reid Research | NAT + ACT + NZF: 48.7%</title></circle>
+<circle cx="701.10" cy="421.67" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>8–11 Aug 2026 | 1 News–Verian | NAT + ACT + NZF: 46%</title></circle>
+<circle cx="698.85" cy="371.67" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–11 Aug 2026 | Talbot Mills | NAT + ACT + NZF: 49%</title></circle>
+<circle cx="683.12" cy="398.33" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–4 Aug 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + NZF: 47.4%</title></circle>
+<circle cx="662.90" cy="371.67" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>29 Jun – 26 Jul 2026 | Roy Morgan | NAT + ACT + NZF: 49%</title></circle>
+<circle cx="647.18" cy="355.00" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>10–19 Jul 2026 | Talbot Mills | NAT + ACT + NZF: 50%</title></circle>
+<circle cx="624.71" cy="388.33" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>2–9 Jul 2026 | RNZ–Reid Research | NAT + ACT + NZF: 48%</title></circle>
+<circle cx="615.73" cy="385.00" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–5 Jul 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + NZF: 48.2%</title></circle>
+<circle cx="584.27" cy="338.33" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>25 May – 21 Jun 2026 | Roy Morgan | NAT + ACT + NZF: 51%</title></circle>
+<circle cx="575.29" cy="421.67" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>13–17 Jun 2026 | 1 News–Verian | NAT + ACT + NZF: 46%</title></circle>
+<circle cx="561.81" cy="371.67" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>5–11 Jun 2026 | The Post/Freshwater Strategy | NAT + ACT + NZF: 49%</title></circle>
+<circle cx="559.56" cy="405.00" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–10 Jun 2026 | Talbot Mills | NAT + ACT + NZF: 47%</title></circle>
+<circle cx="555.07" cy="366.67" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>4–8 Jun 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + NZF: 49.3%</title></circle>
+<circle cx="521.37" cy="330.00" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>27 Apr – 24 May 2026 | Roy Morgan | NAT + ACT + NZF: 51.5%</title></circle>
+<circle cx="489.92" cy="355.00" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–10 May 2026 | Talbot Mills | NAT + ACT + NZF: 50%</title></circle>
+<circle cx="483.18" cy="385.00" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>3–7 May 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + NZF: 48.2%</title></circle>
+<circle cx="458.47" cy="396.67" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>30 Mar – 26 Apr 2026 | Roy Morgan | NAT + ACT + NZF: 47.5%</title></circle>
+<circle cx="436.00" cy="321.67" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>16 Apr 2026 | Talbot Mills | NAT + ACT + NZF: 52%</title></circle>
+<circle cx="433.75" cy="405.00" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>11–15 Apr 2026 | 1 News–Verian | NAT + ACT + NZF: 47%</title></circle>
+<circle cx="404.55" cy="315.00" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–2 Apr 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + NZF: 52.4%</title></circle>
+<circle cx="379.84" cy="396.67" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>23 Feb – 22 Mar 2026 | Roy Morgan | NAT + ACT + NZF: 47.5%</title></circle>
+<circle cx="375.34" cy="381.67" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>12–20 Mar 2026 | RNZ–Reid Research | NAT + ACT + NZF: 48.4%</title></circle>
+<circle cx="357.37" cy="355.00" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>2–12 Mar 2026 | Talbot Mills | NAT + ACT + NZF: 50%</title></circle>
+<circle cx="337.15" cy="428.33" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–3 Mar 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + NZF: 45.6%</title></circle>
+<circle cx="316.93" cy="380.00" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>27 Jan – 22 Feb 2026 | Roy Morgan | NAT + ACT + NZF: 48.5%</title></circle>
+<circle cx="294.47" cy="406.67" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>6–12 Feb 2026 | The Post/Freshwater Strategy | NAT + ACT + NZF: 46.9%</title></circle>
+<circle cx="292.22" cy="305.00" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>7–11 Feb 2026 | 1 News–Verian | NAT + ACT + NZF: 53%</title></circle>
+<circle cx="274.25" cy="380.00" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–3 Feb 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + NZF: 48.5%</title></circle>
+<circle cx="256.27" cy="321.67" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>6–26 Jan 2026 | Roy Morgan | NAT + ACT + NZF: 52%</title></circle>
+<circle cx="256.27" cy="388.33" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>16–26 Jan 2026 | Talbot Mills | NAT + ACT + NZF: 48%</title></circle>
+<circle cx="247.29" cy="366.67" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>15–22 Jan 2026 | RNZ–Reid Research | NAT + ACT + NZF: 49.3%</title></circle>
+<circle cx="238.30" cy="348.33" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>14–18 Jan 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + NZF: 50.4%</title></circle>
+<circle cx="175.40" cy="346.67" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>25 Nov – 21 Dec 2025 | Roy Morgan | NAT + ACT + NZF: 50.5%</title></circle>
+<circle cx="150.68" cy="408.33" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>5–10 Dec 2025 | The Post/Freshwater Strategy | NAT + ACT + NZF: 46.8%</title></circle>
+<circle cx="143.95" cy="405.00" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>3–7 Dec 2025 | Taxpayers&#x27; Union–Curia | NAT + ACT + NZF: 47%</title></circle>
+<circle cx="134.96" cy="271.67" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>29 Nov – 3 Dec 2025 | 1 News–Verian | NAT + ACT + NZF: 55%</title></circle>
+<circle cx="112.49" cy="355.00" r="2.1" fill="#56B4E9" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>27 Oct – 23 Nov 2025 | Roy Morgan | NAT + ACT + NZF: 50%</title></circle>
+<circle cx="869.59" cy="486.67" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>20–26 Oct 2026 | RNZ–Reid Research | NAT + ACT + OPP: 42.1%</title></circle>
+<circle cx="867.34" cy="395.00" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>21–25 Oct 2026 | 1 News–Verian | NAT + ACT + OPP: 47.6%</title></circle>
+<circle cx="853.86" cy="355.00" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>15–19 Oct 2026 | 1 News–Verian | NAT + ACT + OPP: 50%</title></circle>
+<circle cx="853.86" cy="488.33" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>9–19 Oct 2026 | The Post/Freshwater Strategy | NAT + ACT + OPP: 42%</title></circle>
+<circle cx="838.14" cy="421.67" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>8–12 Oct 2026 | 1 News–Verian | NAT + ACT + OPP: 46%</title></circle>
+<circle cx="833.64" cy="481.67" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>6–10 Oct 2026 | Anacta | NAT + ACT + OPP: 42.4%</title></circle>
+<circle cx="822.41" cy="480.00" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–5 Oct 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + OPP: 42.5%</title></circle>
+<circle cx="822.41" cy="438.33" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–5 Oct 2026 | 1 News–Verian | NAT + ACT + OPP: 45%</title></circle>
+<circle cx="813.42" cy="515.00" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>24 Sep – 1 Oct 2026 | RNZ–Reid Research | NAT + ACT + OPP: 40.4%</title></circle>
+<circle cx="804.44" cy="438.33" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>23–27 Sep 2026 | 1 News–Verian | NAT + ACT + OPP: 45%</title></circle>
+<circle cx="804.44" cy="380.00" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>31 Aug – 27 Sep 2026 | Roy Morgan | NAT + ACT + OPP: 48.5%</title></circle>
+<circle cx="768.49" cy="496.67" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>4–11 Sep 2026 | The Post/Freshwater Strategy | NAT + ACT + OPP: 41.5%</title></circle>
+<circle cx="766.25" cy="438.33" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>4–10 Sep 2026 | Anacta | NAT + ACT + OPP: 45%</title></circle>
+<circle cx="750.52" cy="455.00" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–3 Sep 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + OPP: 44%</title></circle>
+<circle cx="725.81" cy="338.33" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>27 Jul – 23 Aug 2026 | Roy Morgan | NAT + ACT + OPP: 51%</title></circle>
+<circle cx="721.32" cy="486.67" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>14–21 Aug 2026 | RNZ–Reid Research | NAT + ACT + OPP: 42.1%</title></circle>
+<circle cx="701.10" cy="421.67" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>8–11 Aug 2026 | 1 News–Verian | NAT + ACT + OPP: 46%</title></circle>
+<circle cx="698.85" cy="501.67" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–11 Aug 2026 | Talbot Mills | NAT + ACT + OPP: 41.2%</title></circle>
+<circle cx="683.12" cy="448.33" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–4 Aug 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + OPP: 44.4%</title></circle>
+<circle cx="662.90" cy="380.00" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>29 Jun – 26 Jul 2026 | Roy Morgan | NAT + ACT + OPP: 48.5%</title></circle>
+<circle cx="647.18" cy="476.67" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>10–19 Jul 2026 | Talbot Mills | NAT + ACT + OPP: 42.7%</title></circle>
+<circle cx="624.71" cy="501.67" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>2–9 Jul 2026 | RNZ–Reid Research | NAT + ACT + OPP: 41.2%</title></circle>
+<circle cx="615.73" cy="510.00" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–5 Jul 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + OPP: 40.7%</title></circle>
+<circle cx="584.27" cy="405.00" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>25 May – 21 Jun 2026 | Roy Morgan | NAT + ACT + OPP: 47%</title></circle>
+<circle cx="575.29" cy="528.33" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>13–17 Jun 2026 | 1 News–Verian | NAT + ACT + OPP: 39.6%</title></circle>
+<circle cx="559.56" cy="550.00" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–10 Jun 2026 | Talbot Mills | NAT + ACT + OPP: 38.3%</title></circle>
+<circle cx="555.07" cy="503.33" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>4–8 Jun 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + OPP: 41.1%</title></circle>
+<circle cx="521.37" cy="413.33" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>27 Apr – 24 May 2026 | Roy Morgan | NAT + ACT + OPP: 46.5%</title></circle>
+<circle cx="483.18" cy="533.33" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>3–7 May 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + OPP: 39.3%</title></circle>
+<circle cx="458.47" cy="521.67" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>30 Mar – 26 Apr 2026 | Roy Morgan | NAT + ACT + OPP: 40%</title></circle>
+<circle cx="436.00" cy="533.33" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>16 Apr 2026 | Talbot Mills | NAT + ACT + OPP: 39.3%</title></circle>
+<circle cx="433.75" cy="516.67" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>11–15 Apr 2026 | 1 News–Verian | NAT + ACT + OPP: 40.3%</title></circle>
+<circle cx="404.55" cy="498.33" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–2 Apr 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + OPP: 41.4%</title></circle>
+<circle cx="379.84" cy="513.33" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>23 Feb – 22 Mar 2026 | Roy Morgan | NAT + ACT + OPP: 40.5%</title></circle>
+<circle cx="375.34" cy="525.00" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>12–20 Mar 2026 | RNZ–Reid Research | NAT + ACT + OPP: 39.8%</title></circle>
+<circle cx="357.37" cy="498.33" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>2–12 Mar 2026 | Talbot Mills | NAT + ACT + OPP: 41.4%</title></circle>
+<circle cx="337.15" cy="558.33" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–3 Mar 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + OPP: 37.8%</title></circle>
+<circle cx="316.93" cy="471.67" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>27 Jan – 22 Feb 2026 | Roy Morgan | NAT + ACT + OPP: 43%</title></circle>
+<circle cx="292.22" cy="455.00" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>7–11 Feb 2026 | 1 News–Verian | NAT + ACT + OPP: 44%</title></circle>
+<circle cx="274.25" cy="531.67" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–3 Feb 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + OPP: 39.4%</title></circle>
+<circle cx="256.27" cy="430.00" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>6–26 Jan 2026 | Roy Morgan | NAT + ACT + OPP: 45.5%</title></circle>
+<circle cx="247.29" cy="491.67" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>15–22 Jan 2026 | RNZ–Reid Research | NAT + ACT + OPP: 41.8%</title></circle>
+<circle cx="238.30" cy="535.00" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>14–18 Jan 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + OPP: 39.2%</title></circle>
+<circle cx="175.40" cy="471.67" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>25 Nov – 21 Dec 2025 | Roy Morgan | NAT + ACT + OPP: 43%</title></circle>
+<circle cx="143.95" cy="513.33" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>3–7 Dec 2025 | Taxpayers&#x27; Union–Curia | NAT + ACT + OPP: 40.5%</title></circle>
+<circle cx="134.96" cy="415.00" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>29 Nov – 3 Dec 2025 | 1 News–Verian | NAT + ACT + OPP: 46.4%</title></circle>
+<circle cx="112.49" cy="463.33" r="2.1" fill="#CC79A7" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>27 Oct – 23 Nov 2025 | Roy Morgan | NAT + ACT + OPP: 43.5%</title></circle>
+<circle cx="869.59" cy="490.00" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>20–26 Oct 2026 | RNZ–Reid Research | NAT + NZF + OPP: 41.9%</title></circle>
+<circle cx="867.34" cy="435.00" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>21–25 Oct 2026 | 1 News–Verian | NAT + NZF + OPP: 45.2%</title></circle>
+<circle cx="853.86" cy="405.00" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>15–19 Oct 2026 | 1 News–Verian | NAT + NZF + OPP: 47%</title></circle>
+<circle cx="853.86" cy="441.67" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>9–19 Oct 2026 | The Post/Freshwater Strategy | NAT + NZF + OPP: 44.8%</title></circle>
+<circle cx="838.14" cy="421.67" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>8–12 Oct 2026 | 1 News–Verian | NAT + NZF + OPP: 46%</title></circle>
+<circle cx="833.64" cy="465.00" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>6–10 Oct 2026 | Anacta | NAT + NZF + OPP: 43.4%</title></circle>
+<circle cx="822.41" cy="433.33" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–5 Oct 2026 | Taxpayers&#x27; Union–Curia | NAT + NZF + OPP: 45.3%</title></circle>
+<circle cx="822.41" cy="421.67" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–5 Oct 2026 | 1 News–Verian | NAT + NZF + OPP: 46%</title></circle>
+<circle cx="813.42" cy="488.33" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>24 Sep – 1 Oct 2026 | RNZ–Reid Research | NAT + NZF + OPP: 42%</title></circle>
+<circle cx="804.44" cy="471.67" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>23–27 Sep 2026 | 1 News–Verian | NAT + NZF + OPP: 43%</title></circle>
+<circle cx="804.44" cy="396.67" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>31 Aug – 27 Sep 2026 | Roy Morgan | NAT + NZF + OPP: 47.5%</title></circle>
+<circle cx="768.49" cy="431.67" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>4–11 Sep 2026 | The Post/Freshwater Strategy | NAT + NZF + OPP: 45.4%</title></circle>
+<circle cx="766.25" cy="405.00" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>4–10 Sep 2026 | Anacta | NAT + NZF + OPP: 47%</title></circle>
+<circle cx="750.52" cy="490.00" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–3 Sep 2026 | Taxpayers&#x27; Union–Curia | NAT + NZF + OPP: 41.9%</title></circle>
+<circle cx="725.81" cy="388.33" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>27 Jul – 23 Aug 2026 | Roy Morgan | NAT + NZF + OPP: 48%</title></circle>
+<circle cx="721.32" cy="416.67" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>14–21 Aug 2026 | RNZ–Reid Research | NAT + NZF + OPP: 46.3%</title></circle>
+<circle cx="701.10" cy="438.33" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>8–11 Aug 2026 | 1 News–Verian | NAT + NZF + OPP: 45%</title></circle>
+<circle cx="698.85" cy="401.67" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–11 Aug 2026 | Talbot Mills | NAT + NZF + OPP: 47.2%</title></circle>
+<circle cx="683.12" cy="418.33" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–4 Aug 2026 | Taxpayers&#x27; Union–Curia | NAT + NZF + OPP: 46.2%</title></circle>
+<circle cx="662.90" cy="380.00" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>29 Jun – 26 Jul 2026 | Roy Morgan | NAT + NZF + OPP: 48.5%</title></circle>
+<circle cx="647.18" cy="393.33" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>10–19 Jul 2026 | Talbot Mills | NAT + NZF + OPP: 47.7%</title></circle>
+<circle cx="624.71" cy="440.00" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>2–9 Jul 2026 | RNZ–Reid Research | NAT + NZF + OPP: 44.9%</title></circle>
+<circle cx="615.73" cy="445.00" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–5 Jul 2026 | Taxpayers&#x27; Union–Curia | NAT + NZF + OPP: 44.6%</title></circle>
+<circle cx="584.27" cy="388.33" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>25 May – 21 Jun 2026 | Roy Morgan | NAT + NZF + OPP: 48%</title></circle>
+<circle cx="575.29" cy="445.00" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>13–17 Jun 2026 | 1 News–Verian | NAT + NZF + OPP: 44.6%</title></circle>
+<circle cx="559.56" cy="450.00" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–10 Jun 2026 | Talbot Mills | NAT + NZF + OPP: 44.3%</title></circle>
+<circle cx="555.07" cy="443.33" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>4–8 Jun 2026 | Taxpayers&#x27; Union–Curia | NAT + NZF + OPP: 44.7%</title></circle>
+<circle cx="521.37" cy="396.67" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>27 Apr – 24 May 2026 | Roy Morgan | NAT + NZF + OPP: 47.5%</title></circle>
+<circle cx="483.18" cy="446.67" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>3–7 May 2026 | Taxpayers&#x27; Union–Curia | NAT + NZF + OPP: 44.5%</title></circle>
+<circle cx="458.47" cy="505.00" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>30 Mar – 26 Apr 2026 | Roy Morgan | NAT + NZF + OPP: 41%</title></circle>
+<circle cx="436.00" cy="416.67" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>16 Apr 2026 | Talbot Mills | NAT + NZF + OPP: 46.3%</title></circle>
+<circle cx="433.75" cy="466.67" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>11–15 Apr 2026 | 1 News–Verian | NAT + NZF + OPP: 43.3%</title></circle>
+<circle cx="404.55" cy="421.67" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–2 Apr 2026 | Taxpayers&#x27; Union–Curia | NAT + NZF + OPP: 46%</title></circle>
+<circle cx="379.84" cy="496.67" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>23 Feb – 22 Mar 2026 | Roy Morgan | NAT + NZF + OPP: 41.5%</title></circle>
+<circle cx="375.34" cy="465.00" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>12–20 Mar 2026 | RNZ–Reid Research | NAT + NZF + OPP: 43.4%</title></circle>
+<circle cx="357.37" cy="431.67" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>2–12 Mar 2026 | Talbot Mills | NAT + NZF + OPP: 45.4%</title></circle>
+<circle cx="337.15" cy="521.67" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–3 Mar 2026 | Taxpayers&#x27; Union–Curia | NAT + NZF + OPP: 40%</title></circle>
+<circle cx="316.93" cy="446.67" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>27 Jan – 22 Feb 2026 | Roy Morgan | NAT + NZF + OPP: 44.5%</title></circle>
+<circle cx="292.22" cy="438.33" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>7–11 Feb 2026 | 1 News–Verian | NAT + NZF + OPP: 45%</title></circle>
+<circle cx="274.25" cy="468.33" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–3 Feb 2026 | Taxpayers&#x27; Union–Curia | NAT + NZF + OPP: 43.2%</title></circle>
+<circle cx="256.27" cy="421.67" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>6–26 Jan 2026 | Roy Morgan | NAT + NZF + OPP: 46%</title></circle>
+<circle cx="247.29" cy="455.00" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>15–22 Jan 2026 | RNZ–Reid Research | NAT + NZF + OPP: 44%</title></circle>
+<circle cx="238.30" cy="453.33" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>14–18 Jan 2026 | Taxpayers&#x27; Union–Curia | NAT + NZF + OPP: 44.1%</title></circle>
+<circle cx="175.40" cy="430.00" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>25 Nov – 21 Dec 2025 | Roy Morgan | NAT + NZF + OPP: 45.5%</title></circle>
+<circle cx="143.95" cy="526.67" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>3–7 Dec 2025 | Taxpayers&#x27; Union–Curia | NAT + NZF + OPP: 39.7%</title></circle>
+<circle cx="134.96" cy="431.67" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>29 Nov – 3 Dec 2025 | 1 News–Verian | NAT + NZF + OPP: 45.4%</title></circle>
+<circle cx="112.49" cy="446.67" r="2.1" fill="#4D4D4D" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>27 Oct – 23 Nov 2025 | Roy Morgan | NAT + NZF + OPP: 44.5%</title></circle>
+<circle cx="869.59" cy="321.67" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>20–26 Oct 2026 | RNZ–Reid Research | NAT + ACT + NZF + OPP: 52%</title></circle>
+<circle cx="867.34" cy="228.33" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>21–25 Oct 2026 | 1 News–Verian | NAT + ACT + NZF + OPP: 57.6%</title></circle>
+<circle cx="853.86" cy="221.67" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>15–19 Oct 2026 | 1 News–Verian | NAT + ACT + NZF + OPP: 58%</title></circle>
+<circle cx="853.86" cy="291.67" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>9–19 Oct 2026 | The Post/Freshwater Strategy | NAT + ACT + NZF + OPP: 53.8%</title></circle>
+<circle cx="838.14" cy="255.00" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>8–12 Oct 2026 | 1 News–Verian | NAT + ACT + NZF + OPP: 56%</title></circle>
+<circle cx="833.64" cy="315.00" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>6–10 Oct 2026 | Anacta | NAT + ACT + NZF + OPP: 52.4%</title></circle>
+<circle cx="822.41" cy="280.00" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–5 Oct 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + NZF + OPP: 54.5%</title></circle>
+<circle cx="822.41" cy="271.67" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–5 Oct 2026 | 1 News–Verian | NAT + ACT + NZF + OPP: 55%</title></circle>
+<circle cx="813.42" cy="338.33" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>24 Sep – 1 Oct 2026 | RNZ–Reid Research | NAT + ACT + NZF + OPP: 51%</title></circle>
+<circle cx="804.44" cy="288.33" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>23–27 Sep 2026 | 1 News–Verian | NAT + ACT + NZF + OPP: 54%</title></circle>
+<circle cx="804.44" cy="213.33" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>31 Aug – 27 Sep 2026 | Roy Morgan | NAT + ACT + NZF + OPP: 58.5%</title></circle>
+<circle cx="768.49" cy="286.67" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>4–11 Sep 2026 | The Post/Freshwater Strategy | NAT + ACT + NZF + OPP: 54.1%</title></circle>
+<circle cx="766.25" cy="271.67" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>4–10 Sep 2026 | Anacta | NAT + ACT + NZF + OPP: 55%</title></circle>
+<circle cx="750.52" cy="315.00" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–3 Sep 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + NZF + OPP: 52.4%</title></circle>
+<circle cx="725.81" cy="213.33" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>27 Jul – 23 Aug 2026 | Roy Morgan | NAT + ACT + NZF + OPP: 58.5%</title></circle>
+<circle cx="721.32" cy="288.33" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>14–21 Aug 2026 | RNZ–Reid Research | NAT + ACT + NZF + OPP: 54%</title></circle>
+<circle cx="701.10" cy="288.33" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>8–11 Aug 2026 | 1 News–Verian | NAT + ACT + NZF + OPP: 54%</title></circle>
+<circle cx="698.85" cy="285.00" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–11 Aug 2026 | Talbot Mills | NAT + ACT + NZF + OPP: 54.2%</title></circle>
+<circle cx="683.12" cy="296.67" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–4 Aug 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + NZF + OPP: 53.5%</title></circle>
+<circle cx="662.90" cy="238.33" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>29 Jun – 26 Jul 2026 | Roy Morgan | NAT + ACT + NZF + OPP: 57%</title></circle>
+<circle cx="647.18" cy="276.67" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>10–19 Jul 2026 | Talbot Mills | NAT + ACT + NZF + OPP: 54.7%</title></circle>
+<circle cx="624.71" cy="310.00" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>2–9 Jul 2026 | RNZ–Reid Research | NAT + ACT + NZF + OPP: 52.7%</title></circle>
+<circle cx="615.73" cy="330.00" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–5 Jul 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + NZF + OPP: 51.5%</title></circle>
+<circle cx="584.27" cy="230.00" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>25 May – 21 Jun 2026 | Roy Morgan | NAT + ACT + NZF + OPP: 57.5%</title></circle>
+<circle cx="575.29" cy="345.00" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>13–17 Jun 2026 | 1 News–Verian | NAT + ACT + NZF + OPP: 50.6%</title></circle>
+<circle cx="559.56" cy="350.00" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–10 Jun 2026 | Talbot Mills | NAT + ACT + NZF + OPP: 50.3%</title></circle>
+<circle cx="555.07" cy="313.33" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>4–8 Jun 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + NZF + OPP: 52.5%</title></circle>
+<circle cx="521.37" cy="230.00" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>27 Apr – 24 May 2026 | Roy Morgan | NAT + ACT + NZF + OPP: 57.5%</title></circle>
+<circle cx="483.18" cy="338.33" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>3–7 May 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + NZF + OPP: 51%</title></circle>
+<circle cx="458.47" cy="330.00" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>30 Mar – 26 Apr 2026 | Roy Morgan | NAT + ACT + NZF + OPP: 51.5%</title></circle>
+<circle cx="436.00" cy="283.33" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>16 Apr 2026 | Talbot Mills | NAT + ACT + NZF + OPP: 54.3%</title></circle>
+<circle cx="433.75" cy="350.00" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>11–15 Apr 2026 | 1 News–Verian | NAT + ACT + NZF + OPP: 50.3%</title></circle>
+<circle cx="404.55" cy="271.67" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–2 Apr 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + NZF + OPP: 55%</title></circle>
+<circle cx="379.84" cy="330.00" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>23 Feb – 22 Mar 2026 | Roy Morgan | NAT + ACT + NZF + OPP: 51.5%</title></circle>
+<circle cx="375.34" cy="348.33" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>12–20 Mar 2026 | RNZ–Reid Research | NAT + ACT + NZF + OPP: 50.4%</title></circle>
+<circle cx="357.37" cy="315.00" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>2–12 Mar 2026 | Talbot Mills | NAT + ACT + NZF + OPP: 52.4%</title></circle>
+<circle cx="337.15" cy="396.67" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–3 Mar 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + NZF + OPP: 47.5%</title></circle>
+<circle cx="316.93" cy="313.33" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>27 Jan – 22 Feb 2026 | Roy Morgan | NAT + ACT + NZF + OPP: 52.5%</title></circle>
+<circle cx="292.22" cy="288.33" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>7–11 Feb 2026 | 1 News–Verian | NAT + ACT + NZF + OPP: 54%</title></circle>
+<circle cx="274.25" cy="356.67" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>1–3 Feb 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + NZF + OPP: 49.9%</title></circle>
+<circle cx="256.27" cy="280.00" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>6–26 Jan 2026 | Roy Morgan | NAT + ACT + NZF + OPP: 54.5%</title></circle>
+<circle cx="247.29" cy="328.33" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>15–22 Jan 2026 | RNZ–Reid Research | NAT + ACT + NZF + OPP: 51.6%</title></circle>
+<circle cx="238.30" cy="336.67" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>14–18 Jan 2026 | Taxpayers&#x27; Union–Curia | NAT + ACT + NZF + OPP: 51.1%</title></circle>
+<circle cx="175.40" cy="305.00" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>25 Nov – 21 Dec 2025 | Roy Morgan | NAT + ACT + NZF + OPP: 53%</title></circle>
+<circle cx="143.95" cy="378.33" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>3–7 Dec 2025 | Taxpayers&#x27; Union–Curia | NAT + ACT + NZF + OPP: 48.6%</title></circle>
+<circle cx="134.96" cy="265.00" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>29 Nov – 3 Dec 2025 | 1 News–Verian | NAT + ACT + NZF + OPP: 55.4%</title></circle>
+<circle cx="112.49" cy="313.33" r="2.1" fill="#332288" fill-opacity="0.78" stroke="#FFFFFF" stroke-width="0.4"><title>27 Oct – 23 Nov 2025 | Roy Morgan | NAT + ACT + NZF + OPP: 52.5%</title></circle>
 <text x="976" y="109" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#69737C" text-anchor="start" >LATEST OBSERVED POLL</text>
 <circle cx="983" cy="136" r="5" fill="#D55E00"/>
 <text x="998" y="141" font-family="DejaVu Sans, sans-serif" font-size="12" text-anchor="start"><tspan fill="#263238">1. </tspan><tspan fill="#C8102E">LAB</tspan><tspan fill="#263238"> + </tspan><tspan fill="#00843D">GRN</tspan><tspan fill="#263238"> + </tspan><tspan fill="#007F7B">OPP</tspan><tspan fill="#263238"> + </tspan><tspan fill="#6D7075">NZF</tspan></text>
@@ -397,5 +439,5 @@
 <line x1="976" y1="484" x2="992" y2="484" stroke="#C0266B" stroke-width="2" stroke-dasharray="6 5"/>
 <text x="1000" y="489" font-family="DejaVu Sans, sans-serif" font-size="13" fill="#263238" text-anchor="start" >Voting closes</text>
 <text x="1000" y="506" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#69737C" text-anchor="start" >7 Nov, 7 pm</text>
-<text x="108" y="735" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#69737C" text-anchor="start" >Party-vote sums are not seat projections; polls missing a component are omitted.</text>
+<text x="108" y="675" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#69737C" text-anchor="start" >Party-vote sums are not seat projections; polls missing a component are omitted.</text>
 </svg>
